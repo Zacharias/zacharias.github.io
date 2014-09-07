@@ -1,23 +1,31 @@
 ---
 layout: default
 ---
+<div class="row">
+	<div class="col-md-6">
+		<h1>About</h1>
+		<!-- https://www.instapaper.com/archive/rss/2140502/gJarrcxzUUjxTGAE7n0rRoEo4Ho -->
 
-<div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+		<p class="lead"> These are computer typing words</p>
+	</div>
 
-  <ul class="post-list">
+<div class="col-md-6">
+ <h2 class="page-heading">Recent Posts</h2>
+
+
+
+
+  <ul class="post-list list-unstyled">
     {% for post in site.posts %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
         <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        <span class="small">{{ post.date | date: "%b %-d, %Y" }}</span> <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"> {{ post.title }}</a>
         </h2>
       </li>
     {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+  </ul>	</div>
 </div>
+
+
+

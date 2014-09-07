@@ -1,14 +1,14 @@
 # Site settings
 title: Zacharias Stankiewicz
 email: zacharias.stankiewicz@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: Bio - Headphone wearing computer typer # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 twitter_username: zachstankiewicz
 github_username:  zacharias
+google_username: ZachariasStankiewicz
+aboutme_username: zacharias
+linkedin_username: zacharias_stankiewicz
 
 # Build settings
 markdown: kramdown
