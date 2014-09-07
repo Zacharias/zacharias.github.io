@@ -37,8 +37,8 @@
 			titletag: 'p',
 			date: false,
 			dateformat: 'datetime',
-			content: true,
-			snippet: true,
+			content: false,
+			snippet: false,
 			media: false,
 			showerror: true,
 			errormsg: '',
@@ -127,7 +127,7 @@
 		// Add header if required
 		if (options.header)
 			html +=	'<div class="rssHeader">' +
-				'<p>What I\'ve been reading on Instapaper (Archived) <small> <a href="'+feeds.link+'" title="'+ feeds.description +'"><i class="fa fa-rss"></i></small></p></a>' +
+				'<p>My Instapaper: Archived <small> <a href="'+feeds.link+'" title="'+ feeds.description +'"><i class="fa fa-rss"></i></small></p></a>' +
 				'</div>';
 			
 		// Add body
