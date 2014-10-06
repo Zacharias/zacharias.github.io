@@ -86,9 +86,9 @@ categories: WhatisVideoGam
 		<h3 style="margin-bottom:1em;">5. I really like the Environment Design!</h3>
 	</div>
 	<div class="col-lg-8 col-md-12">
-		<p>I didn't remember how steam-magic-punk this game was until my more recent playthrough. The Imperial technology buildings are awesome! Since my frame of reference at the time was Final Fantasy IV (three cool dungeons: Tower of Zot/Babil, Giant of Babil, Lunar Core besides 50 boring caves.), there is a longer history of strictly-not-fantasy-as-a-genre Final Fantasy series when you think about it. My mental model of pre FF7 main series games were pretty much medieval in theme and setting, but even FF1 had the flying fortress, which in the original iteration, was basically a proto Vector.</p>
+		<p>I didn't remember how steam-magic-punk this game was until my more recent playthrough. The Imperial technology buildings are awesome! Since my frame of reference at the time was Final Fantasy IV (three cool dungeons: Tower of Zot/Babil, Giant of Babil, Lunar Core besides 50 boring caves.), there is a longer history of strictly-not-fantasy-as-a-genre Final Fantasy series when you think about it. My mental model of pre FF7 main series games were pretty much medieval in theme and setting, but even FF1 had the Flying Fortress (Warmech's house), which in the original iteration, was basically a proto Vector.</p>
 		<p>A console RPG trope I never understood was the total lack of infrastructure. We have airships but no roads? Romans had roads. FF6 has trains, but no tracks?</p>
-		<p>Oh, and by Mt. Zozo, I'm over going to mountains and Zozo, and Cyan having more side plot than half of the roster combined.</p>
+		<p>Oh, and by Mt. Zozo in the World of Ruin, I'm over going to mountains - and Zozo. Cyan has more side plot than half of the roster combined.</p>
 	</div>
 </div>
 
@@ -100,11 +100,19 @@ categories: WhatisVideoGam
 	<div class="col-md-8">
 		<p>I played through the original FF6 cart, and I also played the final boss on the Super Famicom FF6 cart I had laying around, too (thanks, JPN ebayer who thoughtfully played the entire game through for me!). I've played through this game on Game Boy Advance (for the bonus content at the end), and also on PSX when FF9 wasn't really doing it for me. I have not played the iOS version, mostly because I've been playing FF4 on that platform sporadically. How many more re-releases does Square have for the pre-7 series? Ironically, my favorite version of this game isn't even a real platform: I did a playthrough a few years back on a GameBoy Advance emulator on PSP, and it was the best combination of handiness and graphics for me, personally.</p>
 		<p class='lead text-primary'>Don't sweat what version you play. They're all the same game.</p>
+		<p>
+			<ol>If I had to make a ranking of ports (excluding the new mobile version)
+				<li>Game Boy Advance</li>
+				<li>SNES</li>
+				<li>PSX</li>
+			</ol>
+		The load time on the PSX version is <strong>bad</strong> to the point where I'd take the game-breaking bugs of the SNES version over it.
+		</p>	
 	</div>
 	
 		<div class="col-md-4">
 			<img src="/assets/ff64.png" class="img img-responsive">	
-			<small class="text-center">The typography in FF4 GBA is much better, FWIW</small>
+			<small class="text-center">All the typography in FF6 is demonstrably worse than other Final Fantasy games on the same hardware. <br> The typography in FF4 GBA is much better, for example.</small>
 		</div>
 </div>
 
@@ -112,7 +120,7 @@ categories: WhatisVideoGam
 
 <div class="row" style="margin-top:1em;">
 	<div class="col-md-12">
-		<h3 style="margin-bottom:1em;">In conclusion</h3>
+		<h3 style="margin-bottom:1em;">Finally</h3>
 	</div>
 	<div class="col-md-8">
 		<ul>
@@ -124,7 +132,7 @@ categories: WhatisVideoGam
 		<li>If you had to pick a version, the GBA is my favorite.</li>
 		</ul>
 		
-		<p>I think a lot of appeal of this game over FF4 (and many other of it's contemporaries) is the flexibility you have in both plot and characters. A lot of the not-sterling implementation problems of this game can be traced back to those innovative design decisions, decisions that you'd see come into fuller focus with games like FF10/12. Player-perplexing character saminess and forced party selections remind us of the worst of FF13. I hope that the fact that I'm appreciative of the experience of this game, and it's novel emphasis on theme over character and nonlinerarity in console RPGs, shine through the criticism. 
+		<p>I think a lot of appeal of this game over FF4 (and many other of it's contemporaries) is the flexibility you have in both plot and characters. A lot of the not-sterling implementation problems of this game can be traced back to those innovative design decisions, decisions that you'd see come into fuller focus with games like FF10/12. Player-perplexing character same-i-ness and forced party selections remind us of the worst of FF13. I hope that the fact that I'm appreciative of the experience of this game, and it's novel emphasis on theme over character and nonlinearity in console RPGs, shine through the criticism. 
 		</p>
 		
 		<p style="margin:2em;"><em class="fa fa-heart"></em> Zacharias Stankiewicz</p>
@@ -138,7 +146,7 @@ categories: WhatisVideoGam
 	<div class="col-md-12">
 		<h3 style="margin-bottom:1em;">Postscript</h3>
 	</div>
-	<div class="col-md-6"><p>Due to my youthful and continuous devotion for everything SNES RPG is that I owned a VHS tape of <a href="http://www.unseen64.net/2008/04/04/final-fantasy-64-ff6-cgi-tech-demo/">an amazing tech demo (for what would become FF7 engine)</a> and my mind is still processing the notion of a 3D remake of this title. </p>
+	<div class="col-md-6"><p>Due to my youthful and continuous devotion for everything SNES RPG I was on many (non-digital) mailing lists. Via one of them, I was sent a VHS tape of <a href="http://www.unseen64.net/2008/04/04/final-fantasy-64-ff6-cgi-tech-demo/">an amazing tech demo (for what would become FF7 engine)</a> and my mind is still processing the notion of a 3D remake of this title. </p>
 		<p>I imagine its how younger gamers felt when they saw the FF7 tech demo when the PS3 was introduced.</p>
 			</div>
 	<div class="col-md-6">
