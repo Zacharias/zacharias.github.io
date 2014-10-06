@@ -126,23 +126,39 @@ categories: WhatisVideoGam
 		
 		<p>I think a lot of appeal of this game over FF4 (and many other of it's contemporaries) is the flexibility you have in both plot and characters. A lot of the not-sterling implementation problems of this game can be traced back to those innovative design decisions, decisions that you'd see come into fuller focus with games like FF10/12. Player-perplexing character saminess and forced party selections remind us of the worst of FF13. I hope that the fact that I'm appreciative of the experience of this game, and it's novel emphasis on theme over character and nonlinerarity in console RPGs, shine through the criticism. 
 		</p>
+		
+		<p style="margin:2em;"><em class="fa fa-heart"></em> Zacharias Stankiewicz</p>
+		
+		</div>
+		
+		
+	</div>
+
+<div class="row" style="margin-top:1em; margin-bottom:1em;">
+	<div class="col-md-12">
+		<h3 style="margin-bottom:1em;">Postscript</h3>
+	</div>
+	<div class="col-md-6"><p>Due to my youthful and continuous devotion for everything SNES RPG is that I owned a VHS tape of <a href="http://www.unseen64.net/2008/04/04/final-fantasy-64-ff6-cgi-tech-demo/">an amazing tech demo (for what would become FF7 engine)</a> and my mind is still processing the notion of a 3D remake of this title. </p>
+		<p>I imagine its how younger gamers felt when they saw the FF7 tech demo when the PS3 was introduced.</p>
+			</div>
+	<div class="col-md-6">
+		<p>Due to when this game became popular, there's a lot of proto-web sites out there when you search on game-specific proper nouns:</p>
+			<ul>
+				<li><a href="http://www.fenrir.finalfantasyq.com/ff6/realestate/index.html">South Figaro Real Estate Office</a> - It's even written in-universe!</li>
+				<li><a href="http://www.finalfantasykingdom.net/6snesskill8.php">Gau is worthless</a> </li>				
+				<li><a href="http://finalfantasy.wikia.com/wiki/Final_Fantasy_VI">FF Wikia</a> </li>
+				<li><a href="http://www.cinemablend.com/games/Final-Fantasy-6-Characters-Ranked-By-Greatness-64960-p14.html">FF6 Character Power Rankings</a> - iOS remake art </li>
+				</ul>
 	</div>
 </div>
 
 
-
-
-
 <!--
-### Wrapping it up
-
-* If you haven't played this game, play it.
-* Pick the right characters at the right time.
-* Get used to the Break Blade
-* Don't Vanish/Death Doom Gaze!
-* Hey look, a train, and conveyor belts!
-* If you had to pick a version, the GBA is my favorite.
-
-I think a lot of appeal of this game over FF4 is the flexibility you have in both plot and characters. A lot of the not-sterling implementation problems of this game can be traced back to those innovative design decisions, decisions that you'd see come into fuller focus with games like FF10/12. Player-perplexing character saminess and forced party selections remind us of the worst of FF13. I hope that the fact that I'm appreciative of the experience of this game, and it's novel emphasis on theme over character and nonlinerarity in console RPGs, shine through the criticism. 
+<p>
+	Due to when this game became popular, there's a lot of proto-web sites out there that are great! 
+	<ul>
+		<li><a href="http://www.fenrir.finalfantasyq.com/ff6/realestate/index.html">South Figaro Real Estate Office</a> - It's even written in-universe!</li>
+		</ul>
+<p>
 
 -->
