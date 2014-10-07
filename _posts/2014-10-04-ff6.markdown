@@ -111,8 +111,9 @@ categories: WhatisVideoGam
 	</div>
 	
 		<div class="col-md-4">
-			<img src="/assets/ff64.png" class="img img-responsive">	
-			<small class="text-center">All the typography in FF6 is demonstrably worse than other Final Fantasy games on the same hardware. <br> The typography in FF4 GBA is much better, for example.</small>
+			<img src="/assets/ff6gba.jpg" class="img img-responsive" style="margin-top:.5em;">		
+			<img src="/assets/ff4gba.png" class="img img-responsive" style="margin-top:.5em;">	
+			<p style="padding:1em;" class="text-primary"><em>For whatever reason, the typography in FF6 is slightly worse than other Final Fantasy games on the same hardware.</em></p>
 		</div>
 </div>
 

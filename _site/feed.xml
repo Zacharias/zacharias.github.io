@@ -5,8 +5,8 @@
     <description>Bio - Headphone wearing computer typer</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 05 Oct 2014 22:27:33 -0400</pubDate>
-    <lastBuildDate>Sun, 05 Oct 2014 22:27:33 -0400</lastBuildDate>
+    <pubDate>Mon, 06 Oct 2014 22:24:15 -0400</pubDate>
+    <lastBuildDate>Mon, 06 Oct 2014 22:24:15 -0400</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
     
       <item>
@@ -117,8 +117,9 @@
 	&lt;/div&gt;
 	
 		&lt;div class=&quot;col-md-4&quot;&gt;
-			&lt;img src=&quot;/assets/ff64.png&quot; class=&quot;img img-responsive&quot; /&gt;	
-			&lt;small class=&quot;text-center&quot;&gt;All the typography in FF6 is demonstrably worse than other Final Fantasy games on the same hardware. &lt;br /&gt; The typography in FF4 GBA is much better, for example.&lt;/small&gt;
+			&lt;img src=&quot;/assets/ff6gba.jpg&quot; class=&quot;img img-responsive&quot; style=&quot;margin-top:.5em;&quot; /&gt;		
+			&lt;img src=&quot;/assets/ff4gba.png&quot; class=&quot;img img-responsive&quot; style=&quot;margin-top:.5em;&quot; /&gt;	
+			&lt;p style=&quot;padding:1em;&quot; class=&quot;text-primary&quot;&gt;&lt;em&gt;For whatever reason, the typography in FF6 is slightly worse than other Final Fantasy games on the same hardware.&lt;/em&gt;&lt;/p&gt;
 		&lt;/div&gt;
 &lt;/div&gt;
 
