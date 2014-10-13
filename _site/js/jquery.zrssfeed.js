@@ -131,7 +131,7 @@
 				'</div>';
 			
 		// Add body
-		html += '<div class="rssBody" style="font-size:.8em;">' +
+		html += '<div class="rssBody">' +
 			'<ul class="list-unstyled">';
 
 

@@ -1,17 +1,25 @@
 ---
 layout: post
-title:  "Six-ish things about Final Fantasy VI on the 20th Anniversary"
+title:  "Six-ish things about Final Fantasy VI on it's 20th Birthday"
 date:   2014-10-05 19:18:40
-categories: WhatisVideoGam
+author: Zacharias
 ---
 
-<div class="container" style="font-size:18px !important;">
+<div class="container">
 <div class="row">
+	<div class="col-md-12">
 	<p class='lead' style="padding-top:1em;">In which I celebrate 20th anniversary of the release of Final Fantasy 3 on the SNES in 1994 by whining about it. 
 		<br>
 		<br>
 		This was the first game I'd ever purchased on launch day: October 11, 1994, and I still have the cart and SNES plugged into a 13" CRT TV. I played though, just like I did twenty years prior. Here's a quick list of things I noticed on this most-recent playthrough.</p>
+		</div>
 </div>
+
+<div class="row">
+<div class="col-md-12">
+<p class="text-center"><span class="label label-primary">NEW!</span> Since this is on GitHub Pages, you can now <a href="https://github.com/Zacharias/zacharias.github.io/commits/master/_posts/2014-10-04-ff6.markdown">view this post's revision history</a> and watch me gradually come to grips with the English language.</p>
+</div>
+	</div>
 
 
 <div class="row">

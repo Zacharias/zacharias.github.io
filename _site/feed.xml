@@ -5,19 +5,79 @@
     <description>Bio - Headphone wearing computer typer</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 06 Oct 2014 22:24:15 -0400</pubDate>
-    <lastBuildDate>Mon, 06 Oct 2014 22:24:15 -0400</lastBuildDate>
+    <pubDate>Mon, 13 Oct 2014 15:29:25 -0400</pubDate>
+    <lastBuildDate>Mon, 13 Oct 2014 15:29:25 -0400</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
     
       <item>
-        <title>Six-ish things about Final Fantasy VI on the 20th Anniversary</title>
-        <description>&lt;div class=&quot;container&quot; style=&quot;font-size:18px !important;&quot;&gt;
+        <title>Linked List 1: A grand bibliography</title>
+        <description>&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-md-12&quot;&gt;
+&lt;p&gt;The only part of the Getting Things Done productivity framework that really stuck with me was the notion of ubiquitous capture. Meaning, I do a good job of recording stuff I&amp;#8217;ve read, looked at, thought about, etc, in order to&amp;#8230;&lt;/p&gt;
+&lt;p&gt;That&amp;#8217;s the part I&amp;#8217;m not as great at. But it incidentally does a good job of serving of recording my interests in web tech, and literal miscellany.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-md-6&quot;&gt;
+&lt;h4&gt;Certainly Work Related&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;http://sharpsplash.wordpress.com/2012/08/03/integrate-microsoft-lync-into-a-asp-net-web-application/&quot;&gt;Integrating Lync into &lt;span class=&quot;caps&quot;&gt;ASP&lt;/span&gt;.net applications&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://blogs.msdn.com/b/tomholl/archive/2013/03/02/integrate-lync-into-your-intranet-sites-using-the-namectrl-plug-in.aspx&quot;&gt;More Lync/&lt;span class=&quot;caps&quot;&gt;ASP&lt;/span&gt; Integration&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://developers.google.com/analytics/devguides/reporting/core/v3/&quot;&gt;Google Analytics Reporting &lt;span class=&quot;caps&quot;&gt;API&lt;/span&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.codeducky.org/javascript-new-confusing/&quot;&gt;Javascript&amp;#8217;s New Keyword is confusing:&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.codeducky.org/ins-outs-c-enums/&quot;&gt;C# Enums&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.codeducky.org/razor-trick-pass-razor-code-into-methods/&quot;&gt;Pass Razor Code to controller methods&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.codeducky.org/razor-trick-using-block/&quot;&gt;Stephen Wexler Hat Trick: Razor Using Block&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.codemag.com/Article/1210071&quot;&gt;Intro to SignalR&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.asp.net/signalr/overview/signalr-20/getting-started-with-signalr-20/tutorial-getting-started-with-signalr-20-and-mvc-5&quot;&gt;Getting Started with SignalR&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://instantclick.io/github-pages-and-apex-domains&quot;&gt;GitHub Pages and apex domains&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://konklone.com/post/github-pages-now-supports-https-so-use-it&quot;&gt;Github Pages how httpses&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://github.com/prose/prose/wiki/Getting-Started&quot;&gt;A Github Pages Frontend&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://fezvrasta.github.io/snackbarjs/&quot;&gt;Snackbar.js&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://fezvrasta.github.io/bootstrap-material-design/&quot;&gt;Google Material Design + Bootstrap&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-md-6&quot;&gt;
+&lt;h4&gt;Getting Colder&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;http://shop.oreilly.com/product/0636920019664.do#PowerReview&quot; class=&quot;Book&quot;&gt;O&amp;#8217;Rielly Sinatra Book&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://practicingruby.com/articles/infrastructure-automation&quot;&gt;Infrastructure Automation with Chef&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://godrb.com/&quot;&gt;God.rb&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://learn.getchef.com/&quot;&gt;Learn Chef&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://github.com/opscode-cookbooks/windows&quot;&gt;Chef Windows Opscode Cookbook&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://docs.getchef.com/&quot;&gt;GetChef&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://mlafeldt.github.io/blog/learning-chef/&quot;&gt;Learning Chef&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.getchef.com/blog/2013/09/04/demystifying-common-idioms-in-chef-recipes/&quot;&gt;Common Chef Idoims&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.flaticon.com/packs/academic-2/5&quot;&gt;Flat Icons: Academic&lt;/a&gt;&lt;/p&gt;
+&lt;h4&gt;Even Colder&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;http://netwars-project.com/webdoc&quot;&gt;Internet doc about Cyberwarfare&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.bbc.co.uk/news/special/2014/newsspec_8700/index.html&quot;&gt;Nice use of bootstrap affix-ian effect mid-narrative&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.bloomberg.com/news/2014-09-27/rosneft-says-exxon-arctic-well-strikes-oil.html&quot;&gt;Oil in the arctic&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.polygon.com/2014/8/18/6030725/star-wars-hd-despecialized-edition&quot;&gt;Despecialized Star Wars&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-md-12&quot;&gt;
+&lt;p&gt;And that&amp;#8217;s a week&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+        <pubDate>Mon, 13 Oct 2014 06:24:40 -0400</pubDate>
+        <link>/2014/10/13/linkedlist.html</link>
+        <guid isPermaLink="true">/2014/10/13/linkedlist.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Six-ish things about Final Fantasy VI on it&#39;s 20th Birthday</title>
+        <description>&lt;div class=&quot;container&quot;&gt;
 &lt;div class=&quot;row&quot;&gt;
+	&lt;div class=&quot;col-md-12&quot;&gt;
 	&lt;p class=&quot;lead&quot; style=&quot;padding-top:1em;&quot;&gt;In which I celebrate 20th anniversary of the release of Final Fantasy 3 on the SNES in 1994 by whining about it. 
 		&lt;br /&gt;
 		&lt;br /&gt;
 		This was the first game I&#39;d ever purchased on launch day: October 11, 1994, and I still have the cart and SNES plugged into a 13&quot; CRT TV. I played though, just like I did twenty years prior. Here&#39;s a quick list of things I noticed on this most-recent playthrough.&lt;/p&gt;
+		&lt;/div&gt;
 &lt;/div&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-md-12&quot;&gt;
+&lt;p class=&quot;text-center&quot;&gt;&lt;span class=&quot;label label-primary&quot;&gt;NEW!&lt;/span&gt; Since this is on GitHub Pages, you can now &lt;a href=&quot;https://github.com/Zacharias/zacharias.github.io/commits/master/_posts/2014-10-04-ff6.markdown&quot;&gt;view this post&#39;s revision history&lt;/a&gt; and watch me gradually come to grips with the English language.&lt;/p&gt;
+&lt;/div&gt;
+	&lt;/div&gt;
 
 
 &lt;div class=&quot;row&quot;&gt;
@@ -180,11 +240,9 @@
 &lt;/div&gt;
 </description>
         <pubDate>Sun, 05 Oct 2014 15:18:40 -0400</pubDate>
-        <link>/whatisvideogam/2014/10/05/ff6.html</link>
-        <guid isPermaLink="true">/whatisvideogam/2014/10/05/ff6.html</guid>
+        <link>/2014/10/05/ff6.html</link>
+        <guid isPermaLink="true">/2014/10/05/ff6.html</guid>
         
-        
-        <category>whatisvideogam</category>
         
       </item>
     
@@ -193,8 +251,8 @@
         <description>&lt;p&gt;Hi.&lt;/p&gt;
 </description>
         <pubDate>Sat, 06 Sep 2014 10:54:40 -0400</pubDate>
-        <link>/exhaustedmetadata/2014/09/06/first-post.html</link>
-        <guid isPermaLink="true">/exhaustedmetadata/2014/09/06/first-post.html</guid>
+        <link>/exhaustedmetadata/2014/09/06/linked%20list.html</link>
+        <guid isPermaLink="true">/exhaustedmetadata/2014/09/06/linked%20list.html</guid>
         
         
         <category>exhaustedmetadata</category>
