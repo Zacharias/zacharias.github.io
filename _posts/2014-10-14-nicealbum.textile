@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "I've really been enjoying this album"
+title:  "A for Amiga – Ctrix (2013)"
 date:   2014-10-14 15:19:40
 author: Zacharias
 ---
@@ -8,7 +8,7 @@ author: Zacharias
 <div class="row">
 	
 	<div class="col-md-6">
-		<p class="lead">That is all.</p>
+		<p class="lead">I've really been enjoying this album.<br >
 		<p>"<em>A for Amiga</em> - Ctrix":http://www.bleepstreet.com/?post=bleepst24-ctrix-a-for-amiga
 	</div>
 	<div class="col-md-6">
