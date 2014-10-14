@@ -5,8 +5,8 @@
     <description>Bio - Headphone wearing computer typer</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 13 Oct 2014 20:17:40 -0400</pubDate>
-    <lastBuildDate>Mon, 13 Oct 2014 20:17:40 -0400</lastBuildDate>
+    <pubDate>Mon, 13 Oct 2014 20:46:40 -0400</pubDate>
+    <lastBuildDate>Mon, 13 Oct 2014 20:46:40 -0400</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
     
       <item>
@@ -73,10 +73,10 @@
 		&lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;row&quot;&gt;
-&lt;div class=&quot;col-md-12&quot;&gt;
-&lt;p&gt;&lt;span class=&quot;label label-primary&quot;&gt;NEW&lt;/span&gt; Since this is on GitHub Pages, you can now &lt;a href=&quot;https://github.com/Zacharias/zacharias.github.io/commits/master/_posts/2014-10-04-ff6.markdown&quot;&gt;view this post&#39;s revision history&lt;/a&gt; and watch me gradually come to grips with the English language.&lt;/p&gt;
-&lt;/div&gt;
+	&lt;div class=&quot;row&quot;&gt;
+		&lt;div class=&quot;col-md-12&quot;&gt;
+			&lt;p&gt;&lt;span class=&quot;label label-primary&quot;&gt;NEW&lt;/span&gt; Since this is on GitHub Pages, you can now &lt;a href=&quot;https://github.com/Zacharias/zacharias.github.io/commits/master/_posts/2014-10-04-ff6.markdown&quot;&gt;view this post&#39;s revision history&lt;/a&gt; and watch me gradually come to grips with the English language.&lt;/p&gt;
+		&lt;/div&gt;
 	&lt;/div&gt;
 
 

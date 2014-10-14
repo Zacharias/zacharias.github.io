@@ -15,10 +15,10 @@ author: Zacharias
 		</div>
 </div>
 
-<div class="row">
-<div class="col-md-12">
-<p><span class="label label-primary">NEW</span> Since this is on GitHub Pages, you can now <a href="https://github.com/Zacharias/zacharias.github.io/commits/master/_posts/2014-10-04-ff6.markdown">view this post's revision history</a> and watch me gradually come to grips with the English language.</p>
-</div>
+	<div class="row">
+		<div class="col-md-12">
+			<p><span class="label label-primary">NEW</span> Since this is on GitHub Pages, you can now <a href="https://github.com/Zacharias/zacharias.github.io/commits/master/_posts/2014-10-04-ff6.markdown">view this post's revision history</a> and watch me gradually come to grips with the English language.</p>
+		</div>
 	</div>
 
 
