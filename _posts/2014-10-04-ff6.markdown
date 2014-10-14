@@ -17,21 +17,24 @@ author: Zacharias
 
 <div class="row">
 <div class="col-md-12">
-<p class="text-center"><span class="label label-primary">NEW!</span> Since this is on GitHub Pages, you can now <a href="https://github.com/Zacharias/zacharias.github.io/commits/master/_posts/2014-10-04-ff6.markdown">view this post's revision history</a> and watch me gradually come to grips with the English language.</p>
+<p><span class="label label-primary">NEW</span> Since this is on GitHub Pages, you can now <a href="https://github.com/Zacharias/zacharias.github.io/commits/master/_posts/2014-10-04-ff6.markdown">view this post's revision history</a> and watch me gradually come to grips with the English language.</p>
 </div>
 	</div>
 
 
 <div class="row">
 	<div class="col-md-12">
-		<h3 style="margin-bottom:1em;">1. Writing and Thematic Confustion</h3>
+		<h3 style="margin-bottom:1em;">1. Writing and Thematic Confusion</h3>
 	</div>
 	
 	<div class="col-md-8">
 		<p>Final Fantasy games have had a lot of writing tone changes over the years. A note when I was looking for something on the FF Wiki <a href="http://finalfantasy.wikia.com/wiki/Cyan_Garamonde#cite_note-V-Jump-1">regarding Cyan</a> and I noticed that each character was brought up in a meeting by individuals on the team. The fact that many character arcs weren't as strong as others shouldn't really surprise since there is a total of 14 "permanent" characters in Final Fantasy VI. Gau is a great example - his entire "arc" is about three minutes long.</p>
+		<p>Even though a madman would take exactly one character through the grueling dungeon/town of Zozo (Hey, is that an oblique Rolling Stones reference I just got after two decades?). Only those who are madmen by comparison would only take Gau to Zozo. Let's say that happens. Then, you get <strong> MAGIC SPECIAL DIALOG.</strong> A rare exception case for madmen is <a href="http://www.gamefaqs.com/boards/554041-final-fantasy-iii/68540400">only taking Gau to Zozo</a>. In a game where there are DOZENS of "no character in particular is speaking" scenes, they write specific dialog for the worst character in the game.</p>
+			
+<p>Since the entire post-airship World of Ruin could have anyone as the main character, the protagonist is... nobody.</p> 
 		<p>On this latest playthrough I noticed that a big portion of the same, from the big battle at Narshe, to the aquisition of a player controlled-airship, the game is about Locke and Celes' relationship. Or is about how important Terra is? (Spoiler Alert: she isn't) Then the whole game is about how Celes isn't a conflicted-spy girl/person? Then the whole game is giving Cid fish until he dies.</p>
-<p>There isn't enough dialog in situations where the player gets to choose party members. A rare exception case for madmen is <a href="http://www.gamefaqs.com/boards/554041-final-fantasy-iii/68540400">only taking Gau to Zozo</a>. In the entire post-airship World of Ruin, the protagonist is... nobody.</p> 
-	<p>Final Fantasy games have had a lot of writing tone and theme changes over the years. A note when I was <a href="http://finalfantasy.wikia.com/wiki/Cyan_Garamonde#cite_note-V-Jump-1">looking for something on the FF Wiki (about Cyan)</a> and I noticed that each character was brought up in a meeting by individuals on the team. The fact that many character arcs weren't as strong as others shouldn't really surprise since there is a total of 14 "permanent" characters in Final Fantasy VI. Gau is a great example - his entire "arc" is about three minutes long.</p>	
+
+	<p>Final Fantasy games have had a lot of writing tone and theme changes over the years, although the games tend to lean on reliable tentpoles. I was <a href="http://finalfantasy.wikia.com/wiki/Cyan_Garamonde#cite_note-V-Jump-1">looking for something on the FF Wiki (about Cyan)</a> and I noticed that each character was brought up in a meeting by individuals on the team. The fact that many character arcs weren't as strong as others shouldn't really surprise since there is a total of 14 "permanent" characters in Final Fantasy VI. A roster-by-committee is bound to be somewhat less even, right?</p>	
 	</div>
 	
 	<div class="col-md-4">
@@ -40,7 +43,7 @@ author: Zacharias
 	</div>
 </div>
 
-<div class="row" style="margin-top:1em;">
+<div class="row" >
 	<div class="col-md-12">
 		<h3 style="margin-bottom:1em;">2. Character "pacing" and roster</h3>
 	</div>
