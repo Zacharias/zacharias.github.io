@@ -3,12 +3,11 @@ layout: frontpage
 ---
 
 <div class="row">
-	<div class="col-md-12" style="margin-top:1em;">
-		<h1>Hi. <span style="font-size:.5em;"> I'm Zacharias Stankiewicz, I make applications for the web.</h1>
+	<div class="col-md-12">
+		<h4 style="padding-top:1em;"><span style="font-size:2em;">Hi.</span> I'm Zacharias Stankiewicz, I make applications for the web.</h1>
 	</div>
 
 	<div class="col-md-10">
-		<h2>Posts</h2>
 		<ul class="list-unstyled">
 	    {% for post in site.posts %}
 	      <li><h3><span class="small">{{ post.date | date: "%b %-d, %Y" }}</span> <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"> {{ post.title }}</a></h3>
@@ -18,9 +17,4 @@ layout: frontpage
 	  </div>
 </div>
 
-<div class="row" style="padding-top:1em;">
-	<div class="col-md-12">
-		<img src="/assets/deskshot.jpg" class="img-responsive">
-	</div>
-</div>
-
+<div class="row" style="background:url(/assets/deskshot.jpg); background-size:cover; background-position: top center; height:30em; margin-top:2em; margin-bottom:2em;"></div>
