@@ -10,7 +10,7 @@ layout: frontpage
 	<div class="col-md-10">
 		<ul class="list-unstyled">
 	    {% for post in site.posts %}
-	      <li><h3><span class="small">{{ post.date | date: "%b %-d, %Y" }}</span> <a class="post-link frontpageitalic" href="{{ post.url | prepend: site.baseurl }}"> {{ post.title }}</a></h3>
+	      <li><h2><span class="small">{{ post.date | date: "%b %-d, %Y" }}</span> <a class="post-link frontpageitalic" href="{{ post.url | prepend: site.baseurl }}"> {{ post.title }}</a></h2>
 	      </li>
 	    {% endfor %}
 	  </ul>	
