@@ -1,3 +1,6 @@
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:300italic);
+
+
 html {font-size: 1em;}
 
 body {
@@ -30,7 +33,12 @@ h4 {font-size: 1.333em;}
 
 small, .font_small {font-size: 0.75em;}
 
-
+.frontpageitalic
+{
+	font-family: 'Source Sans Pro';
+	font-style: italic;
+	font-weight: 300;
+}
 
 /* Code Syntax Highlighting */
 .highlight .hll { background-color: #ffffcc }
