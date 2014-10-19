@@ -7,10 +7,10 @@ layout: frontpage
 		<h4 style="padding-top:1em;"><span style="font-size:2em;">Hi.</span> I'm Zacharias Stankiewicz, I make applications for the web.</h1>
 	</div>
 
-	<div class="col-md-10">
-		<ul class="list-unstyled">
+	<div class="col-md-12 ">
+		<ul class="list-unstyled postlist">
 	    {% for post in site.posts %}
-	      <li><h2><span class="small">{{ post.date | date: "%b %-d, %Y" }}</span> <a class="post-link frontpageitalic" href="{{ post.url | prepend: site.baseurl }}"> {{ post.title }}</a></h2>
+	      <li><h2 class="postitem"><span class="small">{{ post.date | date: "%b %-d, %Y" }}</span> <a class="post-link frontpageitalic" href="{{ post.url | prepend: site.baseurl }}"> {{ post.title }}</a></h2>
 	      </li>
 	    {% endfor %}
 	  </ul>	

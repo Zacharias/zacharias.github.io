@@ -54,6 +54,12 @@ small, .font_small {
 	font-weight: 300;
 }
 
+.postitem
+{
+	margin-top:.5em;
+/*	margin-bottom: .2em; */
+}
+
 .lead {
 	color:inherit !important;	
 }
