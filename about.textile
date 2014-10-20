@@ -1,0 +1,7 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+p. This is my little portal site. There are many like it but this one is mine.
+
