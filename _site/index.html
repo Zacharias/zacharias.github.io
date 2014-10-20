@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Zacharias Stankiewicz</title>
-    <meta name="description" content="Bio - Headphone wearing computer typer">
+    <meta name="description" content="Headphone wearing computer typer">
     <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
     <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
@@ -46,79 +46,42 @@
 
         </div>
     <div class="row" id="footer" >  
-       <div class="row footer-row" style="padding-top:1em; margin-left:0; margin-right:0;">
-      <div class="col-md-4">
-      	<p>Zacharias Stankiewicz</p>
-
-        <ul class="list-unstyled">
-          <li>
-          <i class="fa fa-envelope-o"></i>
-          <a href="mailto:zacharias.stankiewicz@gmail.com">zacharias.stankiewicz@gmail.com</a></li>
-          
-          <li>
-          <i class="fa fa-github-alt"></i>
-            <a href="https://github.com/zacharias">
-              <span class="username"> zacharias</span>
-            </a>
-          </li>
-          
-          
-          <li>
-          <i class="fa fa-linkedin"></i>
-            <a href="https://twitter.com/zachstankiewicz">
-              <span class="username"> <a href="https://www.linkedin.com/pub/zacharias-stankiewicz/50/350/aaa">Zacharias Stankiewicz</a></span>
-            </a>
-          </li>
-          
-          
-         
-          <li>
-          <i class="fa fa-square-o"></i>
-            <a href="https://about.me/zacharias">
-              <span class="username"> zacharias</span>
-            </a>
-          </li>
-          
-
-          
-          <li>
-          	<i class="fa fa-twitter"></i> 
-            <a href="https://twitter.com/zachstankiewicz">
-              <span class="username">@zachstankiewicz</span>
-            </a>
-          </li>
-          
-          
-            <li>
-            <i class="fa fa-google-plus-square"></i>
-            <a href="https://plus.google.com/+ZachariasStankiewicz">
-              <span class="username"> +ZachariasStankiewicz</span>
-            </a>
-          </li>
-          
-
-        </ul>
-         
-      </div>       
-            <div class="col-md-4 " id="rssbox">
-      		
-    </div>
-    <div class="col-md-4">
-     <p class="text">Bio - Headphone wearing computer typer</p>
-          <p class="rss-subscribe"><a href="/feed.xml">subscribe to posts via RSS</a></p>
-
-    </div>
-
-      
+       <div class="row footer-row" style="border-top: 0.1em solid #999999; padding-top:1em; margin-left:0; margin-right:0;">
+	<div class="col-md-4">
+		<p>Zacharias Stankiewicz<br />
+		<small>Headphone wearing computer typer</small></p>
+		<p class="rss-subscribe"><a href="/feed.xml"><i class="fa fa-rss"></i> subscribe to posts via RSS</a></p>
+		<ul class="list-unstyled">
+			<li><i class="fa fa-envelope-o"></i> <a href="mailto:zacharias.stankiewicz@gmail.com">zacharias.stankiewicz@gmail.com</a></li>
+			
+			<li><i class="fa fa-github-alt"></i> <a href="https://github.com/zacharias"> zacharias</a></li>
+			
+			
+			<li><i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/pub/zacharias-stankiewicz/50/350/aaa"> Zacharias Stankiewicz</a></li>
+			
+			
+			<li><i class="fa fa-square-o"></i> <a href="https://about.me/zacharias"> zacharias</a></li>
+			
+			
+			<li><i class="fa fa-twitter"></i> <a href="https://twitter.com/zachstankiewicz"> @zachstankiewicz</a></li>
+			
+			
+			<li><i class="fa fa-google-plus-square"></i> <a href="https://plus.google.com/+ZachariasStankiewicz"> +ZachariasStankiewicz</a></li>
+			
+		</ul>
+	</div>
+	<div class="col-md-8" id="rssbox" style="font-size:.9em;">
+		<!-- JS below is making that happen for me. -->
+	</div>
 </div>
 
- <script type="text/javascript">
-		$(document).ready(function () {
-		  $('#rssbox').rssfeed('https://www.instapaper.com/archive/rss/2140502/gJarrcxzUUjxTGAE7n0rRoEo4Ho', {
-		    limit: 10
-		  });
+<script type="text/javascript">
+	$(document).ready(function () {
+		$('#rssbox').rssfeed('https://www.instapaper.com/archive/rss/2140502/gJarrcxzUUjxTGAE7n0rRoEo4Ho', {
+		limit: 10
 		});
-		</script>
+	});
+</script>
 
 
     </div>
