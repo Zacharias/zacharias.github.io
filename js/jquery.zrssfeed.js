@@ -127,8 +127,9 @@
 		// Add header if required
 		if (options.header)
 			html +=	'<div class="rssHeader">' +
-				'<p>My Instapaper: Archived <small> <a href="'+feeds.link+'" title="'+ feeds.description +'"><i class="fa fa-rss"></i></small></p></a>' +
-				'</div>';
+				'<p style="font-size:16px;">My Instapaper: Archived <a href="'+feeds.link+'" title="'+ feeds.description +'"><i class="fa fa-rss"></i></small></a>' +
+				'<br><small>What I\'ve been reading on Instapaper</small>' +
+				'</p></div>';
 			
 		// Add body
 		html += '<div class="rssBody">' +
