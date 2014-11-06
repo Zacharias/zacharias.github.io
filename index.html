@@ -3,18 +3,27 @@ layout: frontpage
 ---
 
 <div class="row">
-	<div class="col-md-12">
-		<h4 style="padding-top:1em;"><span style="font-size:2em;">Hi.</span> I'm Zacharias Stankiewicz, I make applications for the web.</h1>
+	<div class="col-lg-10 col-lg-offset-2 col-sm-9 col-sm-offset-3">
+		<h1 style="padding-top:.5em; font-size:2em;"><span style="font-size:2em;">Hi.</span> I'm Zacharias Stankiewicz, I make applications for the web.</h1>
 	</div>
 
-	<div class="col-md-12 ">
-		<ul class="list-unstyled postlist">
+	<div class="col-md-12">
 	    {% for post in site.posts %}
-	      <li><h2 class="postitem"><span class="small">{{ post.date | date: "%b %-d, %Y" }}</span> <a class="post-link frontpageitalic" href="{{ post.url | prepend: site.baseurl }}"> {{ post.title }}</a></h2>
-	      </li>
+		
+		<div class="row postrow">		
+			<div class="col-lg-2 col-sm-3">
+				<h2 class="text-right postitem"><span class="small">{{ post.date | date: "%b %-d, %Y" }}</span></h2>
+			</div>
+		
+			<div class="col-lg-10 col-sm-9">
+	      		<h2 class="postitem"> <a class="post-link frontpageitalic" href="{{ post.url | prepend: site.baseurl }}"> {{ post.title }}</a></h2>		
+				{% if post.summary != null %}
+				<p style="font-size:.9em;"> {{ post.summary }} </p>
+				{% endif %}
+			</div>
+		</div>
 	    {% endfor %}
-	  </ul>	
 	  </div>
-</div>
+	</div>
 
 <div class="row" style="background:url(/assets/deskshot.jpg); background-size:cover; background-position: top center; height:30em; margin-top:2em; margin-bottom:2em;"></div>

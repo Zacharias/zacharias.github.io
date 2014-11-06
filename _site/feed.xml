@@ -5,13 +5,13 @@
     <description>Headphone wearing computer typer</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 04 Nov 2014 11:47:25 -0500</pubDate>
-    <lastBuildDate>Tue, 04 Nov 2014 11:47:25 -0500</lastBuildDate>
+    <pubDate>Wed, 05 Nov 2014 19:00:36 -0500</pubDate>
+    <lastBuildDate>Wed, 05 Nov 2014 19:00:36 -0500</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
     
       <item>
         <title>A scaffolded ASP.Identity + MVC5 code gotcha</title>
-        <description>&lt;p&gt;&lt;em&gt;The setup: You scaffold code for WS-Federation for &lt;span class=&quot;caps&quot;&gt;MVC&lt;/span&gt; 5 using the Visual Studio 2013 tooling.&lt;/em&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;em&gt;The setup: You scaffold code for WS-Federation for &lt;span class=&quot;caps&quot;&gt;MVC&lt;/span&gt; 5 using the Visual Studio 2013 tooling. Then everything stops working when you move that code off of your laptop. What happened?&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;So, you got started with a federated identity provider on your new &lt;span class=&quot;caps&quot;&gt;ASP&lt;/span&gt;.net project and everything&amp;#8217;s working great, until it gets published to the dev server. Then, nothing works! This can be &lt;a href=&quot;http://stackoverflow.com/questions/10324627/url-redirection-from-adfs-server/&quot;&gt;super frustrating&lt;/a&gt; if it happens to you.&lt;/p&gt;
 &lt;h4&gt;You too can even!&lt;/h4&gt;
 &lt;p&gt;Some of the pre generated/scaffolded code you got when filling out sets a reply &lt;span class=&quot;caps&quot;&gt;URL&lt;/span&gt;:&lt;/p&gt;

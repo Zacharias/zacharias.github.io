@@ -3,9 +3,11 @@ layout: post
 title:  "A scaffolded ASP.Identity + MVC5 code gotcha"
 date:   2014-11-3 10:19:40
 author: Zacharias
+summary: "The setup: You scaffold code for WS-Federation for MVC 5 using the Visual Studio 2013 tooling. Then everything stops working when you move that code off of your laptop. What happened?"
+
 ---
 
-p. _The setup: You scaffold code for WS-Federation for MVC 5 using the Visual Studio 2013 tooling._
+p. _The setup: You scaffold code for WS-Federation for MVC 5 using the Visual Studio 2013 tooling. Then everything stops working when you move that code off of your laptop. What happened?_
 
 p. So, you got started with a federated identity provider on your new ASP.net project and everything's working great, until it gets published to the dev server. Then, nothing works! This can be "super frustrating":http://stackoverflow.com/questions/10324627/url-redirection-from-adfs-server/ if it happens to you. 
 
