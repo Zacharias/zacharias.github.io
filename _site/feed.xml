@@ -5,9 +5,19 @@
     <description>Headphone wearing computer typer</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 05 Nov 2014 19:00:36 -0500</pubDate>
-    <lastBuildDate>Wed, 05 Nov 2014 19:00:36 -0500</lastBuildDate>
+    <pubDate>Tue, 11 Nov 2014 19:17:45 -0500</pubDate>
+    <lastBuildDate>Tue, 11 Nov 2014 19:17:45 -0500</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
+    
+      <item>
+        <title>These sound pretty good together</title>
+        <description></description>
+        <pubDate>Tue, 11 Nov 2014 05:19:40 -0500</pubDate>
+        <link>/2014/11/11/5891.html</link>
+        <guid isPermaLink="true">/2014/11/11/5891.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>A scaffolded ASP.Identity + MVC5 code gotcha</title>
