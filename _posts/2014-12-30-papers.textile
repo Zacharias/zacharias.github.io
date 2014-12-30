@@ -31,7 +31,7 @@ h4. Papers I printed out
 "Go To Statement Considered Harmful":http://bioinfo.uib.es/~joemiro/teach/material/escritura/gotoharmfulCol.pdf
 
 h4. Other Things I printed out that are not strictly papers
-"Zero one infinity rule":"http://en.wikipedia.org/wiki/Zero_one_infinity_rule
+"Zero one infinity rule":http://en.wikipedia.org/wiki/Zero_one_infinity_rule
 "Amdahl's law":http://en.wikipedia.org/wiki/Amdahl%27s_law
 "Tivoization":http://en.wikipedia.org/wiki/Tivoization
 "The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)":http://www.joelonsoftware.com/articles/Unicode.html

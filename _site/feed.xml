@@ -5,9 +5,47 @@
     <description>Headphone wearing computer typer</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 11 Nov 2014 19:17:45 -0500</pubDate>
-    <lastBuildDate>Tue, 11 Nov 2014 19:17:45 -0500</lastBuildDate>
+    <pubDate>Tue, 30 Dec 2014 10:42:29 -0500</pubDate>
+    <lastBuildDate>Tue, 30 Dec 2014 10:42:29 -0500</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
+    
+      <item>
+        <title>2014 Papers</title>
+        <description>&lt;p&gt;When I was cleaning up around my office, I realized I had a pretty good stack of papers from my internetting around this last year. I figured a list would be helpful for me to compare against next year to see how I&amp;#8217;m trending in my media consumption.&lt;/p&gt;
+&lt;h4&gt;Papers I printed out&lt;br /&gt;
+&lt;a href=&quot;http://www.foreignaffairs.com/articles/55210/edward-n-luttwak/give-war-a-chance&quot;&gt;Give War a Chance&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://research.microsoft.com/en-us/um/people/lamport/pubs/byz.pdf&quot;&gt;The Byzantine Generals Problem&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://svn.eu.apache.org/repos/asf/hadoop/common/tags/release-0.16.3/docs/hdfs_design.pdf&quot;&gt;The Hadoop Distributed File System: Architecture and Design&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2374379&quot;&gt;Reading This May Harm Your Comptuer: The Psychology of Malware Warnings&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://dl.acm.org/citation.cfm?id=1989438&quot;&gt;Apache Hadoop Goes Realtime at Facebook&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://bos.sagepub.com/content/70/1/21.full&quot;&gt;Are New Technologies Undermind the Laws of War?&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://systematic.com/media/282227/Scrum_and_CMMI___Going_from_Good_to_Great.pdf&quot;&gt;Scrum and &lt;span class=&quot;caps&quot;&gt;CMMI&lt;/span&gt; &amp;#8211; Going from Good to Great&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.dtic.mil/get-tr-doc/pdf?AD=ADA084551&quot;&gt;A Five-Stage Model of the Mental Activities Involded in Directed Skill Acquisition&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.milanmirkovic.com/wp-content/uploads/2012/10/pg049_Similarity_Measures_for_Text_Document_Clustering.pdf&quot;&gt;Similarity Measures for Text Document Clustering&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.philadelphiafed.org/research-and-data/publications/business-review/2004/q4/brq404ak.pdf&quot;&gt;Why Are Married Women Working More? Some Macroeconomic Explanations&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://luca.ntop.org/Ring.pdf&quot;&gt;Improving Passive Packet Capture: Beyond Device Polling&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://weis2014.econinfosec.org/papers/Anderson-WEIS2014.pdf&quot;&gt;Privacy versus government surveillance: where network effects meet public choice&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://users.cecs.anu.edu.au/~steveb/downloads/pdf/rc-ismm-2012.pdf&quot;&gt;Down for the Count? Getting Reference Counting Back in the Ring *&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.bitcoin.fr/public/divers/docs/silk-road-paper.pdf&quot;&gt;How Did Dread Pirate Roberts Acquire and Protect His Bitcoin Wealth?&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://research.google.com/pubs/pub37122.html&quot;&gt;Loop Recognition in C++/Java/Go/Scala&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.win.tue.nl/~vanwijk/stm.pdf&quot;&gt;Squarified Treemaps&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://sss.sagepub.com/content/44/4/638.full&quot;&gt;Academic urban legends&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://faculty.georgetown.edu/hcn4/Downloads/Noel_Forum.PDF&quot;&gt;Ten Things Political Scientists Know that You Don&amp;#8217;t&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.wjh.harvard.edu/~dtg/DUNN%20GILBERT%20&amp;amp;%20WILSON%20%282011%29.pdf&quot;&gt;If money doesn&amp;#8217;t make you happy, then you probably aren&amp;#8217;t spending it right&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://bioinfo.uib.es/~joemiro/teach/material/escritura/gotoharmfulCol.pdf&quot;&gt;Go To Statement Considered Harmful&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;Other Things I printed out that are not strictly papers&lt;br /&gt;
+&lt;a href=&quot;http://en.wikipedia.org/wiki/Zero_one_infinity_rule&quot;&gt;Zero one infinity rule&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://en.wikipedia.org/wiki/Amdahl%27s_law&quot;&gt;Amdahl&amp;#8217;s law&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://en.wikipedia.org/wiki/Tivoization&quot;&gt;Tivoization&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.joelonsoftware.com/articles/Unicode.html&quot; title=&quot;No Excuses!&quot;&gt;The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://semver.org&quot;&gt;Semantic Versioning 2.0.0&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.git-tower.com/blog/version-control-best-practices/&quot;&gt;Version Control Best Practices&lt;/a&gt;&lt;/h4&gt;</description>
+        <pubDate>Tue, 30 Dec 2014 05:01:40 -0500</pubDate>
+        <link>/2014/12/30/papers.html</link>
+        <guid isPermaLink="true">/2014/12/30/papers.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>These sound pretty good together</title>

@@ -7,10 +7,31 @@ html {
 body {
 	font-weight: 400;
 	line-height: 1.45;
-	color: #111;
+	
 	font-size: 16px !important;
+	/*
+	color: #FFFFFF;
+	background: 
+	  /*  linear-gradient(
+			  rgba(0,92,231, .90),
+			  rgba(0,92,231, .90)
+		    ),
+/*	    linear-gradient(
+		  rgba(69,175,255, .85),
+		  rgba(69,175,255, .85)
+	    ),
+	    url(/assets/somebg.jpg);
+	background-size:cover;
+	background-position: top center;*/
 }
-
+/*
+.small {
+	color:#DDDDDD !important;
+}
+a {
+	color:#fff245 !important;
+}
+*/
 p {
 	margin-bottom: 1.3em;
 }
