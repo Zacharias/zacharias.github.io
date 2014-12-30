@@ -3,7 +3,7 @@ layout: post
 title:  "2014 Papers"
 date:   2014-12-30 10:01:40
 author: Zacharias
-summary: All the papers I bothered printing this year.
+summary: All the papers I bothered printing this year
 ---
 
 When I was cleaning up around my office, I realized I had a pretty good stack of papers from my internetting around this last year. I figured a list would be helpful for me to compare against next year to see how I'm trending in my media consumption.
@@ -26,7 +26,7 @@ h4. Papers I printed out
 "Loop Recognition in C++/Java/Go/Scala":http://research.google.com/pubs/pub37122.html
 "Squarified Treemaps":http://www.win.tue.nl/~vanwijk/stm.pdf
 "Academic urban legends":http://sss.sagepub.com/content/44/4/638.full
-"Ten Things Political Scientists Know that You Don’t":http://faculty.georgetown.edu/hcn4/Downloads/Noel_Forum.PDF
+"Ten Things Political Scientists Know that You Don't":http://faculty.georgetown.edu/hcn4/Downloads/Noel_Forum.PDF
 "If money doesn't make you happy, then you probably aren't spending it right":http://www.wjh.harvard.edu/~dtg/DUNN%20GILBERT%20&%20WILSON%20%282011%29.pdf
 "Go To Statement Considered Harmful":http://bioinfo.uib.es/~joemiro/teach/material/escritura/gotoharmfulCol.pdf
 
