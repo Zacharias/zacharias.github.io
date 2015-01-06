@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Back To Work - Sharepoint 2013 Search Links"
-date:   2014-11-11 10:19:40
+date:   2015-1-5 10:19:40
 author: Zacharias
 ---
 
@@ -11,9 +11,3 @@ h3. Working on wrapping my mind around Sharepoint, specifically search-driven pu
 "Pluralsight - Sharepoint 2013 Search Development":http://www.pluralsight.com/courses/sharepoint-2013-search-development
 "Configure the crawler in case of SSL certificate warnings in SharePoint Server 2013":http://technet.microsoft.com/en-us/library/ee792873(v=office.15).aspx
 "Programmically Creating Wiki Pages":http://blog.mastykarz.nl/programmatically-creating-wiki-pages/
-
-
-
-
-
-
