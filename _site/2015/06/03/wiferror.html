@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Work In Progress - Error WIF10201</title>
+    <title>Solved - Error WIF10201 with ADFS 3.0 and MVC 5</title>
     <meta name="description" content="Headphone wearing computer typer">
     <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
@@ -56,7 +56,7 @@
         	<div class="post">
   <header class="post-header">
 	<div class="col-sm-12">
-    <h1 class="post-title" style="margin-bottom:.1em;">Work In Progress - Error WIF10201</h1>
+    <h1 class="post-title" style="margin-bottom:.1em;">Solved - Error WIF10201 with ADFS 3.0 and MVC 5</h1>
     <p class="post-meta lead">Jun 3, 2015 | Zacharias</p>
 	</div>
   </header>
@@ -65,14 +65,33 @@
   <article class="post-content">	
     	<h3>A difficult-to-search-for <span class="caps">WIF</span> error</h3>
 <p>I ran across this error using a <span class="caps">STS</span> in a <span class="caps">ASP</span>.Identity scenario:</p>
-<pre>WIF10201: No valid key mapping found for securityToken: System.IdentityModel.Tokens.X509SecurityToken and issurer</pre>
-<p>There&#8217;s a good chance that the issuer is using a novel certificate, according to your identity configuration.</p>
-<p>This can happen for a few reasons, but in the majority of cases, it is when a change happens in your token-signing <a href="http://en.wikipedia.org/wiki/Public_key_certificate">certificate chain</a>.</p>
-<p>You can identify the expected certificate &#8220;thumbprint&#8221; (hash value) in the context of <span class="caps">ASP</span>.<span class="caps">NET</span>/<span class="caps">MVC</span> applications, this can be found in a <code>web.config</code> section in the following <span class="caps">XML</span> path: system.identityModel identityConfiguration issuerNameRegistry authority keys. This hexadecimal hash is typically from the wizard configuration.</p>
+<pre>WIF10201: No valid key mapping found for securityToken: System.IdentityModel.Tokens.X509SecurityToken and issurer http://myadfsbox/adfs/ls/</pre>
+<p>If you are having this problem with a worked-yesterday application, there&#8217;s a good chance that the issuer is using a novel certificate, according to your identity configuration.</p>
+<p>You can identify the expected certificate &#8220;thumbprint&#8221; (hash value) in the context of <span class="caps">ASP</span>.<span class="caps">NET</span>/<span class="caps">MVC</span> applications, this can be found in a <code>web.config</code> section in the following <span class="caps">XML</span> path: system.identityModel &#8594; identityConfiguration &#8594; issuerNameRegistry &#8594; authority &#8594; keys<sup class="footnote" id="fnr1"><a href="#fn1">1</a></sup>.</p>
 <h4>The source of the error what you&#8217;d expect when crypto hashes disagree.</h4>
-<p>Since the token isn&#8217;t matching up to your configuration&#8217;s value, there isn&#8217;t any token handling services to deal with tokens that are signed not in the way you&#8217;d expect.</p>
-<h4>Certificate Chaining</h4>
-<p><i>coming soon: How to confirm your <span class="caps">STS</span> hash is correct in <span class="caps">ADFS</span> 3.0</i></p>
+<p>Since the token isn&#8217;t matching up to your configuration&#8217;s value, there isn&#8217;t any token handling services to deal with tokens that are signed not in the way you&#8217;d expect. So, in the context of when I saw this error in the wild, the error is my <span class="caps">MVC</span> application[fn2] saying:</p>
+<blockquote>
+<p>Although I totally understand how to deal with <code>4EA792F77D11E00E181AC5A347ABC7354E957443</code> tokens, heck, it only takes me 6ms to do it! Nobody&#8217;s told me what to do with a <code>231BAC6EEB5349E31A743B180A6B2309C70C162C</code> token!</p>
+</blockquote>
+<h4>Grace periods, self-signing, et al.</h4>
+<p>There is are two certificate strategies that can be used with <span class="caps">ADFS</span> 2.0+ <a href="http://blog.kloud.com.au/2013/07/17/ad-fs-and-self-signed-token-signing-certificates-3/">argued for or against online</a>, either self-signing or using a CA&#8217;s certiciate. The defaults (if I recally correctly) is to self-sign the token-signing certificate, and expiration in one year.</p>
+<p>The real lesson I took away from this episode is that security isn&#8217;t a static thing that is &#8220;set it and forget it.&#8221;</p>
+<p>The next time your <span class="caps">ADFS</span> as <span class="caps">STS</span>-backed application starts throwing errors exactly 15 days before your non-renewing self-signed token-signing certificate expires, you&#8217;ll know why.</p>
+<h4>So, if all of that stuff is true, here&#8217;s the checklist to fix it.</h4>
+<ul>
+	<li>Find the current token thumbprint in the application&#8217;s <code>web.config</code> file (under the path of system.identityModel &#8594; identityConfiguration &#8594; issuerNameRegistry &#8594; authority &#8594; keys, probably) under the issuerNameRegistry or tokenhandler configuration.</li>
+	<li>Find your <span class="caps">STS</span> metadata xml (typically in <span class="caps">ADFS</span>) and look for the similarly-formatted value. These don&#8217;t match?</li>
+	<li>Check your <span class="caps">ADFS</span> token-signing primary certificate for expiration. It&#8217;s 15 days from when when this error came up?</li>
+	<li>Depending on your certificate strategy<sup class="footnote" id="fnr3"><a href="#fn3">3</a></sup>, update the primary and secondary token-signing certificates.
+	<ul>
+		<li>You&#8217;ll find that the thumbprint is probably the secondary certificate&#8217;s thumbprint, meaning <span class="caps">ADFS</span> switched to the secondary based on <a href="https://technet.microsoft.com/en-us/library/jj933264.aspx">grace period rules</a> 15 days before the actual expiration of your primary certificate.</li>
+	</ul></li>
+	<li>To mitigate this taking all day in the future, either <a href="http://serverfault.com/a/670407">automate the certificate&#8217;s thumbprint in your configuration</a> or set a timely reminder (perhaps 20 days out?) to make the change ahead of when <span class="caps">ADFS</span> does it for you.</li>
+	<li>If you are like me, then write a blog post about it to try and save some poor sod the work of chasing this error down in the future.</li>
+</ul>
+<p class="footnote" id="fn1"><a href="#fnr1"><sup>1</sup></a> Officially, this specific <code>&lt;issuerNameRegistry&gt;</code> configuration has <a href="https://msdn.microsoft.com/en-us/library/hh568637(v=vs.110).aspx">been deprecated</a> (under the shaded <strong>important</strong> box), most examples of <span class="caps">ADFS</span> 2.0 and 3.0 configurations use this style. This style is the configuration that the &#8220;Organizational Accounts&#8221; option in Visual Studio 2013 generates for you. Current-er config can be found in VS2015 and <a href="https://msdn.microsoft.com/en-us/library/hh568638(v=vs.110).aspx">there is an example on <span class="caps">MSDN</span></a> as well.</p>
+<p class="footnote" id="fn2"><a href="#fnr2"><sup>2</sup></a> As a percentage of effort, trying to find the computer to blame for federated login failures is half the fight.</p>
+<p class="footnote" id="fn3"><a href="#fnr3"><sup>3</sup></a> You have one of those, right?</p>
   </article>
 
 </div>
