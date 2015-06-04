@@ -63,24 +63,28 @@
 
 	<div class="col-sm-12">
   <article class="post-content">	
-    	<h3>A difficult-to-search-for <span class="caps">WIF</span> error</h3>
-<p>I ran across this error using a <span class="caps">STS</span> in a <span class="caps">ASP</span>.Identity scenario:</p>
-<pre>WIF10201: No valid key mapping found for securityToken: System.IdentityModel.Tokens.X509SecurityToken and issurer http://myadfsbox/adfs/ls/</pre>
+    	<div class='alert alert-warning'>
+<p><strong>This article may contain wsFederation-specific information</strong><br>
+	Ensure that your <span class="caps">STS</span> implementation is of the &#8220;passive&#8221; variety, or adjust your fix accordingly.</p>
+</div>
+<h3>A difficult-to-search-for <span class="caps">WIF</span> error</h3>
+<p>I ran across this error using a <span class="caps">STS</span> in an <span class="caps">ASP</span>.Identity (a passive federation) scenario:</p>
+<pre>WIF10201: No valid key mapping found for securityToken: System.IdentityModel.Tokens.X509SecurityToken and issurer http://*/adfs/ls/</pre>
 <p>If you are having this problem with a worked-yesterday application, there&#8217;s a good chance that the issuer is using a novel certificate, according to your identity configuration.</p>
 <p>You can identify the expected certificate &#8220;thumbprint&#8221; (hash value) in the context of <span class="caps">ASP</span>.<span class="caps">NET</span>/<span class="caps">MVC</span> applications, this can be found in a <code>web.config</code> section in the following <span class="caps">XML</span> path: system.identityModel &#8594; identityConfiguration &#8594; issuerNameRegistry &#8594; authority &#8594; keys<sup class="footnote" id="fnr1"><a href="#fn1">1</a></sup>.</p>
-<h4>The source of the error what you&#8217;d expect when crypto hashes disagree.</h4>
-<p>Since the token isn&#8217;t matching up to your configuration&#8217;s value, there isn&#8217;t any token handling services to deal with tokens that are signed not in the way you&#8217;d expect. So, in the context of when I saw this error in the wild, the error is my <span class="caps">MVC</span> application[fn2] saying:</p>
+<h3>The source of the error what you&#8217;d expect when crypto hashes disagree.</h3>
+<p>Since the token isn&#8217;t matching up to your configuration&#8217;s value, there isn&#8217;t any token handling services to deal with tokens that are signed not in the way you&#8217;d expect. So, in the context of when I saw this error in the wild, the error is my <span class="caps">MVC</span> application<sup class="footnote" id="fnr2"><a href="#fn2">2</a></sup> saying:</p>
 <blockquote>
-<p>Although I totally understand how to deal with <code>4EA792F77D11E00E181AC5A347ABC7354E957443</code> tokens, heck, it only takes me 6ms to do it! Nobody&#8217;s told me what to do with a <code>231BAC6EEB5349E31A743B180A6B2309C70C162C</code> token!</p>
+<p>I totally understand how to deal with <code>4EA792F77D11E00E181AC5A347ABC7354E957443</code> tokens, heck, it only takes me 6ms to do it! Nobody&#8217;s told me what to do with a <code>231BAC6EEB5349E31A743B180A6B2309C70C162C</code> token!</p>
 </blockquote>
-<h4>Grace periods, self-signing, et al.</h4>
-<p>There is are two certificate strategies that can be used with <span class="caps">ADFS</span> 2.0+ <a href="http://blog.kloud.com.au/2013/07/17/ad-fs-and-self-signed-token-signing-certificates-3/">argued for or against online</a>, either self-signing or using a CA&#8217;s certiciate. The defaults (if I recally correctly) is to self-sign the token-signing certificate, and expiration in one year.</p>
-<p>The real lesson I took away from this episode is that security isn&#8217;t a static thing that is &#8220;set it and forget it.&#8221;</p>
 <p>The next time your <span class="caps">ADFS</span> as <span class="caps">STS</span>-backed application starts throwing errors exactly 15 days before your non-renewing self-signed token-signing certificate expires, you&#8217;ll know why.</p>
-<h4>So, if all of that stuff is true, here&#8217;s the checklist to fix it.</h4>
+<h3>Grace periods, self-signing, et al.</h3>
+<p>There is are two certificate organizational models that can be used with <span class="caps">ADFS</span> 2.0+ <a href="http://blog.kloud.com.au/2013/07/17/ad-fs-and-self-signed-token-signing-certificates-3/">argued for or against online</a>, either self-signing or using a CA&#8217;s certificate. The defaults (if I recally correctly) is to self-sign the token-signing certificate, and expiration in one year.</p>
+<p>The real lesson I took away from this episode is that security isn&#8217;t a static thing that is &#8220;set it and forget it.&#8221;</p>
+<h3>So, if all of that stuff is true, here&#8217;s the checklist to fix it.</h3>
 <ul>
-	<li>Find the current token thumbprint in the application&#8217;s <code>web.config</code> file (under the path of system.identityModel &#8594; identityConfiguration &#8594; issuerNameRegistry &#8594; authority &#8594; keys, probably) under the issuerNameRegistry or tokenhandler configuration.</li>
-	<li>Find your <span class="caps">STS</span> metadata xml (typically in <span class="caps">ADFS</span>) and look for the similarly-formatted value. These don&#8217;t match?</li>
+	<li>Find the current token thumbprint in the application&#8217;s <code>web.config</code> file (under the path of system.identityModel &#8594; identityConfiguration &#8594; issuerNameRegistry &#8594; authority &#8594; keys, probably) under the <code>issuerNameRegistry</code> or <code>tokenhandler</code> sections.</li>
+	<li>Find your <span class="caps">STS</span> metadata xml (typically in <span class="caps">ADFS</span>, this can be found at https://*/FederationMetadata/2007-06/FederationMetadata.xml.) and look for the similarly-formatted value. These don&#8217;t match?</li>
 	<li>Check your <span class="caps">ADFS</span> token-signing primary certificate for expiration. It&#8217;s 15 days from when when this error came up?</li>
 	<li>Depending on your certificate strategy<sup class="footnote" id="fnr3"><a href="#fn3">3</a></sup>, update the primary and secondary token-signing certificates.
 	<ul>
@@ -89,9 +93,10 @@
 	<li>To mitigate this taking all day in the future, either <a href="http://serverfault.com/a/670407">automate the certificate&#8217;s thumbprint in your configuration</a> or set a timely reminder (perhaps 20 days out?) to make the change ahead of when <span class="caps">ADFS</span> does it for you.</li>
 	<li>If you are like me, then write a blog post about it to try and save some poor sod the work of chasing this error down in the future.</li>
 </ul>
-<p class="footnote" id="fn1"><a href="#fnr1"><sup>1</sup></a> Officially, this specific <code>&lt;issuerNameRegistry&gt;</code> configuration has <a href="https://msdn.microsoft.com/en-us/library/hh568637(v=vs.110).aspx">been deprecated</a> (under the shaded <strong>important</strong> box), most examples of <span class="caps">ADFS</span> 2.0 and 3.0 configurations use this style. This style is the configuration that the &#8220;Organizational Accounts&#8221; option in Visual Studio 2013 generates for you. Current-er config can be found in VS2015 and <a href="https://msdn.microsoft.com/en-us/library/hh568638(v=vs.110).aspx">there is an example on <span class="caps">MSDN</span></a> as well.</p>
+<hr />
+<p class="footnote" id="fn1"><a href="#fnr1"><sup>1</sup></a> Officially, this specific <code>&lt;issuerNameRegistry&gt;</code> configuration has <a href="https://msdn.microsoft.com/en-us/library/hh568637(v=vs.110).aspx">been deprecated</a> (check the information under the shaded <strong>important</strong> box), most examples of <span class="caps">ADFS</span> 2.0 and 3.0 configurations use this style. This style is the configuration that the &#8220;Organizational Accounts&#8221; option in Visual Studio 2013 generates for you. Current-er config can be found in VS2015 and <a href="https://msdn.microsoft.com/en-us/library/hh568638(v=vs.110).aspx">there is an example on <span class="caps">MSDN</span></a> as well.</p>
 <p class="footnote" id="fn2"><a href="#fnr2"><sup>2</sup></a> As a percentage of effort, trying to find the computer to blame for federated login failures is half the fight.</p>
-<p class="footnote" id="fn3"><a href="#fnr3"><sup>3</sup></a> You have one of those, right?</p>
+<p class="footnote" id="fn3"><a href="#fnr3"><sup>3</sup></a> Or your organizations&#8217;. You <strong>do</strong> have a strategy, right?</p>
   </article>
 
 </div>

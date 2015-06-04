@@ -5,30 +5,34 @@
     <description>Headphone wearing computer typer</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 04 Jun 2015 12:42:46 -0400</pubDate>
-    <lastBuildDate>Thu, 04 Jun 2015 12:42:46 -0400</lastBuildDate>
+    <pubDate>Thu, 04 Jun 2015 14:09:14 -0400</pubDate>
+    <lastBuildDate>Thu, 04 Jun 2015 14:09:14 -0400</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
     
       <item>
         <title>Solved - Error WIF10201 with ADFS 3.0 and MVC 5</title>
-        <description>&lt;h3&gt;A difficult-to-search-for &lt;span class=&quot;caps&quot;&gt;WIF&lt;/span&gt; error&lt;/h3&gt;
-&lt;p&gt;I ran across this error using a &lt;span class=&quot;caps&quot;&gt;STS&lt;/span&gt; in a &lt;span class=&quot;caps&quot;&gt;ASP&lt;/span&gt;.Identity scenario:&lt;/p&gt;
-&lt;pre&gt;WIF10201: No valid key mapping found for securityToken: System.IdentityModel.Tokens.X509SecurityToken and issurer http://myadfsbox/adfs/ls/&lt;/pre&gt;
+        <description>&lt;div class=&#39;alert alert-warning&#39;&gt;
+&lt;p&gt;&lt;strong&gt;This article may contain wsFederation-specific information&lt;/strong&gt;&lt;br&gt;
+	Ensure that your &lt;span class=&quot;caps&quot;&gt;STS&lt;/span&gt; implementation is of the &amp;#8220;passive&amp;#8221; variety, or adjust your fix accordingly.&lt;/p&gt;
+&lt;/div&gt;
+&lt;h3&gt;A difficult-to-search-for &lt;span class=&quot;caps&quot;&gt;WIF&lt;/span&gt; error&lt;/h3&gt;
+&lt;p&gt;I ran across this error using a &lt;span class=&quot;caps&quot;&gt;STS&lt;/span&gt; in an &lt;span class=&quot;caps&quot;&gt;ASP&lt;/span&gt;.Identity (a passive federation) scenario:&lt;/p&gt;
+&lt;pre&gt;WIF10201: No valid key mapping found for securityToken: System.IdentityModel.Tokens.X509SecurityToken and issurer http://*/adfs/ls/&lt;/pre&gt;
 &lt;p&gt;If you are having this problem with a worked-yesterday application, there&amp;#8217;s a good chance that the issuer is using a novel certificate, according to your identity configuration.&lt;/p&gt;
 &lt;p&gt;You can identify the expected certificate &amp;#8220;thumbprint&amp;#8221; (hash value) in the context of &lt;span class=&quot;caps&quot;&gt;ASP&lt;/span&gt;.&lt;span class=&quot;caps&quot;&gt;NET&lt;/span&gt;/&lt;span class=&quot;caps&quot;&gt;MVC&lt;/span&gt; applications, this can be found in a &lt;code&gt;web.config&lt;/code&gt; section in the following &lt;span class=&quot;caps&quot;&gt;XML&lt;/span&gt; path: system.identityModel &amp;#8594; identityConfiguration &amp;#8594; issuerNameRegistry &amp;#8594; authority &amp;#8594; keys&lt;sup class=&quot;footnote&quot; id=&quot;fnr1&quot;&gt;&lt;a href=&quot;#fn1&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-&lt;h4&gt;The source of the error what you&amp;#8217;d expect when crypto hashes disagree.&lt;/h4&gt;
-&lt;p&gt;Since the token isn&amp;#8217;t matching up to your configuration&amp;#8217;s value, there isn&amp;#8217;t any token handling services to deal with tokens that are signed not in the way you&amp;#8217;d expect. So, in the context of when I saw this error in the wild, the error is my &lt;span class=&quot;caps&quot;&gt;MVC&lt;/span&gt; application[fn2] saying:&lt;/p&gt;
+&lt;h3&gt;The source of the error what you&amp;#8217;d expect when crypto hashes disagree.&lt;/h3&gt;
+&lt;p&gt;Since the token isn&amp;#8217;t matching up to your configuration&amp;#8217;s value, there isn&amp;#8217;t any token handling services to deal with tokens that are signed not in the way you&amp;#8217;d expect. So, in the context of when I saw this error in the wild, the error is my &lt;span class=&quot;caps&quot;&gt;MVC&lt;/span&gt; application&lt;sup class=&quot;footnote&quot; id=&quot;fnr2&quot;&gt;&lt;a href=&quot;#fn2&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; saying:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Although I totally understand how to deal with &lt;code&gt;4EA792F77D11E00E181AC5A347ABC7354E957443&lt;/code&gt; tokens, heck, it only takes me 6ms to do it! Nobody&amp;#8217;s told me what to do with a &lt;code&gt;231BAC6EEB5349E31A743B180A6B2309C70C162C&lt;/code&gt; token!&lt;/p&gt;
+&lt;p&gt;I totally understand how to deal with &lt;code&gt;4EA792F77D11E00E181AC5A347ABC7354E957443&lt;/code&gt; tokens, heck, it only takes me 6ms to do it! Nobody&amp;#8217;s told me what to do with a &lt;code&gt;231BAC6EEB5349E31A743B180A6B2309C70C162C&lt;/code&gt; token!&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;h4&gt;Grace periods, self-signing, et al.&lt;/h4&gt;
-&lt;p&gt;There is are two certificate strategies that can be used with &lt;span class=&quot;caps&quot;&gt;ADFS&lt;/span&gt; 2.0+ &lt;a href=&quot;http://blog.kloud.com.au/2013/07/17/ad-fs-and-self-signed-token-signing-certificates-3/&quot;&gt;argued for or against online&lt;/a&gt;, either self-signing or using a CA&amp;#8217;s certiciate. The defaults (if I recally correctly) is to self-sign the token-signing certificate, and expiration in one year.&lt;/p&gt;
-&lt;p&gt;The real lesson I took away from this episode is that security isn&amp;#8217;t a static thing that is &amp;#8220;set it and forget it.&amp;#8221;&lt;/p&gt;
 &lt;p&gt;The next time your &lt;span class=&quot;caps&quot;&gt;ADFS&lt;/span&gt; as &lt;span class=&quot;caps&quot;&gt;STS&lt;/span&gt;-backed application starts throwing errors exactly 15 days before your non-renewing self-signed token-signing certificate expires, you&amp;#8217;ll know why.&lt;/p&gt;
-&lt;h4&gt;So, if all of that stuff is true, here&amp;#8217;s the checklist to fix it.&lt;/h4&gt;
+&lt;h3&gt;Grace periods, self-signing, et al.&lt;/h3&gt;
+&lt;p&gt;There is are two certificate organizational models that can be used with &lt;span class=&quot;caps&quot;&gt;ADFS&lt;/span&gt; 2.0+ &lt;a href=&quot;http://blog.kloud.com.au/2013/07/17/ad-fs-and-self-signed-token-signing-certificates-3/&quot;&gt;argued for or against online&lt;/a&gt;, either self-signing or using a CA&amp;#8217;s certificate. The defaults (if I recally correctly) is to self-sign the token-signing certificate, and expiration in one year.&lt;/p&gt;
+&lt;p&gt;The real lesson I took away from this episode is that security isn&amp;#8217;t a static thing that is &amp;#8220;set it and forget it.&amp;#8221;&lt;/p&gt;
+&lt;h3&gt;So, if all of that stuff is true, here&amp;#8217;s the checklist to fix it.&lt;/h3&gt;
 &lt;ul&gt;
-	&lt;li&gt;Find the current token thumbprint in the application&amp;#8217;s &lt;code&gt;web.config&lt;/code&gt; file (under the path of system.identityModel &amp;#8594; identityConfiguration &amp;#8594; issuerNameRegistry &amp;#8594; authority &amp;#8594; keys, probably) under the issuerNameRegistry or tokenhandler configuration.&lt;/li&gt;
-	&lt;li&gt;Find your &lt;span class=&quot;caps&quot;&gt;STS&lt;/span&gt; metadata xml (typically in &lt;span class=&quot;caps&quot;&gt;ADFS&lt;/span&gt;) and look for the similarly-formatted value. These don&amp;#8217;t match?&lt;/li&gt;
+	&lt;li&gt;Find the current token thumbprint in the application&amp;#8217;s &lt;code&gt;web.config&lt;/code&gt; file (under the path of system.identityModel &amp;#8594; identityConfiguration &amp;#8594; issuerNameRegistry &amp;#8594; authority &amp;#8594; keys, probably) under the &lt;code&gt;issuerNameRegistry&lt;/code&gt; or &lt;code&gt;tokenhandler&lt;/code&gt; sections.&lt;/li&gt;
+	&lt;li&gt;Find your &lt;span class=&quot;caps&quot;&gt;STS&lt;/span&gt; metadata xml (typically in &lt;span class=&quot;caps&quot;&gt;ADFS&lt;/span&gt;, this can be found at https://*/FederationMetadata/2007-06/FederationMetadata.xml.) and look for the similarly-formatted value. These don&amp;#8217;t match?&lt;/li&gt;
 	&lt;li&gt;Check your &lt;span class=&quot;caps&quot;&gt;ADFS&lt;/span&gt; token-signing primary certificate for expiration. It&amp;#8217;s 15 days from when when this error came up?&lt;/li&gt;
 	&lt;li&gt;Depending on your certificate strategy&lt;sup class=&quot;footnote&quot; id=&quot;fnr3&quot;&gt;&lt;a href=&quot;#fn3&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;, update the primary and secondary token-signing certificates.
 	&lt;ul&gt;
@@ -37,9 +41,10 @@
 	&lt;li&gt;To mitigate this taking all day in the future, either &lt;a href=&quot;http://serverfault.com/a/670407&quot;&gt;automate the certificate&amp;#8217;s thumbprint in your configuration&lt;/a&gt; or set a timely reminder (perhaps 20 days out?) to make the change ahead of when &lt;span class=&quot;caps&quot;&gt;ADFS&lt;/span&gt; does it for you.&lt;/li&gt;
 	&lt;li&gt;If you are like me, then write a blog post about it to try and save some poor sod the work of chasing this error down in the future.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p class=&quot;footnote&quot; id=&quot;fn1&quot;&gt;&lt;a href=&quot;#fnr1&quot;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt; Officially, this specific &lt;code&gt;&amp;lt;issuerNameRegistry&amp;gt;&lt;/code&gt; configuration has &lt;a href=&quot;https://msdn.microsoft.com/en-us/library/hh568637(v=vs.110).aspx&quot;&gt;been deprecated&lt;/a&gt; (under the shaded &lt;strong&gt;important&lt;/strong&gt; box), most examples of &lt;span class=&quot;caps&quot;&gt;ADFS&lt;/span&gt; 2.0 and 3.0 configurations use this style. This style is the configuration that the &amp;#8220;Organizational Accounts&amp;#8221; option in Visual Studio 2013 generates for you. Current-er config can be found in VS2015 and &lt;a href=&quot;https://msdn.microsoft.com/en-us/library/hh568638(v=vs.110).aspx&quot;&gt;there is an example on &lt;span class=&quot;caps&quot;&gt;MSDN&lt;/span&gt;&lt;/a&gt; as well.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p class=&quot;footnote&quot; id=&quot;fn1&quot;&gt;&lt;a href=&quot;#fnr1&quot;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt; Officially, this specific &lt;code&gt;&amp;lt;issuerNameRegistry&amp;gt;&lt;/code&gt; configuration has &lt;a href=&quot;https://msdn.microsoft.com/en-us/library/hh568637(v=vs.110).aspx&quot;&gt;been deprecated&lt;/a&gt; (check the information under the shaded &lt;strong&gt;important&lt;/strong&gt; box), most examples of &lt;span class=&quot;caps&quot;&gt;ADFS&lt;/span&gt; 2.0 and 3.0 configurations use this style. This style is the configuration that the &amp;#8220;Organizational Accounts&amp;#8221; option in Visual Studio 2013 generates for you. Current-er config can be found in VS2015 and &lt;a href=&quot;https://msdn.microsoft.com/en-us/library/hh568638(v=vs.110).aspx&quot;&gt;there is an example on &lt;span class=&quot;caps&quot;&gt;MSDN&lt;/span&gt;&lt;/a&gt; as well.&lt;/p&gt;
 &lt;p class=&quot;footnote&quot; id=&quot;fn2&quot;&gt;&lt;a href=&quot;#fnr2&quot;&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt; As a percentage of effort, trying to find the computer to blame for federated login failures is half the fight.&lt;/p&gt;
-&lt;p class=&quot;footnote&quot; id=&quot;fn3&quot;&gt;&lt;a href=&quot;#fnr3&quot;&gt;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt; You have one of those, right?&lt;/p&gt;</description>
+&lt;p class=&quot;footnote&quot; id=&quot;fn3&quot;&gt;&lt;a href=&quot;#fnr3&quot;&gt;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt; Or your organizations&amp;#8217;. You &lt;strong&gt;do&lt;/strong&gt; have a strategy, right?&lt;/p&gt;</description>
         <pubDate>Wed, 03 Jun 2015 12:17:40 -0400</pubDate>
         <link>/2015/06/03/wiferror.html</link>
         <guid isPermaLink="true">/2015/06/03/wiferror.html</guid>
