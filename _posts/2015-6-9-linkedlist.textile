@@ -6,23 +6,20 @@ author: Zacharias
 ---
 
 <div class='alert alert-info'>
-<strong>LinkedLists</strong> are my periodic posts of contextless links that I bury like acorns for a never-coming winter.
+	<strong>LinkedLists</strong> are my periodic posts of contextless links that I bury like acorns for a never-coming winter.
 </div>
-
 
 <div class='row'>
 	<div class='col-md-6'>
-	
-	* "Macalope - A belief system: hoping beyond hope for Apple to fail":http://www.macworld.com/article/2859188/a-belief-system.html
-	* "City of Darkness Revisited (Kowloon Walled City)":http://cityofdarkness.co.uk/order-book/
-	* If somebody asks what a standard attempt to teach software engineers empathy looks like, "this would be fine":http://www.yegor256.com/2015/02/23/haircut.html?2015-08
-	* "Shade: Mathematically derived gradient explorer":http://jxnblk.com/shade/?base=547C2D&hueShift=-81&saturate=-0.57&lighten=-0.33
-	* "Pretty terrific Nordic wood toys":http://shop.playsam.com/shop/
-	* I'm hopeful the limited scope of GPU functionality allows "this to happen":https://www.khronos.org/vulkan
-	
+		"Macalope - A belief system: hoping beyond hope for Apple to fail":http://www.macworld.com/article/2859188/a-belief-system.html
+		"City of Darkness Revisited (Kowloon Walled City)":http://cityofdarkness.co.uk/order-book/
+ 		If somebody asks what a standard attempt to teach software engineers empathy looks like, "this would be fine":http://www.yegor256.com/2015/02/23/haircut.html?2015-08
+		"Shade: Mathematically derived gradient explorer":http://jxnblk.com/shade/?base=547C2D&hueShift=-81&saturate=-0.57&lighten=-0.33
+		"Pretty terrific Nordic wood toys":http://shop.playsam.com/shop/
+		I'm hopeful the limited scope of GPU functionality allows "this to happen":https://www.khronos.org/vulkan
 	</div>
 	<div class='col-md-6'>
-	<img src='http://ih1.redbubble.net/image.6630487.7382/fig,white,mens,ffffff.jpg' class='img img-responsive' />
-	Although it *is* the first open-source typsetting system and a historic Computer Science text, "the typography hasn't aged that well.":http://www.redbubble.com/people/novelnetwear/works/4107382-kernighan-and-ritchie?p=t-shirt
+		<img src='http://ih1.redbubble.net/image.6630487.7382/fig,white,mens,ffffff.jpg' class='img img-responsive' />
+		Although it *is* the first open-source typsetting system and a historic Computer Science text, "the typography hasn't aged that well.":http://www.redbubble.com/people/novelnetwear/works/4107382-kernighan-and-ritchie?p=t-shirt
 	</div>
 </div>

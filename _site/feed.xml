@@ -5,9 +5,135 @@
     <description>Headphone wearing computer typer</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 04 Jun 2015 14:09:14 -0400</pubDate>
-    <lastBuildDate>Thu, 04 Jun 2015 14:09:14 -0400</lastBuildDate>
+    <pubDate>Fri, 19 Jun 2015 16:18:54 -0400</pubDate>
+    <lastBuildDate>Fri, 19 Jun 2015 16:18:54 -0400</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
+    
+      <item>
+        <title>Linked List XXL: A grander bibliography</title>
+        <description>&lt;p&gt;&lt;strong&gt;Finally&lt;/strong&gt;, I&amp;#8217;m now caught up to my relentless link-saving.&lt;/p&gt;
+&lt;p&gt;The purpose of these so called LinkedLists is to share what I&amp;#8217;ve been reading and following on the internet lately. Hopefully, this won&amp;#8217;t show too high of a &lt;a href=&quot;http://news.ycombinator.com&quot;&gt;hacker news&lt;/a&gt; bias, although it&amp;#8217;s been a favorite of mine as of late.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://ecomfe.github.io/echarts/index-en.html&quot;&gt;E-Charts &amp;#8211; Baidu JS chart library&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://github.com/panicinc/PunchClock/tree/master/PunchClock&quot;&gt;Panic&amp;#8217;s PunchClock&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://twitter.com/JonyIveParody&quot;&gt;Fake Jony Ive on Twitter&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.elasticsearch.com/products/marvel?_ga=1.23754746.1597873483.1420209070&quot;&gt;Marvel: Elasticsearch Monitoring&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://github.com/oliver006/elasticsearch-gmail&quot;&gt;Elasticsearch For Beginners: Indexing your Gmail Inbox&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.html5rocks.com/en/tutorials/es7/observe/&quot; title=&quot;&quot;&gt;HTML5Rocks &amp;#8211; Data-binding Revolutions with Object.observe&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://sqrl.pl/guide/index.html#overview&quot;&gt;&lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;SQRL&lt;/span&gt;&lt;/span&gt; An Illustrated Guide&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://ameblo.jp/kyarypamyupamyu/&quot;&gt;Kyary Pamyu Pamuy Official Website&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.popaganda.com/&quot;&gt;Ron English&amp;#8217;s Popaganda&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.poketo.com/collections/stationery-alpha-desc&quot;&gt;Poketo &amp;#8211; Stationary Collection&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.poketo.com/collections/living-alpha-desc/products/kaico-japanese-enamel-kettle&quot;&gt;Poketo &amp;#8211; Kaico Japanese Enamel Kettle&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.uxcheck.co/&quot;&gt;UX Check &amp;#8211; Heuristic User Experience Scanner Extension for Chrome&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://developer.telerik.com/featured/creating-flippable-cards-ui/&quot;&gt;Tekerik Flippable Card UI&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.rollingstone.com/music/features/run-the-jewels-how-2014s-hardest-rap-duo-came-back-from-oblivion-20141024#ixzz3d8jn7RxW&quot;&gt;Run the Jewels: How 2014&amp;#8217;s Brashest Rap Duo Came Back From Oblivion&lt;/a&gt; &lt;br /&gt;
+&lt;a href=&quot;http://www.theatlantic.com/features/archive/2014/12/5200-days-in-space/383510/&quot;&gt;The Atlantic 5,200 Days in Space &amp;#8211; An exploration of life aboard the International Space Station, and the surprising reasons the mission is still worthwhile&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.chrismytton.uk/2015/01/19/web-scraping-with-ruby/&quot;&gt;Web Scraping with Ruby&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://stackoverflow.com/questions/13790752/password-reset-for-azure-database&quot;&gt;Password reset for Azure database&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://trac.roundcube.net/wiki/RoundCube&quot;&gt;RoundCube &amp;#8211; Open source webmail project&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.digitaltutors.com/software/JavaScript-tutorials&quot;&gt;Digital-Tutors Javascript Tutorials&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://azure.microsoft.com/en-us/documentation/articles/cloud-services-continuous-delivery-use-vso/&quot;&gt;Continuous delivery to Azure using Visual Studio Online&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://azure.microsoft.com/en-us/documentation/articles/web-sites-dotnet-deploy-aspnet-mvc-app-membership-oauth-sql-database/&quot;&gt;Create an &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;ASP&lt;/span&gt;&lt;/span&gt;.&lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;NET&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;MVC&lt;/span&gt;&lt;/span&gt; app with auth and &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;SQL&lt;/span&gt;&lt;/span&gt; DB and deploy to Azure App Service&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.pluralsight.com/courses/site-building-bootstrap-angularjs-ef-azure&quot;&gt;Pluralsight &amp;#8211; Building a Site with Bootstrap, AngularJS, &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;ASP&lt;/span&gt;&lt;/span&gt;.&lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;NET&lt;/span&gt;&lt;/span&gt;, EF and Azure&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.pluralsight.com/courses/sharepoint-2013-fundamentals&quot;&gt;Pluralsight &amp;#8211; SharePoint 2013 Fundamentals&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.pluralsight.com/courses/implementing-restful-aspdotnet-web-api&quot;&gt;Pluralsight &amp;#8211; Implementing an &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;API&lt;/span&gt;&lt;/span&gt; in &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;ASP&lt;/span&gt;&lt;/span&gt;.&lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;NET&lt;/span&gt;&lt;/span&gt; Web &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;API&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://techgage.com/article/phanteks-enthoo-evolv-micro-tower-chassis-review/&quot;&gt;Phanteks Enthoo &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;EVOLV&lt;/span&gt;&lt;/span&gt; Micro-Tower Chassis Review&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://shop.nationalgeographic.com/ngs/browse/productDetail.jsp?productId=1020731&amp;amp;green=2ddcf400-d5f8-db4bcf-9e14-f95095d59976&quot;&gt;National Geographic Store &amp;#8211; Pennsylvania Recreation Atlas&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://shop.nationalgeographic.com/ngs/product/maps/wall-maps/specialty-maps/journey-through-hallowed-ground-map?product=product%3A1020646&quot;&gt;National Geographic Store &amp;#8211; Journey Through Hallowed Ground Map&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.tombihn.com/briefcases/TB0345.html&quot;&gt;Tom Bihn &amp;#8211; Horizontal Freudian Slip&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://isotope.metafizzy.co/&quot;&gt;Isotope &amp;#8211; Filter and Sort Magical Layouts&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://boingboing.net/2015/02/12/kowloon-walled-city-was-the-de.html?utm_source=moreatbb&amp;amp;utm_medium=nextpost&amp;amp;utm_campaign=nextpostthumbnails&quot;&gt;Kowloon Walled City was the densest—and most interesting?—place on Earth&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://github.com/mailpile/Mailpile&quot;&gt;Mailpile &amp;#8211; A free &amp;amp; open modern, fast email client with user-friendly encryption and privacy features&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://otr.cypherpunks.ca/&quot;&gt;Cypherpunks &amp;#8211; Off-the-Record Messaging&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://msdn.microsoft.com/en-us/library/azure/hh974476.aspx&quot;&gt;Azure AD Graph &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;API&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.hurryupandwait.io/blog/peering-into-the-future-of-windows-automation-testing-with-chef-vagrant-and-test-kitchen-look-mom-no-ssh&quot;&gt;Peering into the future of windows automation testing with Chef, Vagrant and Test-Kitchen&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://serverfault.com/questions/670093/how-to-close-cd-tray-in-windows-server-2012-r2&quot;&gt;How to close cd tray in Windows Server 2012 r2&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://fluentco.de/&quot;&gt;Scrawl &amp;#8211; The editor for modern developers&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://brickset.com/sets/6081-1&quot;&gt;Lego &amp;#8211; King&amp;#8217;s Mountain Fortress&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.iconfinder.com/iconsets/medicine-and-medical-equipment&quot;&gt;IconFinder &amp;#8211; Medicine and Medical Equipment&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://maxwellito.github.io/vivus/&quot;&gt;Vivus &amp;#8211; draw SVGs with Javascript&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.yegor256.com/2014/08/13/strict-code-quality-control.html&quot;&gt;Strict Control of Java Code Quality&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.aliexpress.com/store/product/mini-pci-e-to-USB-PCI-e-express-1X-Riser-Extender-adapter-Card-10-20-30cm/825827_912965537.html&quot;&gt;mini pci-e to &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;USB&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;PCI&lt;/span&gt;&lt;/span&gt;-e express 1X Riser Extender adapter Card+10/20/30cm &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;FFC&lt;/span&gt;&lt;/span&gt; Cable&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.aliexpress.com/store/product/2-port-FireWire-IEEE-1394a-ExpressCard-VIdeo-Capture-Card/601043_317216726.html&quot;&gt;Mini PCIe USB2.0 adapter Mini &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;PCI&lt;/span&gt;&lt;/span&gt;-E to &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;USB&lt;/span&gt;&lt;/span&gt; 2.0 card&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://hellobond.com/&quot;&gt;Bond&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://wiki.plexhosted.com/kb/Microsoft_SharePoint_2013:Categorizing_Wiki_Pages&quot;&gt;Microsoft SharePoint 2013:Categorizing Wiki Pages&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://chronicle.com/article/A-Positive-Solution-for/134498/&quot;&gt;A Positive Solution for Plagiarism&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.colourlovers.com/palette/3675744/Lets_Wait_Awhile&quot;&gt;ColourLovers &amp;#8211; Let&amp;#8217;s Wait Awhile&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.fiio.net/en/products/33&quot;&gt;FiiO E12A Headphone Amp&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.airserver.com/&quot;&gt;Airserver &amp;#8211; Multiple Device Airplay&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.offensive-security.com/kali-linux/raspberry-pi-luks-disk-encryption/&quot;&gt;Kali Linux on a Raspberry Pi (A/B+/2) with Disk Encryption&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.wired.com/2015/03/disney-magicband/&quot;&gt;Disney’s $1 Billion Bet on a Magical Wristband&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://shop.herschelsupply.com/collections/duffle/products/sutton-duffle-mid-volume-black-tarpaulin&quot;&gt;Herschel Supply &amp;#8211; Sutton Mid&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.norcotek.com/item_detail.php?categoryid=1&amp;amp;modelno=RPC-230&quot;&gt;Norco &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;RPC&lt;/span&gt;&lt;/span&gt;-230 2U Rackmount Chassis&lt;/a&gt; &lt;sup class=&quot;footnote&quot; id=&quot;fnr1&quot;&gt;&lt;a href=&quot;#fn1&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.macworld.com/article/2897715/the-new-macbook-is-cool-but-the-powerbook-duo-was-cooler.html&quot;&gt;The new MacBook is cool, but the PowerBook Duo was cooler&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://readonlymemory.vg/shop/book/sensible-software-1986-1999/&quot;&gt;Sensible Software 1986-1999&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://sachsmc.github.io/tufterhandout/&quot;&gt;Tufte-style &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;HTML&lt;/span&gt;&lt;/span&gt; in rmarkdown&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.daveliepmann.com/tufte-css/&quot;&gt;Tufte &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;CSS&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.phillymag.com/foobooz/2015/03/08/mystery-le-hop-sing-laundromat/&quot;&gt;The Mystery of Lê From Hop Sing Laundromat&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.belkin.com/us//F8J088/p/F8J088bt&quot;&gt;Belkin Express Dock for iPad with built-in 4-foot &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;USB&lt;/span&gt;&lt;/span&gt; cable&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.newegg.com/Product/Product.aspx?Item=N82E16817994146&quot;&gt;Newegg &amp;#8211; Icy Dock ToughArmor&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://help.ubuntu.com/community/OpenVPN&quot;&gt;Ubuntu OpenVPN&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://openvpn.net/index.php/open-source/documentation/howto.html&quot;&gt;OpenVPN How-To&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://grantland.com/hollywood-prospectus/from-action-bronson-to-yelawolf-a-field-guide-to-todays-white-rappers/&quot;&gt;From Action Bronson to Yelawolf: A Field Guide to Today’s White Rappers&lt;/a&gt; &lt;sup class=&quot;footnote&quot; id=&quot;fnr2&quot;&gt;&lt;a href=&quot;#fn2&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;br /&gt;
+&lt;a href=&quot;http://grantland.com/features/a-week-action-bronson/&quot;&gt;A highly stoned, deeply weird, very food-obsessed three days on the road with 300-pound Albanian American rapper Action Bronson&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.gog.com/game/pillars_of_eternity_champion_edition&quot;&gt;Good Old Games &amp;#8211; Pillars of Eternity&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://techkeys.us/collections/keys/products/mario-luigi-set&quot;&gt;Techkeys for Cherry MX Switches &amp;#8211; Mario and Luigi Set&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://techkeys.us/collections/keys/products/roulette-set&quot;&gt;Techkeys for Cherry MX Switches &amp;#8211; Roulette Set&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.newegg.com/Product/Product.aspx?Item=9SIA3TR1JT7021&quot;&gt;Newegg &amp;#8211; Direct-Plug &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;SATA&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;SSD&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://smcleod.net/building-a-high-performance-ssd-san/&quot;&gt;Building a high performance &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;SSD&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;SAN&lt;/span&gt;&lt;/span&gt; &amp;#8211; Part 1&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://shop.mlb.com/product/index.jsp?productId=33925266&amp;amp;cp=12310646.707602&quot;&gt;Philadelphia Phillies Authentic Collection Low Crown On-Field 59FIFTY Game Cap&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.cgpgrey.com/blog/voyage-to-nowhere&quot;&gt;Voyage To Nowhere: The Amazon Kindle Story&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.duckware.com/bugfreec/chapter4.html&quot;&gt;Writing Bug-Free C Code: Chapter 4 &amp;#8211; The Class Methodology&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://msdn.microsoft.com/en-gb/data/dn314429&quot; title=&quot;EF6 onwards&quot;&gt;Testing with a mocking framework&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://deanhume.com/home/blogpost/test-your-mvc-routes-with-moq/28&quot;&gt;Test your &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;MVC&lt;/span&gt;&lt;/span&gt; Routes with &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;MOQ&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://aikmeng.com/post/62817541825/how-to-mock-dbcontext-and-dbset-with-moq-for-unit&quot;&gt;How to mock DbContext and DbSet with Moq for unit testing?&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://github.com/TestStack/TestStack.Seleno&quot;&gt;TestStack.FluentMVCTesting &amp;#8211; Simple, terse, fluent automated testing for &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;ASP&lt;/span&gt;&lt;/span&gt;.&lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;NET&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;MVC&lt;/span&gt;&lt;/span&gt; Controllers&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.pluralsight.com/courses/automated-aspdotnet-mvc&quot;&gt;Pluralsight &amp;#8211; Automated &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;ASP&lt;/span&gt;&lt;/span&gt;.&lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;NET&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;MVC&lt;/span&gt;&lt;/span&gt; Testing: End to End&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://sahandsaba.com/nine-anti-patterns-every-programmer-should-be-aware-of-with-examples.html&quot;&gt;9 Anti-Patterns Every Programmer Should Be Aware Of&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://deckofcardsapi.com/&quot;&gt;Deck of Cards &amp;#8211; An &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;API&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://narrowstreetssf.com/mcallister/&quot;&gt;Narrowing a Residential Street – McAllister&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://joseph.mx/blog/2015/05/12/Pure-CSS-FizzBuzz.html&quot;&gt;Pure &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;CSS&lt;/span&gt;&lt;/span&gt; FizzBuzz&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://help.github.com/articles/github-flavored-markdown/&quot;&gt;Github Flavored Markdown&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.upedu.org/papers/ICSE2015_OrganizationalFactors/LavalleeRobillard_ICSE2015_WhyGoodDevelopersWriteBadCode.pdf&quot;&gt;Why Good Developers Write Bad Code &amp;#8211; An Observational Case Study of the Impacts of Organizational Factors on Software Quality&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://blog.factual.com/docker-mesos-marathon-and-the-end-of-pets&quot;&gt;Docker, Mesos, Marathon, and the End of Pets&lt;/a&gt; &lt;sup class=&quot;footnote&quot; id=&quot;fnr3&quot;&gt;&lt;a href=&quot;#fn3&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;br /&gt;
+&lt;a href=&quot;http://geekswithblogs.net/BlackRabbitCoder/archive/2012/07/12/c.net-little-wondres-the-nullablelttgt-struct.aspx&quot;&gt;C#/.&lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;NET&lt;/span&gt;&lt;/span&gt; Little Wonders: The Nullable T struct&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.aliexpress.com/store/product/9-7-Teclast-X98-3G-Intel-Bay-Trail-T-Quad-Core-Tablet-PC-1-83GHz-Retina/609719_1862203196.html&quot;&gt;Teclast X98 Air 3G 64GB Dual Boot Intel Bay Trail-T Quad Core Tablet PC 2GB &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;RAM&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;GPS&lt;/span&gt;&lt;/span&gt; 3G Phone Call 9.7 &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;IPS&lt;/span&gt;&lt;/span&gt; Screen&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p class=&quot;footnote&quot; id=&quot;fn1&quot;&gt;&lt;a href=&quot;#fnr1&quot;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt; I have two of these deployed at home. Review to follow.&lt;/p&gt;
+&lt;p class=&quot;footnote&quot; id=&quot;fn2&quot;&gt;&lt;a href=&quot;#fnr2&quot;&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt; Not having Jonwayne on this list ensures I feel dubious as to comprehensiveness.&lt;/p&gt;
+&lt;p class=&quot;footnote&quot; id=&quot;fn3&quot;&gt;&lt;a href=&quot;#fnr3&quot;&gt;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt; I&amp;#8217;m basically including this because of the comic at the top, I&amp;#8217;ll admit.&lt;/p&gt;</description>
+        <pubDate>Fri, 19 Jun 2015 12:14:40 -0400</pubDate>
+        <link>/2015/06/19/LinkedestList.html</link>
+        <guid isPermaLink="true">/2015/06/19/LinkedestList.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>LinkedList - Summertime, okay.</title>
+        <description>&lt;div class=&#39;alert alert-info&#39;&gt;
+&lt;p&gt;&lt;strong&gt;LinkedLists&lt;/strong&gt; are my periodic posts of contextless links that I bury like acorns for a never-coming winter.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#39;row&#39;&gt;
+&lt;div class=&#39;col-md-6&#39;&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.macworld.com/article/2859188/a-belief-system.html&quot;&gt;Macalope &amp;#8211; A belief system: hoping beyond hope for Apple to fail&lt;/a&gt;&lt;br /&gt;
+		&lt;a href=&quot;http://cityofdarkness.co.uk/order-book/&quot; title=&quot;Kowloon Walled City&quot;&gt;City of Darkness Revisited&lt;/a&gt;&lt;br /&gt;
+ 		If somebody asks what a standard attempt to teach software engineers empathy looks like, &lt;a href=&quot;http://www.yegor256.com/2015/02/23/haircut.html?2015-08&quot;&gt;this would be fine&lt;/a&gt;&lt;br /&gt;
+		&lt;a href=&quot;http://jxnblk.com/shade/?base=547C2D&amp;amp;hueShift=-81&amp;amp;saturate=-0.57&amp;amp;lighten=-0.33&quot;&gt;Shade: Mathematically derived gradient explorer&lt;/a&gt;&lt;br /&gt;
+		&lt;a href=&quot;http://shop.playsam.com/shop/&quot;&gt;Pretty terrific Nordic wood toys&lt;/a&gt;&lt;br /&gt;
+		I&amp;#8217;m hopeful the limited scope of &lt;span class=&quot;caps&quot;&gt;GPU&lt;/span&gt; functionality allows &lt;a href=&quot;https://www.khronos.org/vulkan&quot;&gt;this to happen&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#39;col-md-6&#39;&gt;
+&lt;p&gt;&lt;img src=&#39;http://ih1.redbubble.net/image.6630487.7382/fig,white,mens,ffffff.jpg&#39; class=&#39;img img-responsive&#39; /&gt;&lt;br /&gt;
+		Although it &lt;strong&gt;is&lt;/strong&gt; the first open-source typsetting system and a historic Computer Science text, &lt;a href=&quot;http://www.redbubble.com/people/novelnetwear/works/4107382-kernighan-and-ritchie?p=t-shirt&quot;&gt;the typography hasn&amp;#8217;t aged that well.&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+        <pubDate>Tue, 09 Jun 2015 16:17:40 -0400</pubDate>
+        <link>/2015/06/09/linkedlist.html</link>
+        <guid isPermaLink="true">/2015/06/09/linkedlist.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Solved - Error WIF10201 with ADFS 3.0 and MVC 5</title>
@@ -196,77 +322,6 @@ it. The impulse, sublimated over my 20s, was to share the (not very wide) world 
         <pubDate>Mon, 03 Nov 2014 05:19:40 -0500</pubDate>
         <link>/2014/11/03/asp5ident.html</link>
         <guid isPermaLink="true">/2014/11/03/asp5ident.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>A for Amiga – Ctrix (2013)</title>
-        <description>&lt;div class=&quot;row&quot;&gt;
-&lt;p&gt;&lt;div class=&quot;col-md-6&quot;&gt;&lt;br /&gt;
-		&lt;p class=&quot;lead&quot;&gt;I&amp;#8217;ve really been enjoying this album.&lt;br &gt;
-		&lt;p&gt;&lt;a href=&quot;http://www.bleepstreet.com/?post=bleepst24-ctrix-a-for-amiga&quot;&gt;&lt;em&gt;A for Amiga&lt;/em&gt; &amp;#8211; Ctrix&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;col-md-6&quot;&gt;
-&lt;p&gt;&lt;iframe style=&quot;border: 0; width: 100%; height: 120px;&quot; src=&quot;http://bandcamp.com/EmbeddedPlayer/album=3399250356/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/&quot; seamless&gt;&lt;a href=&quot;http://bleepstreet.bandcamp.com/album/a-for-amiga&quot;&gt;A for Amiga by cTrix&lt;/a&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;/div&gt;</description>
-        <pubDate>Tue, 14 Oct 2014 11:19:40 -0400</pubDate>
-        <link>/2014/10/14/nicealbum.html</link>
-        <guid isPermaLink="true">/2014/10/14/nicealbum.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Linked List 1: A grand bibliography</title>
-        <description>&lt;div class=&quot;row&quot;&gt;
-&lt;div class=&quot;col-md-12&quot;&gt;
-&lt;p&gt;The only part of the Getting Things Done productivity framework that really stuck with me was the notion of ubiquitous capture. Meaning, I do a good job of recording stuff I&amp;#8217;ve read, looked at, thought about, etc, in order to&amp;#8230;&lt;/p&gt;
-&lt;p&gt;That&amp;#8217;s the part I&amp;#8217;m not as great at. But it incidentally does a good job of serving of recording my interests in web tech, and literal miscellany.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;col-md-6&quot;&gt;
-&lt;h4&gt;Certainly Work Related&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&quot;http://sharpsplash.wordpress.com/2012/08/03/integrate-microsoft-lync-into-a-asp-net-web-application/&quot;&gt;Integrating Lync into &lt;span class=&quot;caps&quot;&gt;ASP&lt;/span&gt;.net applications&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://blogs.msdn.com/b/tomholl/archive/2013/03/02/integrate-lync-into-your-intranet-sites-using-the-namectrl-plug-in.aspx&quot;&gt;More Lync/&lt;span class=&quot;caps&quot;&gt;ASP&lt;/span&gt; Integration&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;https://developers.google.com/analytics/devguides/reporting/core/v3/&quot;&gt;Google Analytics Reporting &lt;span class=&quot;caps&quot;&gt;API&lt;/span&gt;&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://www.codeducky.org/javascript-new-confusing/&quot;&gt;Javascript&amp;#8217;s New Keyword is confusing:&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://www.codeducky.org/ins-outs-c-enums/&quot;&gt;C# Enums&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://www.codeducky.org/razor-trick-pass-razor-code-into-methods/&quot;&gt;Pass Razor Code to controller methods&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://www.codeducky.org/razor-trick-using-block/&quot;&gt;Stephen Wexler Hat Trick: Razor Using Block&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://www.codemag.com/Article/1210071&quot;&gt;Intro to SignalR&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://www.asp.net/signalr/overview/signalr-20/getting-started-with-signalr-20/tutorial-getting-started-with-signalr-20-and-mvc-5&quot;&gt;Getting Started with SignalR&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://instantclick.io/github-pages-and-apex-domains&quot;&gt;GitHub Pages and apex domains&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;https://konklone.com/post/github-pages-now-supports-https-so-use-it&quot;&gt;Github Pages how httpses&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;https://github.com/prose/prose/wiki/Getting-Started&quot;&gt;A Github Pages Frontend&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://fezvrasta.github.io/snackbarjs/&quot;&gt;Snackbar.js&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;https://fezvrasta.github.io/bootstrap-material-design/&quot;&gt;Google Material Design + Bootstrap&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;col-md-6&quot;&gt;
-&lt;h4&gt;Getting Colder&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&quot;http://shop.oreilly.com/product/0636920019664.do#PowerReview&quot; class=&quot;Book&quot;&gt;O&amp;#8217;Rielly Sinatra Book&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;https://practicingruby.com/articles/infrastructure-automation&quot;&gt;Infrastructure Automation with Chef&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://godrb.com/&quot;&gt;God.rb&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://learn.getchef.com/&quot;&gt;Learn Chef&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;https://github.com/opscode-cookbooks/windows&quot;&gt;Chef Windows Opscode Cookbook&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://docs.getchef.com/&quot;&gt;GetChef&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://mlafeldt.github.io/blog/learning-chef/&quot;&gt;Learning Chef&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;https://www.getchef.com/blog/2013/09/04/demystifying-common-idioms-in-chef-recipes/&quot;&gt;Common Chef Idoims&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://www.flaticon.com/packs/academic-2/5&quot;&gt;Flat Icons: Academic&lt;/a&gt;&lt;/p&gt;
-&lt;h4&gt;Even Colder&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&quot;http://netwars-project.com/webdoc&quot;&gt;Internet doc about Cyberwarfare&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://www.bbc.co.uk/news/special/2014/newsspec_8700/index.html&quot;&gt;Nice use of bootstrap affix-ian effect mid-narrative&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://www.bloomberg.com/news/2014-09-27/rosneft-says-exxon-arctic-well-strikes-oil.html&quot;&gt;Oil in the arctic&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://www.polygon.com/2014/8/18/6030725/star-wars-hd-despecialized-edition&quot;&gt;Despecialized Star Wars&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;col-md-12&quot;&gt;
-&lt;p&gt;And that&amp;#8217;s a week&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;</description>
-        <pubDate>Mon, 13 Oct 2014 06:24:40 -0400</pubDate>
-        <link>/2014/10/13/linkedlist.html</link>
-        <guid isPermaLink="true">/2014/10/13/linkedlist.html</guid>
         
         
       </item>
