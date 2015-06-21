@@ -4,62 +4,59 @@ title:  "Six Whines about Final Fantasy VI on it's 20th Birthday"
 date:   2014-10-05 19:18:40
 author: Zacharias
 ---
+<style>
+	h3 { margin-bottom: 1em; }
+</style>
 
 <div class="container">
+
 <div class="row">
 	<div class="col-md-12">
-	<p class='lead' style="padding-top:1em;">In which I celebrate 20th anniversary of the release of Final Fantasy 3 on the SNES in 1994 by whining about it. 
-		<br>
-		<br>
-		This was the first game I'd ever purchased on launch day: October 11, 1994, and I still have the cart and SNES plugged into a 13" CRT TV. I played though, just like I did twenty years prior. Here's a quick list of things I noticed on this most-recent playthrough.</p>
-		</div>
+	<p class="lead" style="padding-top:1em;">In which I celebrate 20th anniversary of the release of Final Fantasy 3 on the SNES in 1994 by whining about it.</p>
+	<p>This was the first game I'd ever purchased on launch day: October 11, 1994, and I still have the cart and SNES plugged into a 13" CRT TV. I played though, just like I did twenty years prior. Here's a quick list of things I noticed on this most-recent playthrough.</p>
+	</div>
+</div>
+	
+<div class="row">
+	<div class="col-md-12">
+		<p><span class="label label-primary">New</span> Since this is on GitHub Pages, you can now <a href="https://github.com/Zacharias/zacharias.github.io/commits/master/_posts/2014-10-04-ff6.markdown">view this post's revision history</a> and watch me gradually come to grips with the English language.</p>
+	</div>
 </div>
 
-	<div class="row">
-		<div class="col-md-12">
-			<p><span class="label label-primary">New</span> Since this is on GitHub Pages, you can now <a href="https://github.com/Zacharias/zacharias.github.io/commits/master/_posts/2014-10-04-ff6.markdown">view this post's revision history</a> and watch me gradually come to grips with the English language.</p>
-		</div>
-	</div>
-
 
 <div class="row">
 	<div class="col-md-12">
-		<h3 style="margin-bottom:1em;">1. Writing and Thematic Confusion</h3>
+		<h3>1. Writing and Thematic Confusion</h3>
 	</div>
-	
 	<div class="col-md-8">
 		<p>Final Fantasy games have had a lot of writing tone changes over the years. A note when I was looking for something on the FF Wiki <a href="http://finalfantasy.wikia.com/wiki/Cyan_Garamonde#cite_note-V-Jump-1">regarding Cyan</a> and I noticed that each character was brought up in a meeting by individuals on the team. The fact that many character arcs weren't as strong as others shouldn't really surprise since there is a total of 14 "permanent" characters in Final Fantasy VI. Gau is a great example - his entire "arc" is about three minutes long.</p>
-		<p>Even though a madman would take exactly one character through the grueling dungeon/town of Zozo (Hey, is that an oblique Rolling Stones reference I just got after two decades?). Only those who are madmen by comparison would only take Gau to Zozo. Let's say that happens. Then, you get <strong> MAGIC SPECIAL DIALOG.</strong> A rare exception case for madmen is <a href="http://www.gamefaqs.com/boards/554041-final-fantasy-iii/68540400">only taking Gau to Zozo</a>. In a game where there are DOZENS of "no character in particular is speaking" scenes, they write specific dialog for the worst character in the game.</p>
-			
-<p>Since the entire post-airship World of Ruin could have anyone as the main character, the protagonist is... nobody.</p> 
+		<p>Even though a madman would take exactly one character through the grueling dungeon/town of Zozo (Hey, is that an oblique Rolling Stones reference I just got after two decades?). Only those who are madmen by comparison would only take Gau to Zozo. Let's say that happens. Then, you get <strong> MAGIC SPECIAL DIALOG.</strong> A rare exception case for madmen is <a href="http://www.gamefaqs.com/boards/554041-final-fantasy-iii/68540400">only taking Gau to Zozo</a>. In a game where there are DOZENS of "no character in particular is speaking" scenes, they write specific dialog for the worst character in the game.</p>	
+		<p>Since the entire post-airship World of Ruin could have anyone as the main character, the protagonist is... nobody.</p> 
 		<p>On this latest playthrough I noticed that a big portion of the same, from the big battle at Narshe, to the aquisition of a player controlled-airship, the game is about Locke and Celes' relationship. Or is about how important Terra is? (Spoiler Alert: she isn't) Then the whole game is about how Celes isn't a conflicted-spy girl/person? Then the whole game is giving Cid fish until he dies.</p>
-
-	<p>Final Fantasy games have had a lot of writing tone and theme changes over the years, although the games tend to lean on reliable tentpoles. I was <a href="http://finalfantasy.wikia.com/wiki/Cyan_Garamonde#cite_note-V-Jump-1">looking for something on the FF Wiki (about Cyan)</a> and I noticed that each character was brought up in a meeting by individuals on the team. The fact that many character arcs weren't as strong as others shouldn't really surprise since there is a total of 14 "permanent" characters in Final Fantasy VI. A roster-by-committee is bound to be somewhat less even, right?</p>	
+		<p>Final Fantasy games have had a lot of writing tone and theme changes over the years, although the games tend to lean on reliable tentpoles. I was <a href="http://finalfantasy.wikia.com/wiki/Cyan_Garamonde#cite_note-V-Jump-1">looking for something on the FF Wiki (about Cyan)</a> and I noticed that each character was brought up in a meeting by individuals on the team. The fact that many character arcs weren't as strong as others shouldn't really surprise since there is a total of 14 "permanent" characters in Final Fantasy VI. A roster-by-committee is bound to be somewhat less even, right?</p>	
 	</div>
-	
 	<div class="col-md-4">
 		<img src="/assets/ff62.jpg" class="img img-responsive">
 		<p style="padding:1em;" class="text-primary"><em>When I was a kid, playing through the game for the second-third time in 1995, I played the game like a buddy cop movie with Sabin and Shadow, with occasional Cyan appearances. Gau was left on the Veldt, where he was most happy.</em></p>
 	</div>
 </div>
 
-<div class="row" >
+<div class="row">
 	<div class="col-md-12">
-		<h3 style="margin-bottom:1em;">2. Character "pacing" and roster</h3>
+		<h3>2. Character "pacing" and roster</h3>
 	</div>
 	
 	<div class="col-lg-8 col-md-12">
-		
 		<p>It'd be sacrilege if each playable character didn't have their own abilities. They do. Great! In comparison to a game with a smaller cast like, say, Chrono Trigger, I didn't feel like I needed a specific character's ability to compete. Abilities are divided into magic and not-magic physical, so rock-paper-scissors is short a rock</p>
-			<p>I don't mind how Final Fantasy IV: The After Years manages to keep each combination of characters fresh by using the band system. In Final Fantasy VI,  there's two kinds of characters:</p>
-		<ul><li>Characters you leveled yourself, with benefits of Esper-powered stat ups at each level.</li>
-		<li>Scrub characters.</li>
-	</ul>
+		<p>I don't mind how Final Fantasy IV: The After Years manages to keep each combination of characters fresh by using the band system. In Final Fantasy VI,  there's two kinds of characters:</p>
+		<ul>
+			<li>Characters you leveled yourself, with benefits of Esper-powered stat ups at each level.</li>
+			<li>Scrub characters.</li>
+		</ul>
 		<p>This wouldn't be such a problem except that there is a wide gap between initially useful characters and everybody else. </p>
 		<p>Heaven forbid you aren't using the "right" characters at the right time! This mistake burnt me so bad I recall the anguish perfectly. I used Sabin, Cyan, Gau, and Edgar for the initial Zozo expedition - just to have to use Celes and Locke for a huge chunk afterwards! Then, later on, when I had to use Terra, I wasn't using her and man, the dungeon you're crawling with her turns into a real slog.</p>
 		<p>This made me feed like a dumb 11 year old. Well-designed things don't make people feel dumb.</p>
-		<p>By the end of the game, equipment and magic selection overshadows pretty much every other feature of the characters that these differences, except that your scrub characters in best-in-slot equipment are vastly worse than your hand-leveled characters in whatever thrift store castoffs you put them in. For the first half of the game, for most of the time, you are limited in what characters you get to choose to use. I went broke equipping Shadow for his big Esper-hunting trip to Thamsaha. And then sold his equipment before going to the Floating Continent. </p>
-</p>
+		<p>By the end of the game, equipment and magic selection overshadows pretty much every other feature of the characters that these differences, except that your scrub characters in best-in-slot equipment are vastly worse than your hand-leveled characters in whatever thrift store castoffs you put them in. For the first half of the game, for most of the time, you are limited in what characters you get to choose to use. I went broke equipping Shadow for his big Esper-hunting trip to Thamsaha. And then sold his equipment before going to the Floating Continent.</p>
 </div>
 
 <div class="col-md-4">
@@ -71,30 +68,27 @@ author: Zacharias
 
 <div class="row" style="background:url(/assets/ff65.jpg); background-size:cover; background-position: center center; min-height:340px; margin-top:2em; margin-bottom:2em;"></div>
 
-
 <div class="row">
 	<div class="col-md-6">
-		<h3 style="margin-bottom:1em;">3. The equipment and stat pacing is terrible</h3>
+		<h3>3. The equipment and stat pacing is terrible</h3>
 		<p>There is a stretch of the game, about 40%, where the <a href="http://finalfantasy.wikia.com/wiki/List_of_Final_Fantasy_VI_Weapons#Stoneblade">a sword is the best sword you can have</a>. This is extra-extra-extra annoying - it's not like it costs extra money to throw us a bone here. For some characters, you can switch their equipment out under five times go to through the entire game.</p>
 		<p>This is something I found curious about FF6 vs FF4, or their SNES equivalents: I felt like there was way more items, but since there wasn't assets for them (which I think is a huge reason Diablo and WoW did so well), I never felt like I was getting cool stuff. Itemization was all over. By the time I uncursed the Paladin Shield, I was a high enough-level to <strong>Godzilla stomp</strong> over the entire endgame with three whole parties. Items like the Aura Lance and Excalibur can literally be used for under 60 seconds, in comparison.</p><p> This is about the only reason the bonus content on the GBA is nice to have, if only to un-pointless certain itemization choices at the end of the game.</p>
 	</div>
 
 	<div class="col-md-6">
-		<h3 style="margin-bottom:1em;">4. Bugs!</h3>
+		<h3>4. Bugs!</h3>
 		<p>After doing some cursory reading on how certain mechanics in this version of the game are totally broken, SNES FF3 got super-super-easy. Specifically, the evade bug and the vanish-doom/x-zone glitch.</p>
 		<img src="/assets/ff66.png" class="img-responsive">
 		<small class="text-center"><a href="http://www.finalfantasykingdom.net/finalfantasyvisecrets.php">Thanks for the image, badly designed Final Fantasy webpage!</a></small>
 	</div>
 </div>
 
-
-
+<!-- This is proto Tufte style, I just realized.-->
 <div class="row" style="background:url(/assets/ff67.gif); background-size:cover; background-position: center center; min-height:340px; margin-top:2em; margin-bottom:2em;"></div>
-
 
 <div class="row" style="margin-top:1em;">
 	<div class="col-md-12">
-		<h3 style="margin-bottom:1em;">5. I really like the Environment Design!</h3>
+		<h3>5. I really like the Environment Design!</h3>
 	</div>
 	<div class="col-lg-8 col-md-12">
 		<p>I didn't remember how steam-magic-punk this game was until my more recent playthrough. The Imperial technology buildings are awesome! Since my frame of reference at the time was Final Fantasy IV (three cool dungeons: Tower of Zot/Babil, Giant of Babil, Lunar Core besides 50 boring caves.), there is a longer history of strictly-not-fantasy-as-a-genre Final Fantasy series when you think about it. My mental model of pre FF7 main series games were pretty much medieval in theme and setting, but even FF1 had the Flying Fortress (Warmech's house), which in the original iteration, was basically a proto Vector.</p>
@@ -103,10 +97,9 @@ author: Zacharias
 	</div>
 </div>
 
-
 <div class="row" style="margin-top:1em;">
 	<div class="col-md-12">
-		<h3 style="margin-bottom:1em;">6. There are entirely too many ports of this game</h3>
+		<h3>6. There are entirely too many ports of this game</h3>
 	</div>
 	<div class="col-md-8">
 		<p>I played through the original FF6 cart, and I also played the final boss on the Super Famicom FF6 cart I had laying around, too (thanks, JPN ebayer who thoughtfully played the entire game through for me!). I've played through this game on Game Boy Advance (for the bonus content at the end), and also on PSX when FF9 wasn't really doing it for me. I have not played the iOS version, mostly because I've been playing FF4 on that platform sporadically. How many more re-releases does Square have for the pre-7 series? Ironically, my favorite version of this game isn't even a real platform: I did a playthrough a few years back on a GameBoy Advance emulator on PSP, and it was the best combination of handiness and graphics for me, personally.</p>
@@ -120,19 +113,18 @@ author: Zacharias
 		The load time on the PSX version is <strong>bad</strong> to the point where I'd take the game-breaking bugs of the SNES version over it. I'm unsure if the PSN version is any better in this regard, though. The Virtual Console version for Wii looks relatively unmolested from its FF3/SNES roots.
 		</p>	
 	</div>
-	
-		<div class="col-md-4">
-			<img src="/assets/ff6gba.jpg" class="img img-responsive" style="margin-top:.5em;">		
-			<img src="/assets/ff4gba.png" class="img img-responsive" style="margin-top:.5em;">	
-			<p style="padding:1em;" class="text-primary"><em>For whatever reason, the typography in FF6 is slightly worse than other Final Fantasy games on the same hardware.</em></p>
-		</div>
+	<div class="col-md-4">
+		<img src="/assets/ff6gba.jpg" class="img img-responsive" style="margin-top:.5em;">		
+		<img src="/assets/ff4gba.png" class="img img-responsive" style="margin-top:.5em;">	
+		<p style="padding:1em;" class="text-primary"><em>For whatever reason, the typography in FF6 is slightly worse than other Final Fantasy games on the same hardware.</em></p>
+	</div>
 </div>
 
 
 
 <div class="row" style="margin-top:1em;">
 	<div class="col-md-12">
-		<h3 style="margin-bottom:1em;">Finally</h3>
+		<h3>Finally</h3>
 	</div>
 	<div class="col-md-8">
 		<ul>
@@ -143,42 +135,26 @@ author: Zacharias
 		<li>Hey look, a train, and conveyor belts!</li>
 		<li>If you had to pick a version, the GBA is my favorite.</li>
 		</ul>
-		
 		<p>I think a lot of appeal of this game over FF4 (and many other of it's contemporaries) is the flexibility you have in both plot and characters. A lot of the not-sterling implementation problems of this game can be traced back to those innovative design decisions, decisions that you'd see come into fuller focus with games like FF10/12. Player-perplexing character same-i-ness and forced party selections remind us of the worst of FF13. I hope that the fact that I'm appreciative of the experience of this game, and it's novel emphasis on theme over character and nonlinearity in console RPGs, shine through the criticism. 
 		</p>
-		
 		<p style="margin:2em;"><em class="fa fa-heart"></em> Zacharias Stankiewicz</p>
-		
-		</div>
-		
-		
-	</div>
+	</div>		
+</div>
 
 <div class="row" style="margin-top:1em; margin-bottom:1em;">
 	<div class="col-md-12">
-		<h3 style="margin-bottom:1em;">Postscript</h3>
+		<h3>Postscript</h3>
 	</div>
 	<div class="col-md-6"><p>Due to my youthful and continuous devotion for everything SNES RPG I was on many (non-digital) mailing lists. Via one of them, I was sent a VHS tape of <a href="http://www.unseen64.net/2008/04/04/final-fantasy-64-ff6-cgi-tech-demo/">an amazing tech demo (for what would become FF7 engine)</a> and my mind is still processing the notion of a 3D remake of this title. </p>
 		<p>I imagine its how younger gamers felt when they saw the FF7 tech demo when the PS3 was introduced.</p>
-			</div>
+	</div>
 	<div class="col-md-6">
-		<p>Due to when this game became popular, there's a lot of proto-web sites out there when you search on game-specific proper nouns:</p>
-			<ul>
-				<li><a href="http://www.fenrir.finalfantasyq.com/ff6/realestate/index.html">South Figaro Real Estate Office</a> - It's even written in-universe!</li>
-				<li><a href="http://www.finalfantasykingdom.net/6snesskill8.php">Gau is worthless</a> </li>				
-				<li><a href="http://finalfantasy.wikia.com/wiki/Final_Fantasy_VI">FF Wikia</a> </li>
-				<li><a href="http://www.cinemablend.com/games/Final-Fantasy-6-Characters-Ranked-By-Greatness-64960-p14.html">FF6 Character Power Rankings</a> - iOS remake art </li>
-				</ul>
+		<p>Owing to when this game became popular, there's a lot of proto-web sites out there when you search on game-specific proper nouns:</p>
+		<ul>
+			<li><a href="http://www.fenrir.finalfantasyq.com/ff6/realestate/index.html">South Figaro Real Estate Office</a> - It's even written in-universe!</li>
+			<li><a href="http://www.finalfantasykingdom.net/6snesskill8.php">Gau is worthless</a> </li>				
+			<li><a href="http://finalfantasy.wikia.com/wiki/Final_Fantasy_VI">FF Wikia</a> </li>
+			<li><a href="http://www.cinemablend.com/games/Final-Fantasy-6-Characters-Ranked-By-Greatness-64960-p14.html">FF6 Character Power Rankings</a> - iOS remake art </li>
+		<ul>
 	</div>
 </div>
-
-
-<!--
-<p>
-	Due to when this game became popular, there's a lot of proto-web sites out there that are great! 
-	<ul>
-		<li><a href="http://www.fenrir.finalfantasyq.com/ff6/realestate/index.html">South Figaro Real Estate Office</a> - It's even written in-universe!</li>
-		</ul>
-<p>
-
--->
