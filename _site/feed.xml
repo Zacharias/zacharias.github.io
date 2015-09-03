@@ -5,9 +5,26 @@
     <description>Headphone wearing computer typer</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 20 Jun 2015 22:55:55 -0400</pubDate>
-    <lastBuildDate>Sat, 20 Jun 2015 22:55:55 -0400</lastBuildDate>
+    <pubDate>Thu, 03 Sep 2015 08:47:53 -0400</pubDate>
+    <lastBuildDate>Thu, 03 Sep 2015 08:47:53 -0400</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
+    
+      <item>
+        <title>Two untranslatable-to-English words that are solely missing</title>
+        <description>&lt;p&gt;As much as I enjoy the rich texture of the English language and all of it&amp;#8217;s frivolities, I found &lt;a href=&quot;http://qz.com/396076/tretar-tsundoku-jugaad-and-other-useful-but-untranslatable-words-from-around-the-world/&quot;&gt;this article on Quartz&lt;/a&gt; that caused a pang of regret. Here&amp;#8217;s my two favorites:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Tsundoku (Japanese): Leaving a book unread after buying it, typically piled up together with other unread books.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Cotisuelto (Caribbean Spanish): A man who insists on wearing his shirt tails untucked.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Imagine how much time you&amp;#8217;d save having to explain my lifestyle to someone with those.&lt;/p&gt;</description>
+        <pubDate>Thu, 03 Sep 2015 04:17:40 -0400</pubDate>
+        <link>/2015/09/03/untranslatable.html</link>
+        <guid isPermaLink="true">/2015/09/03/untranslatable.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Linked List XXL: A grander bibliography</title>
@@ -295,33 +312,6 @@ it. The impulse, sublimated over my 20s, was to share the (not very wide) world 
         <pubDate>Tue, 11 Nov 2014 05:19:40 -0500</pubDate>
         <link>/2014/11/11/5891.html</link>
         <guid isPermaLink="true">/2014/11/11/5891.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>A scaffolded ASP.Identity + MVC5 code gotcha</title>
-        <description>&lt;p&gt;&lt;em&gt;The setup: You scaffold code for WS-Federation for &lt;span class=&quot;caps&quot;&gt;MVC&lt;/span&gt; 5 using the Visual Studio 2013 tooling. Then everything stops working when you move that code off of your laptop. What happened?&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;So, you got started with a federated identity provider on your new &lt;span class=&quot;caps&quot;&gt;ASP&lt;/span&gt;.net project and everything&amp;#8217;s working great, until it gets published to the dev server. Then, nothing works! This can be &lt;a href=&quot;http://stackoverflow.com/questions/10324627/url-redirection-from-adfs-server/&quot;&gt;super frustrating&lt;/a&gt; if it happens to you.&lt;/p&gt;
-&lt;h4&gt;You too can even!&lt;/h4&gt;
-&lt;p&gt;Some of the pre generated/scaffolded code you got when filling out sets a reply &lt;span class=&quot;caps&quot;&gt;URL&lt;/span&gt;:&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;&amp;lt;wsFederation passiveRedirectEnabled=&quot;true&quot; issuer=&quot;https://myissuer/adfs/ls/&quot; realm=&quot;https://localhost:44302&quot; requireHttps=&quot;true&quot; reply=&quot;https://localhost:44302&quot; /&amp;gt;&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;There&amp;#8217;s three possible outcomes involved with the reply item in the &lt;code&gt;wsFederation&lt;/code&gt; line in your &lt;code&gt;web.config&lt;/code&gt;:&lt;/p&gt;
-&lt;ol&gt;
-	&lt;li&gt;If there isn&amp;#8217;t a reply url set, the RP (on the &lt;span class=&quot;caps&quot;&gt;ADFS&lt;/span&gt; box) will redirect to the default &lt;span class=&quot;caps&quot;&gt;URL&lt;/span&gt; for redirect.&lt;/li&gt;
-	&lt;li&gt;If you set a reply url that isn&amp;#8217;t on the list of redirect urls in the RP you&amp;#8217;ll get an error or a default redirect, depending on some other settings&lt;/li&gt;
-	&lt;li&gt;If you have a reply url set that isn&amp;#8217;t the default RP redirect &lt;span class=&quot;caps&quot;&gt;URL&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;AND&lt;/span&gt; that url is on the list of redirect urls on the RP, you get redirected to that url.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Since you are a responsible programmer, you won&amp;#8217;t do this, right?&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;&amp;lt;!-- &amp;lt;wsFederation passiveRedirectEnabled=&quot;true&quot; issuer=&quot;https://myissuer/adfs/ls/&quot; realm=&quot;https://localhost:44302&quot; requireHttps=&quot;true&quot; reply=&quot;https://localhost:44302&quot; /&amp;gt; --&amp;gt;&lt;/code&gt;&lt;br /&gt;
-&lt;code&gt;&amp;lt;wsFederation passiveRedirectEnabled=&quot;true&quot; issuer=&quot;https://myissuer/adfs/ls/&quot; realm=&quot;https://localhost:44302&quot; requireHttps=&quot;true&quot; reply=&quot;https://mydevelopmentserver:44302&quot; /&amp;gt;&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://msdn.microsoft.com/en-us/library/vstudio/dd465318(v=vs.100).aspx&quot;&gt;Use a &lt;span class=&quot;caps&quot;&gt;XML&lt;/span&gt; transform&lt;/a&gt; to automate configuration to work with development.&lt;/p&gt;
-&lt;ul&gt;
-	&lt;li&gt;&lt;a href=&quot;http://msdn.microsoft.com/en-us/library/jj191638(v=vs.110).aspx&quot;&gt;WSFederation Authentication Module Overview&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-        <pubDate>Mon, 03 Nov 2014 05:19:40 -0500</pubDate>
-        <link>/2014/11/03/asp5ident.html</link>
-        <guid isPermaLink="true">/2014/11/03/asp5ident.html</guid>
         
         
       </item>
