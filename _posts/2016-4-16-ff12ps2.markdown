@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Final Fantasy 12 on PS2 looks this good if you run it on a PC"
+date:   2015-4-16 20:17:40
+author: Zacharias
+summary: <img class="img img-responsive" src="/assets/ff12ps2.jpg">
+---
+
+<img class="img img-responsive" src="/assets/ff12ps2.jpg">
+
+Sure the lighting is a little janky, but there look at those oversampled textures.

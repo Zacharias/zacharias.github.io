@@ -5,23 +5,47 @@
     <description>Headphone wearing computer typer</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 03 Sep 2015 08:47:53 -0400</pubDate>
-    <lastBuildDate>Thu, 03 Sep 2015 08:47:53 -0400</lastBuildDate>
-    <generator>Jekyll v2.3.0</generator>
+    <pubDate>Sat, 16 Apr 2016 20:01:11 -0400</pubDate>
+    <lastBuildDate>Sat, 16 Apr 2016 20:01:11 -0400</lastBuildDate>
+    <generator>Jekyll v3.1.1</generator>
+    
+      <item>
+        <title>Final Fantasy 12 on PS2 looks this good if you run it on a PC</title>
+        <description>&lt;p&gt;&lt;img class=&quot;img img-responsive&quot; src=&quot;/assets/ff12ps2.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Sure the lighting is a little janky, but there look at those oversampled textures.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 03 Sep 2015 04:17:40 -0400</pubDate>
+        <link>/2015/09/03/ff12ps2.html</link>
+        <guid isPermaLink="true">/2015/09/03/ff12ps2.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Two untranslatable-to-English words that are solely missing</title>
-        <description>&lt;p&gt;As much as I enjoy the rich texture of the English language and all of it&amp;#8217;s frivolities, I found &lt;a href=&quot;http://qz.com/396076/tretar-tsundoku-jugaad-and-other-useful-but-untranslatable-words-from-around-the-world/&quot;&gt;this article on Quartz&lt;/a&gt; that caused a pang of regret. Here&amp;#8217;s my two favorites:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Tsundoku (Japanese): Leaving a book unread after buying it, typically piled up together with other unread books.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Cotisuelto (Caribbean Spanish): A man who insists on wearing his shirt tails untucked.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Imagine how much time you&amp;#8217;d save having to explain my lifestyle to someone with those.&lt;/p&gt;</description>
+        <description>As much as I enjoy the rich texture of the English language and all of it&#39;s frivolities, I found &quot;this article on Quartz&quot;:http://qz.com/396076/tretar-tsundoku-jugaad-and-other-useful-but-untranslatable-words-from-around-the-world/ that caused a pang of regret. Here&#39;s my two favorites:
+
+bq. Tsundoku (Japanese): Leaving a book unread after buying it, typically piled up together with other unread books. 
+
+bq. Cotisuelto (Caribbean Spanish): A man who insists on wearing his shirt tails untucked.
+
+Imagine how much time you&#39;d save having to explain my lifestyle to someone with those.</description>
         <pubDate>Thu, 03 Sep 2015 04:17:40 -0400</pubDate>
-        <link>/2015/09/03/untranslatable.html</link>
-        <guid isPermaLink="true">/2015/09/03/untranslatable.html</guid>
+        <link>/2015/09/03/untranslatable.textile</link>
+        <guid isPermaLink="true">/2015/09/03/untranslatable.textile</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Cleaning off my desk</title>
+        <description>p. Just a picture of some stuff that was black on my black desk.
+
+&lt;img class=&quot;img img-responsive&quot; src=&quot;/assets/blackdesk.jpg&quot;&gt;</description>
+        <pubDate>Fri, 26 Jun 2015 12:57:40 -0400</pubDate>
+        <link>/2015/06/26/blackdesk.textile</link>
+        <guid isPermaLink="true">/2015/06/26/blackdesk.textile</guid>
         
         
       </item>
@@ -36,7 +60,7 @@
 &lt;a href=&quot;http://www.elasticsearch.com/products/marvel?_ga=1.23754746.1597873483.1420209070&quot;&gt;Marvel: Elasticsearch Monitoring&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;https://github.com/oliver006/elasticsearch-gmail&quot;&gt;Elasticsearch For Beginners: Indexing your Gmail Inbox&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;http://www.html5rocks.com/en/tutorials/es7/observe/&quot; title=&quot;&quot;&gt;HTML5Rocks &amp;#8211; Data-binding Revolutions with Object.observe&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://sqrl.pl/guide/index.html#overview&quot;&gt;&lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;SQRL&lt;/span&gt;&lt;/span&gt; An Illustrated Guide&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://sqrl.pl/guide/index.html#overview&quot;&gt;&lt;span class=&quot;caps&quot;&gt;SQRL&lt;/span&gt; An Illustrated Guide&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;http://ameblo.jp/kyarypamyupamyu/&quot;&gt;Kyary Pamyu Pamuy Official Website&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;https://www.popaganda.com/&quot;&gt;Ron English&amp;#8217;s Popaganda&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;http://www.poketo.com/collections/stationery-alpha-desc&quot;&gt;Poketo &amp;#8211; Stationary Collection&lt;/a&gt;&lt;br /&gt;
@@ -50,11 +74,11 @@
 &lt;a href=&quot;http://trac.roundcube.net/wiki/RoundCube&quot;&gt;RoundCube &amp;#8211; Open source webmail project&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;http://www.digitaltutors.com/software/JavaScript-tutorials&quot;&gt;Digital-Tutors Javascript Tutorials&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;http://azure.microsoft.com/en-us/documentation/articles/cloud-services-continuous-delivery-use-vso/&quot;&gt;Continuous delivery to Azure using Visual Studio Online&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://azure.microsoft.com/en-us/documentation/articles/web-sites-dotnet-deploy-aspnet-mvc-app-membership-oauth-sql-database/&quot;&gt;Create an &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;ASP&lt;/span&gt;&lt;/span&gt;.&lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;NET&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;MVC&lt;/span&gt;&lt;/span&gt; app with auth and &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;SQL&lt;/span&gt;&lt;/span&gt; DB and deploy to Azure App Service&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://www.pluralsight.com/courses/site-building-bootstrap-angularjs-ef-azure&quot;&gt;Pluralsight &amp;#8211; Building a Site with Bootstrap, AngularJS, &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;ASP&lt;/span&gt;&lt;/span&gt;.&lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;NET&lt;/span&gt;&lt;/span&gt;, EF and Azure&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://azure.microsoft.com/en-us/documentation/articles/web-sites-dotnet-deploy-aspnet-mvc-app-membership-oauth-sql-database/&quot;&gt;Create an &lt;span class=&quot;caps&quot;&gt;ASP&lt;/span&gt;.&lt;span class=&quot;caps&quot;&gt;NET&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;MVC&lt;/span&gt; app with auth and &lt;span class=&quot;caps&quot;&gt;SQL&lt;/span&gt; DB and deploy to Azure App Service&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.pluralsight.com/courses/site-building-bootstrap-angularjs-ef-azure&quot;&gt;Pluralsight &amp;#8211; Building a Site with Bootstrap, AngularJS, &lt;span class=&quot;caps&quot;&gt;ASP&lt;/span&gt;.&lt;span class=&quot;caps&quot;&gt;NET&lt;/span&gt;, EF and Azure&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;http://www.pluralsight.com/courses/sharepoint-2013-fundamentals&quot;&gt;Pluralsight &amp;#8211; SharePoint 2013 Fundamentals&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://www.pluralsight.com/courses/implementing-restful-aspdotnet-web-api&quot;&gt;Pluralsight &amp;#8211; Implementing an &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;API&lt;/span&gt;&lt;/span&gt; in &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;ASP&lt;/span&gt;&lt;/span&gt;.&lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;NET&lt;/span&gt;&lt;/span&gt; Web &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;API&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://techgage.com/article/phanteks-enthoo-evolv-micro-tower-chassis-review/&quot;&gt;Phanteks Enthoo &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;EVOLV&lt;/span&gt;&lt;/span&gt; Micro-Tower Chassis Review&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.pluralsight.com/courses/implementing-restful-aspdotnet-web-api&quot;&gt;Pluralsight &amp;#8211; Implementing an &lt;span class=&quot;caps&quot;&gt;API&lt;/span&gt; in &lt;span class=&quot;caps&quot;&gt;ASP&lt;/span&gt;.&lt;span class=&quot;caps&quot;&gt;NET&lt;/span&gt; Web &lt;span class=&quot;caps&quot;&gt;API&lt;/span&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://techgage.com/article/phanteks-enthoo-evolv-micro-tower-chassis-review/&quot;&gt;Phanteks Enthoo &lt;span class=&quot;caps&quot;&gt;EVOLV&lt;/span&gt; Micro-Tower Chassis Review&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;http://shop.nationalgeographic.com/ngs/browse/productDetail.jsp?productId=1020731&amp;amp;green=2ddcf400-d5f8-db4bcf-9e14-f95095d59976&quot;&gt;National Geographic Store &amp;#8211; Pennsylvania Recreation Atlas&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;http://shop.nationalgeographic.com/ngs/product/maps/wall-maps/specialty-maps/journey-through-hallowed-ground-map?product=product%3A1020646&quot;&gt;National Geographic Store &amp;#8211; Journey Through Hallowed Ground Map&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;http://www.tombihn.com/briefcases/TB0345.html&quot;&gt;Tom Bihn &amp;#8211; Horizontal Freudian Slip&lt;/a&gt;&lt;br /&gt;
@@ -62,7 +86,7 @@
 &lt;a href=&quot;http://boingboing.net/2015/02/12/kowloon-walled-city-was-the-de.html?utm_source=moreatbb&amp;amp;utm_medium=nextpost&amp;amp;utm_campaign=nextpostthumbnails&quot;&gt;Kowloon Walled City was the densest—and most interesting?—place on Earth&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;https://github.com/mailpile/Mailpile&quot;&gt;Mailpile &amp;#8211; A free &amp;amp; open modern, fast email client with user-friendly encryption and privacy features&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;https://otr.cypherpunks.ca/&quot;&gt;Cypherpunks &amp;#8211; Off-the-Record Messaging&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;https://msdn.microsoft.com/en-us/library/azure/hh974476.aspx&quot;&gt;Azure AD Graph &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;API&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://msdn.microsoft.com/en-us/library/azure/hh974476.aspx&quot;&gt;Azure AD Graph &lt;span class=&quot;caps&quot;&gt;API&lt;/span&gt;&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;http://www.hurryupandwait.io/blog/peering-into-the-future-of-windows-automation-testing-with-chef-vagrant-and-test-kitchen-look-mom-no-ssh&quot;&gt;Peering into the future of windows automation testing with Chef, Vagrant and Test-Kitchen&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;http://serverfault.com/questions/670093/how-to-close-cd-tray-in-windows-server-2012-r2&quot;&gt;How to close cd tray in Windows Server 2012 r2&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;https://fluentco.de/&quot;&gt;Scrawl &amp;#8211; The editor for modern developers&lt;/a&gt;&lt;br /&gt;
@@ -70,8 +94,8 @@
 &lt;a href=&quot;https://www.iconfinder.com/iconsets/medicine-and-medical-equipment&quot;&gt;IconFinder &amp;#8211; Medicine and Medical Equipment&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;http://maxwellito.github.io/vivus/&quot;&gt;Vivus &amp;#8211; draw SVGs with Javascript&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;http://www.yegor256.com/2014/08/13/strict-code-quality-control.html&quot;&gt;Strict Control of Java Code Quality&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://www.aliexpress.com/store/product/mini-pci-e-to-USB-PCI-e-express-1X-Riser-Extender-adapter-Card-10-20-30cm/825827_912965537.html&quot;&gt;mini pci-e to &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;USB&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;PCI&lt;/span&gt;&lt;/span&gt;-e express 1X Riser Extender adapter Card+10/20/30cm &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;FFC&lt;/span&gt;&lt;/span&gt; Cable&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://www.aliexpress.com/store/product/2-port-FireWire-IEEE-1394a-ExpressCard-VIdeo-Capture-Card/601043_317216726.html&quot;&gt;Mini PCIe USB2.0 adapter Mini &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;PCI&lt;/span&gt;&lt;/span&gt;-E to &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;USB&lt;/span&gt;&lt;/span&gt; 2.0 card&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.aliexpress.com/store/product/mini-pci-e-to-USB-PCI-e-express-1X-Riser-Extender-adapter-Card-10-20-30cm/825827_912965537.html&quot;&gt;mini pci-e to &lt;span class=&quot;caps&quot;&gt;USB&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;PCI&lt;/span&gt;-e express 1X Riser Extender adapter Card+10/20/30cm &lt;span class=&quot;caps&quot;&gt;FFC&lt;/span&gt; Cable&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.aliexpress.com/store/product/2-port-FireWire-IEEE-1394a-ExpressCard-VIdeo-Capture-Card/601043_317216726.html&quot;&gt;Mini PCIe USB2.0 adapter Mini &lt;span class=&quot;caps&quot;&gt;PCI&lt;/span&gt;-E to &lt;span class=&quot;caps&quot;&gt;USB&lt;/span&gt; 2.0 card&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;https://hellobond.com/&quot;&gt;Bond&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;https://wiki.plexhosted.com/kb/Microsoft_SharePoint_2013:Categorizing_Wiki_Pages&quot;&gt;Microsoft SharePoint 2013:Categorizing Wiki Pages&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;http://chronicle.com/article/A-Positive-Solution-for/134498/&quot;&gt;A Positive Solution for Plagiarism&lt;/a&gt;&lt;br /&gt;
@@ -81,13 +105,13 @@
 &lt;a href=&quot;https://www.offensive-security.com/kali-linux/raspberry-pi-luks-disk-encryption/&quot;&gt;Kali Linux on a Raspberry Pi (A/B+/2) with Disk Encryption&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;http://www.wired.com/2015/03/disney-magicband/&quot;&gt;Disney’s $1 Billion Bet on a Magical Wristband&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;http://shop.herschelsupply.com/collections/duffle/products/sutton-duffle-mid-volume-black-tarpaulin&quot;&gt;Herschel Supply &amp;#8211; Sutton Mid&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://www.norcotek.com/item_detail.php?categoryid=1&amp;amp;modelno=RPC-230&quot;&gt;Norco &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;RPC&lt;/span&gt;&lt;/span&gt;-230 2U Rackmount Chassis&lt;/a&gt; &lt;sup class=&quot;footnote&quot; id=&quot;fnr1&quot;&gt;&lt;a href=&quot;#fn1&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.norcotek.com/item_detail.php?categoryid=1&amp;amp;modelno=RPC-230&quot;&gt;Norco &lt;span class=&quot;caps&quot;&gt;RPC&lt;/span&gt;-230 2U Rackmount Chassis&lt;/a&gt; &lt;sup class=&quot;footnote&quot; id=&quot;fnr1&quot;&gt;&lt;a href=&quot;#fn1&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;br /&gt;
 &lt;a href=&quot;http://www.macworld.com/article/2897715/the-new-macbook-is-cool-but-the-powerbook-duo-was-cooler.html&quot;&gt;The new MacBook is cool, but the PowerBook Duo was cooler&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;http://readonlymemory.vg/shop/book/sensible-software-1986-1999/&quot;&gt;Sensible Software 1986-1999&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://sachsmc.github.io/tufterhandout/&quot;&gt;Tufte-style &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;HTML&lt;/span&gt;&lt;/span&gt; in rmarkdown&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://www.daveliepmann.com/tufte-css/&quot;&gt;Tufte &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;CSS&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://sachsmc.github.io/tufterhandout/&quot;&gt;Tufte-style &lt;span class=&quot;caps&quot;&gt;HTML&lt;/span&gt; in rmarkdown&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.daveliepmann.com/tufte-css/&quot;&gt;Tufte &lt;span class=&quot;caps&quot;&gt;CSS&lt;/span&gt;&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;http://www.phillymag.com/foobooz/2015/03/08/mystery-le-hop-sing-laundromat/&quot;&gt;The Mystery of Lê From Hop Sing Laundromat&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://www.belkin.com/us//F8J088/p/F8J088bt&quot;&gt;Belkin Express Dock for iPad with built-in 4-foot &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;USB&lt;/span&gt;&lt;/span&gt; cable&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.belkin.com/us//F8J088/p/F8J088bt&quot;&gt;Belkin Express Dock for iPad with built-in 4-foot &lt;span class=&quot;caps&quot;&gt;USB&lt;/span&gt; cable&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;http://www.newegg.com/Product/Product.aspx?Item=N82E16817994146&quot;&gt;Newegg &amp;#8211; Icy Dock ToughArmor&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;https://help.ubuntu.com/community/OpenVPN&quot;&gt;Ubuntu OpenVPN&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;https://openvpn.net/index.php/open-source/documentation/howto.html&quot;&gt;OpenVPN How-To&lt;/a&gt;&lt;br /&gt;
@@ -96,32 +120,32 @@
 &lt;a href=&quot;http://www.gog.com/game/pillars_of_eternity_champion_edition&quot;&gt;Good Old Games &amp;#8211; Pillars of Eternity&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;http://techkeys.us/collections/keys/products/mario-luigi-set&quot;&gt;Techkeys for Cherry MX Switches &amp;#8211; Mario and Luigi Set&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;http://techkeys.us/collections/keys/products/roulette-set&quot;&gt;Techkeys for Cherry MX Switches &amp;#8211; Roulette Set&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://www.newegg.com/Product/Product.aspx?Item=9SIA3TR1JT7021&quot;&gt;Newegg &amp;#8211; Direct-Plug &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;SATA&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;SSD&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://smcleod.net/building-a-high-performance-ssd-san/&quot;&gt;Building a high performance &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;SSD&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;SAN&lt;/span&gt;&lt;/span&gt; &amp;#8211; Part 1&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.newegg.com/Product/Product.aspx?Item=9SIA3TR1JT7021&quot;&gt;Newegg &amp;#8211; Direct-Plug &lt;span class=&quot;caps&quot;&gt;SATA&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;SSD&lt;/span&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://smcleod.net/building-a-high-performance-ssd-san/&quot;&gt;Building a high performance &lt;span class=&quot;caps&quot;&gt;SSD&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;SAN&lt;/span&gt; &amp;#8211; Part 1&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;http://shop.mlb.com/product/index.jsp?productId=33925266&amp;amp;cp=12310646.707602&quot;&gt;Philadelphia Phillies Authentic Collection Low Crown On-Field 59FIFTY Game Cap&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;http://www.cgpgrey.com/blog/voyage-to-nowhere&quot;&gt;Voyage To Nowhere: The Amazon Kindle Story&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;https://www.duckware.com/bugfreec/chapter4.html&quot;&gt;Writing Bug-Free C Code: Chapter 4 &amp;#8211; The Class Methodology&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;https://msdn.microsoft.com/en-gb/data/dn314429&quot; title=&quot;EF6 onwards&quot;&gt;Testing with a mocking framework&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://deanhume.com/home/blogpost/test-your-mvc-routes-with-moq/28&quot;&gt;Test your &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;MVC&lt;/span&gt;&lt;/span&gt; Routes with &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;MOQ&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://deanhume.com/home/blogpost/test-your-mvc-routes-with-moq/28&quot;&gt;Test your &lt;span class=&quot;caps&quot;&gt;MVC&lt;/span&gt; Routes with &lt;span class=&quot;caps&quot;&gt;MOQ&lt;/span&gt;&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;http://aikmeng.com/post/62817541825/how-to-mock-dbcontext-and-dbset-with-moq-for-unit&quot;&gt;How to mock DbContext and DbSet with Moq for unit testing?&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;https://github.com/TestStack/TestStack.Seleno&quot;&gt;TestStack.FluentMVCTesting &amp;#8211; Simple, terse, fluent automated testing for &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;ASP&lt;/span&gt;&lt;/span&gt;.&lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;NET&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;MVC&lt;/span&gt;&lt;/span&gt; Controllers&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://www.pluralsight.com/courses/automated-aspdotnet-mvc&quot;&gt;Pluralsight &amp;#8211; Automated &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;ASP&lt;/span&gt;&lt;/span&gt;.&lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;NET&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;MVC&lt;/span&gt;&lt;/span&gt; Testing: End to End&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://github.com/TestStack/TestStack.Seleno&quot;&gt;TestStack.FluentMVCTesting &amp;#8211; Simple, terse, fluent automated testing for &lt;span class=&quot;caps&quot;&gt;ASP&lt;/span&gt;.&lt;span class=&quot;caps&quot;&gt;NET&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;MVC&lt;/span&gt; Controllers&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.pluralsight.com/courses/automated-aspdotnet-mvc&quot;&gt;Pluralsight &amp;#8211; Automated &lt;span class=&quot;caps&quot;&gt;ASP&lt;/span&gt;.&lt;span class=&quot;caps&quot;&gt;NET&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;MVC&lt;/span&gt; Testing: End to End&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;http://sahandsaba.com/nine-anti-patterns-every-programmer-should-be-aware-of-with-examples.html&quot;&gt;9 Anti-Patterns Every Programmer Should Be Aware Of&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://deckofcardsapi.com/&quot;&gt;Deck of Cards &amp;#8211; An &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;API&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://deckofcardsapi.com/&quot;&gt;Deck of Cards &amp;#8211; An &lt;span class=&quot;caps&quot;&gt;API&lt;/span&gt;&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;http://narrowstreetssf.com/mcallister/&quot;&gt;Narrowing a Residential Street – McAllister&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://joseph.mx/blog/2015/05/12/Pure-CSS-FizzBuzz.html&quot;&gt;Pure &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;CSS&lt;/span&gt;&lt;/span&gt; FizzBuzz&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://joseph.mx/blog/2015/05/12/Pure-CSS-FizzBuzz.html&quot;&gt;Pure &lt;span class=&quot;caps&quot;&gt;CSS&lt;/span&gt; FizzBuzz&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;https://help.github.com/articles/github-flavored-markdown/&quot;&gt;Github Flavored Markdown&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;http://www.upedu.org/papers/ICSE2015_OrganizationalFactors/LavalleeRobillard_ICSE2015_WhyGoodDevelopersWriteBadCode.pdf&quot;&gt;Why Good Developers Write Bad Code &amp;#8211; An Observational Case Study of the Impacts of Organizational Factors on Software Quality&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;http://blog.factual.com/docker-mesos-marathon-and-the-end-of-pets&quot;&gt;Docker, Mesos, Marathon, and the End of Pets&lt;/a&gt; &lt;sup class=&quot;footnote&quot; id=&quot;fnr3&quot;&gt;&lt;a href=&quot;#fn3&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;br /&gt;
-&lt;a href=&quot;http://geekswithblogs.net/BlackRabbitCoder/archive/2012/07/12/c.net-little-wondres-the-nullablelttgt-struct.aspx&quot;&gt;C#/.&lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;NET&lt;/span&gt;&lt;/span&gt; Little Wonders: The Nullable T struct&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://www.aliexpress.com/store/product/9-7-Teclast-X98-3G-Intel-Bay-Trail-T-Quad-Core-Tablet-PC-1-83GHz-Retina/609719_1862203196.html&quot;&gt;Teclast X98 Air 3G 64GB Dual Boot Intel Bay Trail-T Quad Core Tablet PC 2GB &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;RAM&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;GPS&lt;/span&gt;&lt;/span&gt; 3G Phone Call 9.7 &lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;IPS&lt;/span&gt;&lt;/span&gt; Screen&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;http://geekswithblogs.net/BlackRabbitCoder/archive/2012/07/12/c.net-little-wondres-the-nullablelttgt-struct.aspx&quot;&gt;C#/.&lt;span class=&quot;caps&quot;&gt;NET&lt;/span&gt; Little Wonders: The Nullable T struct&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.aliexpress.com/store/product/9-7-Teclast-X98-3G-Intel-Bay-Trail-T-Quad-Core-Tablet-PC-1-83GHz-Retina/609719_1862203196.html&quot;&gt;Teclast X98 Air 3G 64GB Dual Boot Intel Bay Trail-T Quad Core Tablet PC 2GB &lt;span class=&quot;caps&quot;&gt;RAM&lt;/span&gt; &lt;span class=&quot;caps&quot;&gt;GPS&lt;/span&gt; 3G Phone Call 9.7 &lt;span class=&quot;caps&quot;&gt;IPS&lt;/span&gt; Screen&lt;/a&gt;&lt;/p&gt;
 &lt;hr /&gt;
 &lt;p class=&quot;footnote&quot; id=&quot;fn1&quot;&gt;&lt;a href=&quot;#fnr1&quot;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt; I have two of these deployed at home. Review to follow.&lt;/p&gt;
 &lt;p class=&quot;footnote&quot; id=&quot;fn2&quot;&gt;&lt;a href=&quot;#fnr2&quot;&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt; Not having Jonwayne on this list ensures I feel dubious as to comprehensiveness.&lt;/p&gt;
 &lt;p class=&quot;footnote&quot; id=&quot;fn3&quot;&gt;&lt;a href=&quot;#fnr3&quot;&gt;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt; I&amp;#8217;m basically including this because of the comic at the top, I&amp;#8217;ll admit.&lt;/p&gt;</description>
         <pubDate>Fri, 19 Jun 2015 12:14:40 -0400</pubDate>
-        <link>/2015/06/19/LinkedestList.html</link>
-        <guid isPermaLink="true">/2015/06/19/LinkedestList.html</guid>
+        <link>/2015/06/19/LinkedestList.textile</link>
+        <guid isPermaLink="true">/2015/06/19/LinkedestList.textile</guid>
         
         
       </item>
@@ -129,25 +153,26 @@
       <item>
         <title>LinkedList - Summertime, okay.</title>
         <description>&lt;div class=&#39;alert alert-info&#39;&gt;
-&lt;p&gt;&lt;strong&gt;LinkedLists&lt;/strong&gt; are my periodic posts of contextless links that I bury like acorns for a never-coming winter.&lt;/p&gt;
+	&lt;strong&gt;LinkedLists&lt;/strong&gt; are my periodic posts of contextless links that I bury like acorns for a never-coming winter.
 &lt;/div&gt;
+
 &lt;div class=&#39;row&#39;&gt;
-&lt;div class=&#39;col-md-6&#39;&gt;
-&lt;p&gt;&lt;a href=&quot;http://www.macworld.com/article/2859188/a-belief-system.html&quot;&gt;Macalope &amp;#8211; A belief system: hoping beyond hope for Apple to fail&lt;/a&gt;&lt;br /&gt;
-		&lt;a href=&quot;http://cityofdarkness.co.uk/order-book/&quot; title=&quot;Kowloon Walled City&quot;&gt;City of Darkness Revisited&lt;/a&gt;&lt;br /&gt;
- 		If somebody asks what a standard attempt to teach software engineers empathy looks like, &lt;a href=&quot;http://www.yegor256.com/2015/02/23/haircut.html?2015-08&quot;&gt;this would be fine&lt;/a&gt;&lt;br /&gt;
-		&lt;a href=&quot;http://jxnblk.com/shade/?base=547C2D&amp;amp;hueShift=-81&amp;amp;saturate=-0.57&amp;amp;lighten=-0.33&quot;&gt;Shade: Mathematically derived gradient explorer&lt;/a&gt;&lt;br /&gt;
-		&lt;a href=&quot;http://shop.playsam.com/shop/&quot;&gt;Pretty terrific Nordic wood toys&lt;/a&gt;&lt;br /&gt;
-		I&amp;#8217;m hopeful the limited scope of &lt;span class=&quot;caps&quot;&gt;GPU&lt;/span&gt; functionality allows &lt;a href=&quot;https://www.khronos.org/vulkan&quot;&gt;this to happen&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&#39;col-md-6&#39;&gt;
-&lt;p&gt;&lt;img src=&#39;http://ih1.redbubble.net/image.6630487.7382/fig,white,mens,ffffff.jpg&#39; class=&#39;img img-responsive&#39; /&gt;&lt;br /&gt;
-		Although it &lt;strong&gt;is&lt;/strong&gt; the first open-source typsetting system and a historic Computer Science text, &lt;a href=&quot;http://www.redbubble.com/people/novelnetwear/works/4107382-kernighan-and-ritchie?p=t-shirt&quot;&gt;the typography hasn&amp;#8217;t aged that well.&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
+	&lt;div class=&#39;col-md-6&#39;&gt;
+		&quot;Macalope - A belief system: hoping beyond hope for Apple to fail&quot;:http://www.macworld.com/article/2859188/a-belief-system.html
+		&quot;City of Darkness Revisited (Kowloon Walled City)&quot;:http://cityofdarkness.co.uk/order-book/
+ 		If somebody asks what a standard attempt to teach software engineers empathy looks like, &quot;this would be fine&quot;:http://www.yegor256.com/2015/02/23/haircut.html?2015-08
+		&quot;Shade: Mathematically derived gradient explorer&quot;:http://jxnblk.com/shade/?base=547C2D&amp;hueShift=-81&amp;saturate=-0.57&amp;lighten=-0.33
+		&quot;Pretty terrific Nordic wood toys&quot;:http://shop.playsam.com/shop/
+		I&#39;m hopeful the limited scope of GPU functionality allows &quot;this to happen&quot;:https://www.khronos.org/vulkan
+	&lt;/div&gt;
+	&lt;div class=&#39;col-md-6&#39;&gt;
+		&lt;img src=&#39;http://ih1.redbubble.net/image.6630487.7382/fig,white,mens,ffffff.jpg&#39; class=&#39;img img-responsive&#39; /&gt;
+		Although it *is* the first open-source typsetting system and a historic Computer Science text, &quot;the typography hasn&#39;t aged that well.&quot;:http://www.redbubble.com/people/novelnetwear/works/4107382-kernighan-and-ritchie?p=t-shirt
+	&lt;/div&gt;
 &lt;/div&gt;</description>
         <pubDate>Tue, 09 Jun 2015 16:17:40 -0400</pubDate>
-        <link>/2015/06/09/linkedlist.html</link>
-        <guid isPermaLink="true">/2015/06/09/linkedlist.html</guid>
+        <link>/2015/06/09/linkedlist.textile</link>
+        <guid isPermaLink="true">/2015/06/09/linkedlist.textile</guid>
         
         
       </item>
@@ -155,163 +180,140 @@
       <item>
         <title>Solved - Error WIF10201 with ADFS 3.0 and MVC 5</title>
         <description>&lt;div class=&#39;alert alert-warning&#39;&gt;
-&lt;p&gt;&lt;strong&gt;This article may contain wsFederation-specific information&lt;/strong&gt;&lt;br&gt;
-	Ensure that your &lt;span class=&quot;caps&quot;&gt;STS&lt;/span&gt; implementation is of the &amp;#8220;passive&amp;#8221; variety, or adjust your fix accordingly.&lt;/p&gt;
+	*This article may contain wsFederation-specific information*&lt;br&gt;
+	Ensure that your STS implementation is of the &quot;passive&quot; variety, or adjust your fix accordingly.
 &lt;/div&gt;
-&lt;h3&gt;A difficult-to-search-for &lt;span class=&quot;caps&quot;&gt;WIF&lt;/span&gt; error&lt;/h3&gt;
-&lt;p&gt;I ran across this error using a &lt;span class=&quot;caps&quot;&gt;STS&lt;/span&gt; in an &lt;span class=&quot;caps&quot;&gt;ASP&lt;/span&gt;.Identity (a passive federation) scenario:&lt;/p&gt;
-&lt;pre&gt;WIF10201: No valid key mapping found for securityToken: System.IdentityModel.Tokens.X509SecurityToken and issurer http://*/adfs/ls/&lt;/pre&gt;
-&lt;p&gt;If you are having this problem with a worked-yesterday application, there&amp;#8217;s a good chance that the issuer is using a novel certificate, according to your identity configuration.&lt;/p&gt;
-&lt;p&gt;You can identify the expected certificate &amp;#8220;thumbprint&amp;#8221; (hash value) in the context of &lt;span class=&quot;caps&quot;&gt;ASP&lt;/span&gt;.&lt;span class=&quot;caps&quot;&gt;NET&lt;/span&gt;/&lt;span class=&quot;caps&quot;&gt;MVC&lt;/span&gt; applications, this can be found in a &lt;code&gt;web.config&lt;/code&gt; section in the following &lt;span class=&quot;caps&quot;&gt;XML&lt;/span&gt; path: system.identityModel &amp;#8594; identityConfiguration &amp;#8594; issuerNameRegistry &amp;#8594; authority &amp;#8594; keys&lt;sup class=&quot;footnote&quot; id=&quot;fnr1&quot;&gt;&lt;a href=&quot;#fn1&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-&lt;h3&gt;The source of the error what you&amp;#8217;d expect when crypto hashes disagree.&lt;/h3&gt;
-&lt;p&gt;Since the token isn&amp;#8217;t matching up to your configuration&amp;#8217;s value, there isn&amp;#8217;t any token handling services to deal with tokens that are signed not in the way you&amp;#8217;d expect. So, in the context of when I saw this error in the wild, the error is my &lt;span class=&quot;caps&quot;&gt;MVC&lt;/span&gt; application&lt;sup class=&quot;footnote&quot; id=&quot;fnr2&quot;&gt;&lt;a href=&quot;#fn2&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; saying:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;I totally understand how to deal with &lt;code&gt;4EA792F77D11E00E181AC5A347ABC7354E957443&lt;/code&gt; tokens, heck, it only takes me 6ms to do it! Nobody&amp;#8217;s told me what to do with a &lt;code&gt;231BAC6EEB5349E31A743B180A6B2309C70C162C&lt;/code&gt; token!&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;The next time your &lt;span class=&quot;caps&quot;&gt;ADFS&lt;/span&gt; as &lt;span class=&quot;caps&quot;&gt;STS&lt;/span&gt;-backed application starts throwing errors exactly 15 days before your non-renewing self-signed token-signing certificate expires, you&amp;#8217;ll know why.&lt;/p&gt;
-&lt;h3&gt;Grace periods, self-signing, et al.&lt;/h3&gt;
-&lt;p&gt;There is are two certificate organizational models that can be used with &lt;span class=&quot;caps&quot;&gt;ADFS&lt;/span&gt; 2.0+ &lt;a href=&quot;http://blog.kloud.com.au/2013/07/17/ad-fs-and-self-signed-token-signing-certificates-3/&quot;&gt;argued for or against online&lt;/a&gt;, either self-signing or using a CA&amp;#8217;s certificate. The defaults (if I recally correctly) is to self-sign the token-signing certificate, and expiration in one year.&lt;/p&gt;
-&lt;p&gt;The real lesson I took away from this episode is that security isn&amp;#8217;t a static thing that is &amp;#8220;set it and forget it.&amp;#8221;&lt;/p&gt;
-&lt;h3&gt;So, if all of that stuff is true, here&amp;#8217;s the checklist to fix it.&lt;/h3&gt;
-&lt;ul&gt;
-	&lt;li&gt;Find the current token thumbprint in the application&amp;#8217;s &lt;code&gt;web.config&lt;/code&gt; file (under the path of system.identityModel &amp;#8594; identityConfiguration &amp;#8594; issuerNameRegistry &amp;#8594; authority &amp;#8594; keys, probably) under the &lt;code&gt;issuerNameRegistry&lt;/code&gt; or &lt;code&gt;tokenhandler&lt;/code&gt; sections.&lt;/li&gt;
-	&lt;li&gt;Find your &lt;span class=&quot;caps&quot;&gt;STS&lt;/span&gt; metadata xml (typically in &lt;span class=&quot;caps&quot;&gt;ADFS&lt;/span&gt;, this can be found at https://*/FederationMetadata/2007-06/FederationMetadata.xml.) and look for the similarly-formatted value. These don&amp;#8217;t match?&lt;/li&gt;
-	&lt;li&gt;Check your &lt;span class=&quot;caps&quot;&gt;ADFS&lt;/span&gt; token-signing primary certificate for expiration. It&amp;#8217;s 15 days from when when this error came up?&lt;/li&gt;
-	&lt;li&gt;Depending on your certificate strategy&lt;sup class=&quot;footnote&quot; id=&quot;fnr3&quot;&gt;&lt;a href=&quot;#fn3&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;, update the primary and secondary token-signing certificates.
-	&lt;ul&gt;
-		&lt;li&gt;You&amp;#8217;ll find that the thumbprint is probably the secondary certificate&amp;#8217;s thumbprint, meaning &lt;span class=&quot;caps&quot;&gt;ADFS&lt;/span&gt; switched to the secondary based on &lt;a href=&quot;https://technet.microsoft.com/en-us/library/jj933264.aspx&quot;&gt;grace period rules&lt;/a&gt; 15 days before the actual expiration of your primary certificate.&lt;/li&gt;
-	&lt;/ul&gt;&lt;/li&gt;
-	&lt;li&gt;To mitigate this taking all day in the future, either &lt;a href=&quot;http://serverfault.com/a/670407&quot;&gt;automate the certificate&amp;#8217;s thumbprint in your configuration&lt;/a&gt; or set a timely reminder (perhaps 20 days out?) to make the change ahead of when &lt;span class=&quot;caps&quot;&gt;ADFS&lt;/span&gt; does it for you.&lt;/li&gt;
-	&lt;li&gt;If you are like me, then write a blog post about it to try and save some poor sod the work of chasing this error down in the future.&lt;/li&gt;
-&lt;/ul&gt;
+
+h3. A difficult-to-search-for WIF error
+
+I ran across this error using a STS in an ASP.Identity (a passive federation) scenario:
+
+pre. WIF10201: No valid key mapping found for securityToken: System.IdentityModel.Tokens.X509SecurityToken and issurer http://*/adfs/ls/
+
+p. If you are having this problem with a worked-yesterday application, there&#39;s a good chance that the issuer is using a novel certificate, according to your identity configuration.
+
+p. You can identify the expected certificate &quot;thumbprint&quot; (hash value) in the context of ASP.NET/MVC applications, this can be found in a @web.config@ section in the following XML path: system.identityModel -&gt; identityConfiguration -&gt; issuerNameRegistry -&gt; authority -&gt; keys[1]. 
+
+h3. The source of the error what you&#39;d expect when crypto hashes disagree.
+
+p. Since the token isn&#39;t matching up to your configuration&#39;s value, there isn&#39;t any token handling services to deal with tokens that are signed not in the way you&#39;d expect. So, in the context of when I saw this error in the wild, the error is my MVC application[2] saying:
+
+bq. I totally understand how to deal with @4EA792F77D11E00E181AC5A347ABC7354E957443@ tokens, heck, it only takes me 6ms to do it! Nobody&#39;s told me what to do with a @231BAC6EEB5349E31A743B180A6B2309C70C162C@ token!
+
+p. The next time your ADFS as STS-backed application starts throwing errors exactly 15 days before your non-renewing self-signed token-signing certificate expires, you&#39;ll know why.
+
+
+h3. Grace periods, self-signing, et al.
+
+p. There is are two certificate organizational models that can be used with ADFS 2.0+ &quot;argued for or against online&quot;:http://blog.kloud.com.au/2013/07/17/ad-fs-and-self-signed-token-signing-certificates-3/, either self-signing or using a CA&#39;s certificate. The defaults (if I recally correctly) is to self-sign the token-signing certificate, and expiration in one year.
+
+p. The real lesson I took away from this episode is that security isn&#39;t a static thing that is &quot;set it and forget it.&quot;
+
+h3. So, if all of that stuff is true, here&#39;s the checklist to fix it.
+
+* Find the current token thumbprint in the application&#39;s @web.config@ file (under the path of system.identityModel -&gt; identityConfiguration -&gt; issuerNameRegistry -&gt; authority -&gt; keys, probably) under the @issuerNameRegistry@ or @tokenhandler@ sections.
+* Find your STS metadata xml (typically in ADFS, this can be found at https://*/FederationMetadata/2007-06/FederationMetadata.xml.) and look for the similarly-formatted value. These don&#39;t match? 
+* Check your ADFS token-signing primary certificate for expiration. It&#39;s 15 days from when when this error came up?
+* Depending on your certificate strategy[3], update the primary and secondary token-signing certificates.
+** You&#39;ll find that the thumbprint is probably the secondary certificate&#39;s thumbprint, meaning ADFS switched to the secondary based on &quot;grace period rules&quot;:https://technet.microsoft.com/en-us/library/jj933264.aspx 15 days before the actual expiration of your primary certificate.
+* To mitigate this taking all day in the future, either &quot;automate the certificate&#39;s thumbprint in your configuration&quot;:http://serverfault.com/a/670407 or set a timely reminder (perhaps 20 days out?) to make the change ahead of when ADFS does it for you.
+* If you are like me, then write a blog post about it to try and save some poor sod the work of chasing this error down in the future.
+
 &lt;hr /&gt;
-&lt;p class=&quot;footnote&quot; id=&quot;fn1&quot;&gt;&lt;a href=&quot;#fnr1&quot;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt; Officially, this specific &lt;code&gt;&amp;lt;issuerNameRegistry&amp;gt;&lt;/code&gt; configuration has &lt;a href=&quot;https://msdn.microsoft.com/en-us/library/hh568637(v=vs.110).aspx&quot;&gt;been deprecated&lt;/a&gt; (check the information under the shaded &lt;strong&gt;important&lt;/strong&gt; box), most examples of &lt;span class=&quot;caps&quot;&gt;ADFS&lt;/span&gt; 2.0 and 3.0 configurations use this style. This style is the configuration that the &amp;#8220;Organizational Accounts&amp;#8221; option in Visual Studio 2013 generates for you. Current-er config can be found in VS2015 and &lt;a href=&quot;https://msdn.microsoft.com/en-us/library/hh568638(v=vs.110).aspx&quot;&gt;there is an example on &lt;span class=&quot;caps&quot;&gt;MSDN&lt;/span&gt;&lt;/a&gt; as well.&lt;/p&gt;
-&lt;p class=&quot;footnote&quot; id=&quot;fn2&quot;&gt;&lt;a href=&quot;#fnr2&quot;&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt; As a percentage of effort, trying to find the computer to blame for federated login failures is half the fight.&lt;/p&gt;
-&lt;p class=&quot;footnote&quot; id=&quot;fn3&quot;&gt;&lt;a href=&quot;#fnr3&quot;&gt;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt; Or your organizations&amp;#8217;. You &lt;strong&gt;do&lt;/strong&gt; have a strategy, right?&lt;/p&gt;</description>
+
+fn1. Officially, this specific @&lt;issuerNameRegistry&gt;@ configuration has &quot;been deprecated&quot;:https://msdn.microsoft.com/en-us/library/hh568637(v=vs.110).aspx (check the information under the shaded *important* box), most examples of ADFS 2.0 and 3.0 configurations use this style. This style is the configuration that the &quot;Organizational Accounts&quot; option in Visual Studio 2013 generates for you. Current-er config can be found in VS2015 and &quot;there is an example on MSDN&quot;:https://msdn.microsoft.com/en-us/library/hh568638(v=vs.110).aspx as well.
+
+fn2. As a percentage of effort, trying to find the computer to blame for federated login failures is half the fight.
+
+fn3. Or your organizations&#39;. You *do* have a strategy, right?
+</description>
         <pubDate>Wed, 03 Jun 2015 12:17:40 -0400</pubDate>
-        <link>/2015/06/03/wiferror.html</link>
-        <guid isPermaLink="true">/2015/06/03/wiferror.html</guid>
+        <link>/2015/06/03/wiferror.textile</link>
+        <guid isPermaLink="true">/2015/06/03/wiferror.textile</guid>
         
         
       </item>
     
       <item>
         <title>Speaking of nice quotes</title>
-        <description>&lt;p&gt;There was a time when I&amp;#8217;d write a review of pretty much any book I read, almost especially if I didn&amp;#8217;t have anything interesting to say about&lt;br /&gt;
-it. The impulse, sublimated over my 20s, was to share the (not very wide) world of ideas that existed in both the &amp;#8220;Turns Out&amp;#8221; nonfiction world and in the cellars of the genre fiction I voraciously consumed. Trying a little harder, I&amp;#8217;ve been listening to more material via audio on my interminable car commute.&lt;/p&gt;
-&lt;h4&gt;Some unsolicited advice&lt;/h4&gt;
-&lt;p&gt;Don&amp;#8217;t listen to Christopher Hitchens while driving. I have so many mangled notes from his collection of essays, Arguably&lt;sup class=&quot;footnote&quot; id=&quot;fnr1&quot;&gt;&lt;a href=&quot;#fn1&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;, that I quite unsafely made on the road via exasperated Siri reminders, they all seem like so many doubles-down on the Blackjack table of road safety.&lt;/p&gt;
-&lt;h4&gt;Something about a quote, right?&lt;/h4&gt;
-&lt;p&gt;During an enlightening story of his travels in Algeria, he spoke of a woman there:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;She was one those widows whose majesty make their husbands especially dead.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;I&amp;#8217;m glad that somebody this entertaining was also enlightening with his wide breadth of writing.&lt;/p&gt;
-&lt;p class=&quot;footnote&quot; id=&quot;fn1&quot;&gt;&lt;a href=&quot;#fnr1&quot;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt; The man hung on this word like the Koala-eucalyptus duo.&lt;/p&gt;</description>
+        <description>There was a time when I&#39;d write a review of pretty much any book I read, almost especially if I didn&#39;t have anything interesting to say about
+it. The impulse, sublimated over my 20s, was to share the (not very wide) world of ideas that existed in both the &quot;Turns Out&quot; nonfiction world and in the cellars of the genre fiction I voraciously consumed. Trying a little harder, I&#39;ve been listening to more material via audio on my interminable car commute.
+
+h4. Some unsolicited advice   
+
+Don&#39;t listen to Christopher Hitchens while driving. I have so many mangled notes from his collection of essays, Arguably[1], that I quite unsafely made on the road via exasperated Siri reminders, they all seem like so many doubles-down on the Blackjack table of road safety.
+
+h4. Something about a quote, right?
+
+During an enlightening story of his travels in Algeria, he spoke of a woman there:
+
+bq. She was one those widows whose majesty make their husbands especially dead.
+
+I&#39;m glad that somebody this entertaining was also enlightening with his wide breadth of writing. 
+
+
+fn1. The man hung on this word like the Koala-eucalyptus duo.
+</description>
         <pubDate>Tue, 12 May 2015 12:17:40 -0400</pubDate>
-        <link>/2015/05/12/quote.html</link>
-        <guid isPermaLink="true">/2015/05/12/quote.html</guid>
+        <link>/2015/05/12/quote.textile</link>
+        <guid isPermaLink="true">/2015/05/12/quote.textile</guid>
         
         
       </item>
     
       <item>
         <title>Is everybody&#39;s home life that bad?</title>
-        <description>&lt;p&gt;So I was reading &lt;a href=&quot;http://thelastpsychiatrist.com/2014/01/randi_zuckerberg.html&quot;&gt;this article about Randi Zuckerberg&lt;/a&gt; as one does, and came across this moniest of quotes.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Here&amp;#8217;s your #&lt;span class=&quot;caps&quot;&gt;OWS&lt;/span&gt; update: work doesn&amp;#8217;t bleed over into home because capitalism is evil, work bleeds over to home because we have no idea what else to do at home, and thank God we can blame it on work.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Is it because most knowledge workers run their households from work? I can at least affirm that I&amp;#8217;m happiest at home. The sheer notion of being this tremendously unhappy at home is the strangest thing to me.&lt;/p&gt;</description>
+        <description>So I was reading &quot;this article about Randi Zuckerberg&quot;:http://thelastpsychiatrist.com/2014/01/randi_zuckerberg.html as one does, and came across this moniest of quotes.
+
+bq. Here&#39;s your #OWS update: work doesn&#39;t bleed over into home because capitalism is evil, work bleeds over to home because we have no idea what else to do at home, and thank God we can blame it on work.
+
+Is it because most knowledge workers run their households from work? I can at least affirm that I&#39;m happiest at home. The sheer notion of being this tremendously unhappy at home is the strangest thing to me.</description>
         <pubDate>Wed, 06 May 2015 12:59:40 -0400</pubDate>
-        <link>/2015/05/06/homelife.html</link>
-        <guid isPermaLink="true">/2015/05/06/homelife.html</guid>
+        <link>/2015/05/06/homelife.textile</link>
+        <guid isPermaLink="true">/2015/05/06/homelife.textile</guid>
         
         
       </item>
     
       <item>
         <title>Cyberpunk 2020 - Chromebook (4) Fashions</title>
-        <description>&lt;p&gt;Sure, Back to the Future had a lot of ideas about how we&amp;#8217;re supposed to be dressing that didn&amp;#8217;t pan out (so far) in 2015, but one of my favorite views of the future was the gritty, cyberpunk world of Cyberpunk 2020, a tabletop &lt;span class=&quot;caps&quot;&gt;RPG&lt;/span&gt; initially from the early 90s.&lt;/p&gt;
+        <description>Sure, Back to the Future had a lot of ideas about how we&#39;re supposed to be dressing that didn&#39;t pan out (so far) in 2015, but one of my favorite views of the future was the gritty, cyberpunk world of Cyberpunk 2020, a tabletop RPG initially from the early 90s.
+
 &lt;div class=&quot;row&quot;&gt;
-&lt;div class=&quot;col-lg-5 col-md-7&quot;&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/chromebook1.jpg&quot; class=&quot;img img-responsive&quot;&gt;&lt;/p&gt;
+	&lt;div class=&quot;col-lg-5 col-md-7&quot;&gt;
+		&lt;img src=&quot;/assets/chromebook1.jpg&quot; class=&quot;img img-responsive&quot;&gt;
+	&lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;
+
 &lt;div class=&quot;row&quot;&gt;
-&lt;div class=&quot;col-lg-5 col-md-7&quot;&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/chromebook2.jpg&quot; class=&quot;img img-responsive&quot;&gt;&lt;/p&gt;
+	&lt;div class=&quot;col-lg-5 col-md-7&quot;&gt;
+		&lt;img src=&quot;/assets/chromebook2.jpg&quot; class=&quot;img img-responsive&quot;&gt;
+	&lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;
+
 &lt;div class=&quot;row&quot;&gt;
-&lt;div class=&quot;col-lg-5 col-md-7&quot;&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/chromebook3.jpg&quot; class=&quot;img img-responsive&quot;&gt;&lt;/p&gt;
-&lt;/div&gt;
+	&lt;div class=&quot;col-lg-5 col-md-7&quot;&gt;
+		&lt;img src=&quot;/assets/chromebook3.jpg&quot; class=&quot;img img-responsive&quot;&gt;
+	&lt;/div&gt;
 &lt;/div&gt;</description>
         <pubDate>Thu, 15 Jan 2015 04:13:40 -0500</pubDate>
-        <link>/2015/01/15/Chromebook.html</link>
-        <guid isPermaLink="true">/2015/01/15/Chromebook.html</guid>
+        <link>/2015/01/15/Chromebook.textile</link>
+        <guid isPermaLink="true">/2015/01/15/Chromebook.textile</guid>
         
         
       </item>
     
       <item>
         <title>Back To Work - Sharepoint 2013 Search Links</title>
-        <description>&lt;h3&gt;Working on wrapping my mind around Sharepoint, specifically search-driven publishing for intranets. Here&amp;#8217;s some links I&amp;#8217;ve been using to get started with the platform.&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;http://technet.microsoft.com/en-us/library/ee792876(v=office.15).aspx&quot;&gt;Manage crawling in SharePoint Server 2013&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://www.pluralsight.com/courses/sharepoint-2013-search-development&quot;&gt;Pluralsight &amp;#8211; Sharepoint 2013 Search Development&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://technet.microsoft.com/en-us/library/ee792873(v=office.15).aspx&quot;&gt;Configure the crawler in case of &lt;span class=&quot;caps&quot;&gt;SSL&lt;/span&gt; certificate warnings in SharePoint Server 2013&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://blog.mastykarz.nl/programmatically-creating-wiki-pages/&quot;&gt;Programmically Creating Wiki Pages&lt;/a&gt;&lt;/p&gt;</description>
+        <description>h3. Working on wrapping my mind around Sharepoint, specifically search-driven publishing for intranets. Here&#39;s some links I&#39;ve been using to get started with the platform.
+
+&quot;Manage crawling in SharePoint Server 2013&quot;:http://technet.microsoft.com/en-us/library/ee792876(v=office.15).aspx
+&quot;Pluralsight - Sharepoint 2013 Search Development&quot;:http://www.pluralsight.com/courses/sharepoint-2013-search-development
+&quot;Configure the crawler in case of SSL certificate warnings in SharePoint Server 2013&quot;:http://technet.microsoft.com/en-us/library/ee792873(v=office.15).aspx
+&quot;Programmically Creating Wiki Pages&quot;:http://blog.mastykarz.nl/programmatically-creating-wiki-pages/</description>
         <pubDate>Mon, 05 Jan 2015 05:19:40 -0500</pubDate>
-        <link>/2015/01/05/BTW.html</link>
-        <guid isPermaLink="true">/2015/01/05/BTW.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>2014 Papers</title>
-        <description>&lt;p&gt;When I was cleaning up around my office, I realized I had a pretty good stack of papers from my internetting around this last year. I figured a list would be helpful for me to compare against next year to see how I&amp;#8217;m trending in my media consumption.&lt;/p&gt;
-&lt;h4&gt;Papers I printed out&lt;br /&gt;
-&lt;a href=&quot;http://www.foreignaffairs.com/articles/55210/edward-n-luttwak/give-war-a-chance&quot;&gt;Give War a Chance&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://research.microsoft.com/en-us/um/people/lamport/pubs/byz.pdf&quot;&gt;The Byzantine Generals Problem&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;https://svn.eu.apache.org/repos/asf/hadoop/common/tags/release-0.16.3/docs/hdfs_design.pdf&quot;&gt;The Hadoop Distributed File System: Architecture and Design&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2374379&quot;&gt;Reading This May Harm Your Comptuer: The Psychology of Malware Warnings&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://dl.acm.org/citation.cfm?id=1989438&quot;&gt;Apache Hadoop Goes Realtime at Facebook&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://bos.sagepub.com/content/70/1/21.full&quot;&gt;Are New Technologies Undermind the Laws of War?&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://systematic.com/media/282227/Scrum_and_CMMI___Going_from_Good_to_Great.pdf&quot;&gt;Scrum and &lt;span class=&quot;caps&quot;&gt;CMMI&lt;/span&gt; &amp;#8211; Going from Good to Great&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://www.dtic.mil/get-tr-doc/pdf?AD=ADA084551&quot;&gt;A Five-Stage Model of the Mental Activities Involded in Directed Skill Acquisition&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://www.milanmirkovic.com/wp-content/uploads/2012/10/pg049_Similarity_Measures_for_Text_Document_Clustering.pdf&quot;&gt;Similarity Measures for Text Document Clustering&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://www.philadelphiafed.org/research-and-data/publications/business-review/2004/q4/brq404ak.pdf&quot;&gt;Why Are Married Women Working More? Some Macroeconomic Explanations&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://luca.ntop.org/Ring.pdf&quot;&gt;Improving Passive Packet Capture: Beyond Device Polling&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://weis2014.econinfosec.org/papers/Anderson-WEIS2014.pdf&quot;&gt;Privacy versus government surveillance: where network effects meet public choice&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://users.cecs.anu.edu.au/~steveb/downloads/pdf/rc-ismm-2012.pdf&quot;&gt;Down for the Count? Getting Reference Counting Back in the Ring *&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://www.bitcoin.fr/public/divers/docs/silk-road-paper.pdf&quot;&gt;How Did Dread Pirate Roberts Acquire and Protect His Bitcoin Wealth?&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://research.google.com/pubs/pub37122.html&quot;&gt;Loop Recognition in C++/Java/Go/Scala&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://www.win.tue.nl/~vanwijk/stm.pdf&quot;&gt;Squarified Treemaps&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://sss.sagepub.com/content/44/4/638.full&quot;&gt;Academic urban legends&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://faculty.georgetown.edu/hcn4/Downloads/Noel_Forum.PDF&quot;&gt;Ten Things Political Scientists Know that You Don&amp;#8217;t&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://www.wjh.harvard.edu/~dtg/DUNN%20GILBERT%20&amp;amp;%20WILSON%20%282011%29.pdf&quot;&gt;If money doesn&amp;#8217;t make you happy, then you probably aren&amp;#8217;t spending it right&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://bioinfo.uib.es/~joemiro/teach/material/escritura/gotoharmfulCol.pdf&quot;&gt;Go To Statement Considered Harmful&lt;/a&gt;&lt;/h4&gt;
-&lt;h4&gt;Other Things I printed out that are not strictly papers&lt;br /&gt;
-&lt;a href=&quot;http://en.wikipedia.org/wiki/Zero_one_infinity_rule&quot;&gt;Zero one infinity rule&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://en.wikipedia.org/wiki/Amdahl%27s_law&quot;&gt;Amdahl&amp;#8217;s law&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://en.wikipedia.org/wiki/Tivoization&quot;&gt;Tivoization&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://www.joelonsoftware.com/articles/Unicode.html&quot; title=&quot;No Excuses!&quot;&gt;The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://semver.org&quot;&gt;Semantic Versioning 2.0.0&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://www.git-tower.com/blog/version-control-best-practices/&quot;&gt;Version Control Best Practices&lt;/a&gt;&lt;/h4&gt;</description>
-        <pubDate>Tue, 30 Dec 2014 05:01:40 -0500</pubDate>
-        <link>/2014/12/30/papers.html</link>
-        <guid isPermaLink="true">/2014/12/30/papers.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>These sound pretty good together</title>
-        <description></description>
-        <pubDate>Tue, 11 Nov 2014 05:19:40 -0500</pubDate>
-        <link>/2014/11/11/5891.html</link>
-        <guid isPermaLink="true">/2014/11/11/5891.html</guid>
+        <link>/2015/01/05/BTW.textile</link>
+        <guid isPermaLink="true">/2015/01/05/BTW.textile</guid>
         
         
       </item>
