@@ -5,7 +5,7 @@ date:   2016-8-19 11:07:40
 author: Zacharias
 summary: I spent way to much time looking at backpacks to commute with. Here's what I thought about the pack of packs.
 ---
-I went and ordered myself a Côte&Ciel Isar today after what turned out to be a fairly sweeping multi-week trip through the internet-backpack-industrial complex and I figured since I dumped way too much time poking around looking at alternatives, I may as well the world my surface-impression runoff of the bags that didn't get the nod. 
+I went and ordered myself a Côte&Ciel Isar today after what turned out to be a fairly sweeping multi-week trip through the internet-backpack-industrial complex and I figured since I dumped way too much time poking around looking at alternatives, I may as well inflict upon the world my surface-impression runoff of the bags that didn't get the nod. 
 
 And hey, it's back to school time anyways.
 	
