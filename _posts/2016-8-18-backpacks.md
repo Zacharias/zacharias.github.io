@@ -62,7 +62,7 @@ It'd be great if I can find a bag that's just a little nicer than the one I'm wo
 				<h3>Osprey Talon 22 <small><span style="padding-left:.5em;">$100</span></small></h3>
 			</div>
 			<div class="panel-body">
-				<img style="max-height:500px;  margin: 0 auto;" class="img img-responsive" src="/assets/backpack/arro22.jpg">				
+				<img style="max-height:500px;  margin: 0 auto;" class="img img-responsive" src="/assets/backpack/osprey22.jpg">				
 				
 				<h4>What looked good?</h4>
 				<p>This guy has some of the best reviews of anything, let alone backpacks. I own a smaller Osprey and it works great!</p>
