@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:300italic);
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,300italic);
 
 html {
 	font-size: 1em;
@@ -6,10 +6,13 @@ html {
 }
 
 body {
+	position: relative;
 	font-weight: 400;
 	line-height: 1.45;
-	font-size: 16px !important;
-	height:100%;
+	font-size: 18px;
+	min-height:100%;
+	padding-bottom: 30em;
+	font-family: 'Source Sans Pro';
 }
 
 p {
@@ -50,7 +53,6 @@ small, .font_small {
 }
 
 .post-meta {
-	font-family: 'Source Sans Pro';
 	font-style: italic;
 	font-weight: 300;
 }
@@ -63,3 +65,11 @@ small, .font_small {
 .lead {
 	color:inherit !important;	
 }
+
+#footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
