@@ -1,7 +1,10 @@
-<div class="row footer-row" style="padding-top:1em; padding-bottom:1em; margin-left:0; margin-right:0; border-top:10px #878787">
-	<div class="col-md-4">
-		<p>{{ site.title }}<br />
-		<small>{{ site.description }}</small></p>
+
+<div class="container" style="background:url(/assets/deskshot.jpg); background-size:cover; 
+background-position: top center; height:30em; margin-top:2em; 
+width:100%">
+<div class="row" style="padding-top:5em; ">
+	<div class="col-md-5 col-md-offset-1" style="background:white; padding-top:2em; padding-bottom:2em; height:20em;">
+		<p>{{ site.title }} <small>{{ site.description }}</small></p>
 		<p class="rss-subscribe"><a href="{{ "/feed.xml" | prepend: site.baseurl }}"><i class="fa fa-rss"></i> subscribe to posts via RSS</a></p>
 		<ul class="list-unstyled">
 			<li><i class="fa fa-envelope-o"></i> <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
@@ -21,16 +24,5 @@
 			<li><i class="fa fa-google-plus-square"></i> <a href="https://plus.google.com/+{{ site.google_username }}"> +{{ site.google_username }}</a></li>
 			{% endif %}
 		</ul>
-	</div>
-	<div class="col-md-8" id="rssbox" style="font-size:.9em;">
-		<!-- JS below is making that happen for me. -->
-	</div>
 </div>
-
-<script type="text/javascript">
-	$(document).ready(function () {
-		$('#rssbox').rssfeed('https://www.instapaper.com/archive/rss/2140502/gJarrcxzUUjxTGAE7n0rRoEo4Ho', {
-		limit: 10
-		});
-	});
-</script>
+</div>

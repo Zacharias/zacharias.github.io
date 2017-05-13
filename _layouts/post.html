@@ -1,14 +1,13 @@
 ---
 layout: default
 ---
-<div class="post">
-  <header class="post-header">
-	<div class="col-sm-12">
-    <h1 class="post-title" style="margin-bottom:.1em;">{{ page.title }}</h1>
-    <p class="post-meta lead">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} | {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-	</div>
-  </header>
-	<div class="container">
-    	{{ content }}
-	</div>
+
+<div class="col-xs-12">
+	<a href="{{ site.baseurl }}"> <button type="button" class="btn btn-primary">Front</button></a>
+	<h1 class="post-title" style="margin-bottom:.1em;">{{ page.title }}</h1>
+	<p class="post-meta lead">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} | {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+</div>
+
+<div class="col-xs-12">
+	{{ content }}
 </div>
