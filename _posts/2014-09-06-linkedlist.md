@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Linked List 1: A grand bibliography"
-date:   2014-10-13 10:24:40
+date:   2014-09-06 10:24:40
 author: Zacharias
 ---
 

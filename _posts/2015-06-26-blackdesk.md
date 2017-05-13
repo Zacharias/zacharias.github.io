@@ -6,6 +6,6 @@ author: Zacharias
 summary: <img class="img img-responsive" src="/assets/blackdesk.jpg">
 ---
 
-p. Just a picture of some stuff that was black on my black desk.
+Just a picture of some stuff that was black on my black desk.
 
 <img class="img img-responsive" src="/assets/blackdesk.jpg">
