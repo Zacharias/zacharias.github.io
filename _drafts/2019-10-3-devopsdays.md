@@ -101,7 +101,6 @@ squads and crews, crews? is that what you call them here?
 detailed career ladders for each kind of role in the value stream
 who leads? 
 should it be a product or engineering manager?
-
 you need to overcompensate with the role that you dont have
 communicate with executives
 
@@ -111,3 +110,27 @@ visiblity for all products
 finance cares about extremely specific metrics
 traditional
 
+report on tech debt risk feature and bug kinds of work/stories all the way up to the board
+
+lots of flow reports: type, efficiency, velocity
+
+change management is hard
+which is hard
+
+balance teams' empowerment versus imposition
+somehow empowering a team is off-putting to the team somehow
+
+
+larry mac
+
+developers need crediblity, make your own code
+devops is the team being in charge of how the product works in production
+developers need to own the problem. you can invest time and energy to help yourselves out.
+security is typically designed around robust gatingthere
+chaos engineering 
+devops is about culture.
+there is a devsecops manifesto
+build in versus bolt on
+implement secure features versus security features
+few key practices deeply instead of super wide 
+they publish out reusable concourse resources (i should go over them) - whitesource is on there, too.
