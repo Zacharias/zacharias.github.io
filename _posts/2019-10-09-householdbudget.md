@@ -33,15 +33,19 @@ summary: This is technically an Agile thought technology
 </div>
 </div>
 
-Use those numbers each payday to see how well I did against the plan with the most recent paycheck. Instead of thinking about a bazillion categories or sub-headings or double-entry bookkeeping, check against your target number for each thing. This could take a whole additional index card if you have many transactions. I'm not super fond of the Target brand ones but they are under a dollar.
+<p>&nbsp;</p>
 
-That's kind of it. It's a low-complication process by design, since, well, that's how I like my systems. The real advantage is that going through this exercise keeps fresh, actionable data 
+Use those numbers each payday to see how well I did against the plan with the most recent paycheck. Instead of thinking about a bazillion categories or sub-headings or double-entry bookkeeping, check against your target number for each thing. This could take a whole additional index card if you have many transactions. I'm not super fond of the Target brand ones but they are under a dollar. I like to "zero out" my account my paycheck goes into after the next one shows up: that way, I'm never looking at more than a half month's of income at once.
 
-Couple of quick hits that may help you with budgeting:
+You'll see by design this process isn't made to account for every last dollar - not only is it really hard to guess how many unplanned expenses you have, maybe you only want to keep track of the first $x you make and leave the rest to an unplanned/untracked process. That is a thing you can do. 
+
+That's kind of it. It's a low-complication process by design, since, well, that's how I like my systems.
+
+Couple of quick hits around this process:
 - Take a rolling average of the bucks you're bringing in if you have a variable income.
 - Even if you're bummed at the numbers, they're better to know than not know. We've all had down days, weeks, month, decades, whatever. I'd rather be specifically bummed at an actual gain/loss than generally bummed knowing it wasn't a positive number.
 - This index card can fit into your wallet or left laying around somewhere obvious for you to keep in the back of your head.
-- And, by the way, this is why I find it so valuable: I think two weeks at a time, in big chunky categories, and never at the giant, towering goals that will take my months or years to address. Working on bricks, not walls, not building.
+- And, by the way, this is why I find it so valuable: I think two weeks at a time, in big chunky categories, and never at the giant, towering goals that will take my months or years to address. Working on bricks, not walls, not multistory buildings.
 - The other part that's valuable is that you're committing to thinking about it a little very two weeks. Not constantly unproductively, or never unproductively.
 
 <p>&nbsp;</p>
