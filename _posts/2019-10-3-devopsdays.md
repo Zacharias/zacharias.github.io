@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Some bulleted notes on a Gene Kim keynote at DevopsDays"
-date:   2018-10-17 13:37:40
+date:   2019-10-17 13:37:40
 author: Zacharias
 ---
 
