@@ -1,71 +1,66 @@
 ---
 layout: post
-title: "Some bulleted notes on Comcast devopsdays."
+title: "Some bulleted notes on devopsdays."
 date:   2018-09-21 8:57:40
 author: Zacharias
-summary: "Some bulleted notes on Comcast devopsdays."
+summary: "Some bulleted notes on  devopsdays."
 ---
 
-Some bulleted notes on Comcast devopsdays.
+I made some notes for the couple of keynotes I attended. Afterwards, I went through and spruced them up lightly.
 
-kubernetes sidecars
-aspect oriented programming
-importing expertise
-locality in out code
-composability
-bad - integrated test environment
-authority should belong to teams instead of up/ovver down
-tteam of teamsstanley mchrustal
-this dude is shouting out stanley mchrystal.
-STANLEY MCHRYSTAL!
-REALLY??!?!??!
-I;m only 10% sure he didn't murder michael hastings
+### Gene Kim
 
-focus, flow, and joy
+Mr. Kim went through many of the topics that his book Accelerate covered. Accelerate can be considered a "State of Devops" report that's been to the gym and really bulked up on some statistics and more organizational and cultural material.
 
-Immutablity is a thing hat is nice aboiut functional programming.
-Infrastructure ops Immutabilituy is now a thing
-Git version control history is also immuntable.
+- kubernetes sidecars for crosscuts
+- aspect oriented programming
+- importing expertise
+- locality in our code
+- composability
+- bad - integrated test environment
+- authority should belong to teams
 
-Stateful things -
-bash
-yaml
-updating dependencies
+Stanley McChrystal's Team of Teams got a shoutout.
 
-the jobs of platforms is to enable developers to solve business problems.
-The job is to enable developers to self-service with immediacy and fast feedback
+-  [The Operators by the late Michael Hastings](https://books.google.com/books/about/The_Operators.html?id=xD8dDgAAQBAJ&printsec=frontcover&source=kp_read_button#v=onepage&q&f=false) may be one of the best GWOT books every published.
 
-What is your lead time for changes?
-Usually read as "how long does committed code take to get to where the customer can realize the value"
-How long does it take to get a developer to realize a mistake in his code?
+Practices that enable "focus, flow, and joy"
 
-Trunk based development
+- Immutablity is a thing that is nice about functional programming.
+- Infrastructure immutability
+- Git version control history is also immutable, we like that.
+- What else is stateful? bash, yaml, updating dependencies
 
-Improvement of daily work.
-improvement of daily work is more important the the daily work itself.
-learning organizations
-create as much feedback as possible 
+Platforms
 
-you need to create a systemic fix
+- The job of platforms is to enable developers to solve business problems.
+- Platforms enable developers to self-service with immediacy and fast feedback
+
+Measuring success
+
+- What is your lead time for changes?
+- Usually read as "how long does committed code take to get to where the customer can realize the value"
+- How long does it take to get a developer to realize a mistake in his code?
+- Trunk based development
+- improvement of daily work is more important the the daily work itself.
+- learning organizations internalize that
+- create as much feedback as possible 
+
 daily workarounds are disruptive
 
-technical debt is insidious
+- technical debt is insidious
+- a book says 20% of cycles for tech debt reduction
+- enabling greaeatness
+- ideally, 3-5% of developers dedicated to impriving developer productity.
+- google puts the BEST devs off of features and into improving dev productivity
+- playing the "forever" game
 
-a book says 20% of cycles for tech debt reduction
 
-enabling greaeatness
+Organizational and Cultural Features
 
-udeak, 3-5% od developers dedicated to impriving developer productivyt 
-google puts the BEST devs off of features and into improving dev productivity
-playing the "forever" game
-
-not ideal:
-not care about breaking changes
-
-psychological safety
-predictive of performance
-strongest signal for performance
-google made the same findings in "profect aristoltle, oxygen, re:work"
+- psychological safety is predictive of performance
+- strongest signal for performance in the devops survey study
+- google made the same findings in "project aristotle, oxygen, re:work"
 great practices enabled
 
 
@@ -74,11 +69,9 @@ fucntion silo managers priorotize silo goals over business goals
 if it doesn't create competetive advantage we should get it out of our business and outsource it
 
 
-Gene Kim the unicorn prohject
-
 
 Product value streams: decisions are made in the stream
-there is a cross cutting role that also is product valye stream thing jawn
+    there is a cross cutting role that also is product valye stream thing jawn
 
 intentional verus perfect
 treat your delivery pipeline as a product
