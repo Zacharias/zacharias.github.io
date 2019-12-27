@@ -5,8 +5,6 @@ date:   2019-12-27 10:24:40
 author: Zacharias
 ---
 
-The part of the Getting Things Done productivity framework that really stuck with me was the notion of ubiquitous capture. Here is a selection of things I read this year that I kept around for making a end-of-year list.
-
 <div style="font-size:1.4em">
 
 
