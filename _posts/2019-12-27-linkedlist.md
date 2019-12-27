@@ -9,40 +9,46 @@ The part of the Getting Things Done productivity framework that really stuck wit
 
 <div style="font-size:1.4em">
 
-[Protobuffers are Wrong](http://reasonablypolymorphic.com/blog/protos-are-wrong/index.html)
 
-[The #1 bug predictor is not technical, it's organizational complexity](https://augustl.com/blog/2019/best_bug_predictor_is_organizational_complexity/)
+	<p>The part of the Getting Things Done productivity framework that really stuck with me was the notion of ubiquitous capture. Here is a selection of things I read this year that I kept around for making a end-of-year list.</p>
 
-[5 Concourse CI tips: How to Speed Up Your Builds And Pipeline Development](https://grapeup.com/blog/read/5-concourse-ci-tips-how-to-speed-up-your-builds-and-pipeline-development-62)
+<p>
+<a href="http://reasonablypolymorphic.com/blog/protos-are-wrong/index.html">Protobuffers are Wrong</a></p>
 
-[Learning for a Living](https://sloanreview.mit.edu/article/learning-for-a-living/)
+<p><a href="https://augustl.com/blog/2019/best_bug_predictor_is_organizational_complexity/">The #1 bug predictor is not technical, it’s organizational complexity</a></p>
 
-[Threat Modeling AI/ML Systems and Dependencies](https://docs.microsoft.com/en-us/security/threat-modeling-aiml)
+<p><a href="https://grapeup.com/blog/read/5-concourse-ci-tips-how-to-speed-up-your-builds-and-pipeline-development-62">5 Concourse CI tips: How to Speed Up Your Builds And Pipeline Development</a></p>
 
-[Creating Python Virtual Environments with Conda: Why and How](https://heartbeat.fritz.ai/creating-python-virtual-environments-with-conda-why-and-how-180ebd02d1db)
+<p><a href="https://sloanreview.mit.edu/article/learning-for-a-living/">Learning for a Living</a></p>
 
-[A visual guide on troubleshooting Kubernetes deployments](https://learnk8s.io/troubleshooting-deployments)
+<p><a href="https://docs.microsoft.com/en-us/security/threat-modeling-aiml">Threat Modeling AI/ML Systems and Dependencies</a></p>
 
-[Good code is 90% boilerplate.](https://www.unitily.com/articles/boilerplate.html)
+<p><a href="https://heartbeat.fritz.ai/creating-python-virtual-environments-with-conda-why-and-how-180ebd02d1db">Creating Python Virtual Environments with Conda: Why and How</a></p>
 
-[Fallout: SoftBank's next big crisis may be brewing in India](https://asia.nikkei.com/Spotlight/Cover-Story/Fallout-SoftBank-s-next-big-crisis-may-be-brewing-in-India)
+<p><a href="https://learnk8s.io/troubleshooting-deployments">A visual guide on troubleshooting Kubernetes deployments</a></p>
 
-[Mike Solomonov’s Israeli Sandwich Shop Merkaz Is Open for All Your Schnitzel Needs](https://philly.eater.com/2019/11/25/20977934/merkaz-israeli-restaurant-pita-sandwiches-philadelphia-mike-solomonov-steve-cook)
+<p><a href="https://www.unitily.com/articles/boilerplate.html">Good code is 90% boilerplate.</a></p>
 
-[What nobody tells you about documentation](https://www.divio.com/blog/documentation/)
+<p><a href="https://asia.nikkei.com/Spotlight/Cover-Story/Fallout-SoftBank-s-next-big-crisis-may-be-brewing-in-India">Fallout: SoftBank’s next big crisis may be brewing in India</a></p>
 
-[Guide: Create an employee-to-employee learning program](https://rework.withgoogle.com/guides/learning-development-employee-to-employee/steps/introduction/)
+<p><a href="https://philly.eater.com/2019/11/25/20977934/merkaz-israeli-restaurant-pita-sandwiches-philadelphia-mike-solomonov-steve-cook">Mike Solomonov’s Israeli Sandwich Shop Merkaz Is Open for All Your Schnitzel Needs</a></p>
 
-[Value Stream Management in Software Delivery](https://www.tasktop.com/value-stream-management)
+<p><a href="https://www.divio.com/blog/documentation/">What nobody tells you about documentation</a></p>
 
-[Positional Scarcity](https://alexdanco.com/2019/09/07/positional-scarcity/)
+<p><a href="https://rework.withgoogle.com/guides/learning-development-employee-to-employee/steps/introduction/">Guide: Create an employee-to-employee learning program</a></p>
 
-[THE ATLAS OF ECONOMIC COMPLEXITY](http://atlas.cid.harvard.edu/)
+<p><a href="https://www.tasktop.com/value-stream-management">Value Stream Management in Software Delivery</a></p>
 
-[The Programmer at Work](https://www.datapacrat.com/Opinion/Reciprocality/r0/Day3.html)
+<p><a href="https://alexdanco.com/2019/09/07/positional-scarcity/">Positional Scarcity</a></p>
 
-[JSON Resume](https://jsonresume.org/getting-started/)
+<p><a href="http://atlas.cid.harvard.edu/">THE ATLAS OF ECONOMIC COMPLEXITY</a></p>
 
-[Getting Started with Firecracker](https://github.com/firecracker-microvm/firecracker/blob/master/docs/getting-started.md)
+<p><a href="https://www.datapacrat.com/Opinion/Reciprocality/r0/Day3.html">The Programmer at Work</a></p>
+
+<p><a href="https://jsonresume.org/getting-started/">JSON Resume</a></p>
+
+<p><a href="https://github.com/firecracker-microvm/firecracker/blob/master/docs/getting-started.md">Getting Started with Firecracker</a></p>
+
 
 </div>
+
