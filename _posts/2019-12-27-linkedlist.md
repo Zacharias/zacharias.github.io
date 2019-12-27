@@ -7,7 +7,8 @@ author: Zacharias
 
 The part of the Getting Things Done productivity framework that really stuck with me was the notion of ubiquitous capture. Here is a selection of things I read this year that I kept around for making a end-of-year list.
 
-<span style="font-size:1.4em">
+<div style="font-size:1.4em">
+
 [Protobuffers are Wrong](http://reasonablypolymorphic.com/blog/protos-are-wrong/index.html)
 
 [The #1 bug predictor is not technical, it's organizational complexity](https://augustl.com/blog/2019/best_bug_predictor_is_organizational_complexity/)
@@ -44,4 +45,4 @@ The part of the Getting Things Done productivity framework that really stuck wit
 
 [Getting Started with Firecracker](https://github.com/firecracker-microvm/firecracker/blob/master/docs/getting-started.md)
 
-</span>
+</div>
