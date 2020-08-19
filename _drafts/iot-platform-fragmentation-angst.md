@@ -1,0 +1,2 @@
+
+The inciting incident to this whole project was that I bought my wife an AppleTV for her birthday last summer. There *is* a Nest application for AppleTV, but ever since Nest enabled Google SSO for their logins, accounts using that login modality have been broken on tvOS (as well as some Android devices, from what I understand). I understand that login changes usually involve a lot of libraries and have significant security regression testing requirements, but I don't understand how a customer could be encouraged to change logins (one-way, mind you) 
